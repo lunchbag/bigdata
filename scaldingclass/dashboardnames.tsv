@@ -1,0 +1,4171 @@
+name	team_name
+Site Health	TCC
+keepalive on adw-03-sr4	Security
+Observe::Hummingbird::Prod	Runtime Systems
+Observability	Runtime Systems
+haplo afn	Platform Services
+@tc	Public
+10 C2100  Hadoops	Hardware Engineering & Delivery
+16 Failed Hadoops	Hardware Engineering & Delivery
+AAA	Hardware Engineering & Delivery
+AAA load for scale	Hardware Engineering & Delivery
+AAA NEW 	Hardware Engineering & Delivery
+AAA-03-sr1	Hardware Engineering & Delivery
+AAA-Rack	Hardware Engineering & Delivery
+AAA-Rack	Hardware Engineering & Delivery
+AAA-Rack	Hardware Engineering & Delivery
+AAB Rack 	Hardware Engineering & Delivery
+AAC rack health	Hardware Engineering & Delivery
+Abuse Daemon	Anti-Spam
+ABW-23-sr1	Hardware Engineering & Delivery
+ACC Rack	Hardware Engineering & Delivery
+ACC-07-sr1	Hardware Engineering & Delivery
+ACC-31-sr1	Hardware Engineering & Delivery
+ACT-27 DB Node	Hardware Engineering & Delivery
+act-950	Demand Services
+Activity	Platform Services
+Addressbook	Growth
+ADZ-03-sr1,2,3,4	Hardware Engineering & Delivery
+ADZ-35-sr1,2,3,4	Hardware Engineering & Delivery
+AFC-15-sr1	Hardware Engineering & Delivery
+AFU Rack	Hardware Engineering & Delivery
+AFU-13	Hardware Engineering & Delivery
+AFX Rack	Hardware Engineering & Delivery
+AFX-35-sr1	Hardware Engineering & Delivery
+AFY-130-SR1	Hardware Engineering & Delivery
+AFZ Rack	Hardware Engineering & Delivery
+AFZ-33-sr1	Hardware Engineering & Delivery
+AGC Rack	Hardware Engineering & Delivery
+AGH-23-sr1	Hardware Engineering & Delivery
+AGI	Datacenter
+AGL-19-sr1	Hardware Engineering & Delivery
+AGL-27-sr1	Hardware Engineering & Delivery
+AGL-35-sr1-CPUs	Hardware Engineering & Delivery
+AGM-1	Hardware Engineering & Delivery
+Amin's Dashboard	Demand Services
+Apache Internals	Operations Engineering
+awef	Content
+badgerboard	Runtime Systems
+Blender	Search
+Cassandra - Metastore New	Manhattan/Cassandra
+Colony	Runtime Systems
+dashboard: 26	Manhattan/Cassandra
+dashboard: 68	Hardware Engineering & Delivery
+Datta	Hardware Engineering & Delivery
+Demand Services	Demand Services
+DocDash	Documentation
+Dr Flock	Manhattan/Cassandra
+Flock	data services
+Fred Testing...	Operations Engineering
+Global Test	Manhattan/Cassandra
+Guano	Trust and Safety - Engineering
+Hadoop	Analytics
+Haplocheirus	Platform Services
+haplodebug	Runtime Systems
+Health_AAA rack	Hardware Engineering & Delivery
+image processing daemon	Platform Services
+Integration	Platform Services
+Internal Tools	Internal Tools
+Janky test 	Web
+jns_hadoop_monitor	Hardware Engineering & Delivery
+jvm.gc	Runtime Systems
+Lists	Platform Services
+MIGRATE::Addressbook	Growth
+Monorail Rockdove	Platform Services
+Nest disk space	Operations Engineering
+Observe::Cuckoo::Prod	Runtime Systems
+Nutcracker	Runtime Systems
+Observe::Colony::Prod	Runtime Systems
+Observe::Colony::Staging	Runtime Systems
+Observe::Hummingbird::staging	Runtime Systems
+Parrot - jw_test	Platform Services
+Parrot Preflight	Platform Services
+Parrot PVT	Platform Services
+Passbird Latencies	Platform Services
+Passbird Production	Platform Services
+patc	Runtime Systems
+Perftown	Web
+Photurkey Debug	Runtime Systems
+Photurkey Photobucket Client	Content
+PHX timings	Public
+Power query	Hardware Engineering & Delivery
+Trends Service	trends
+Rack CPU idle	Hardware Engineering & Delivery
+Rack current_PS	Hardware Engineering & Delivery
+Rack load	Hardware Engineering & Delivery
+Rack load1	Hardware Engineering & Delivery
+Rack Load15	Hardware Engineering & Delivery
+Rack Load5	Hardware Engineering & Delivery
+Rack Memory	Hardware Engineering & Delivery
+Rack Memory	Hardware Engineering & Delivery
+Rack Memoryfree	Hardware Engineering & Delivery
+Rack Memorytotal	Hardware Engineering & Delivery
+Rack Temperature	Public
+Rack Temperature	Hardware Engineering & Delivery
+Rack Temperature	Hardware Engineering & Delivery
+Rails Latencies	Platform Services
+Release - test	Public
+Scribe Aggregator	Analytics
+Scribe Canary	Analytics
+Search Quality Metrics	Search
+Search Updater	Search
+smf1-agk-09-sr1.prod.twitter.com	Analytics
+Spam reports	Anti-Spam
+SpiderDuck Debugging	Search
+squidpalette	Platform Services
+Stump	Manhattan/Cassandra
+Swiftlet/Comparative	Platform Services
+Swiftlet/Production	Platform Services
+TBAPI Twemcache	Manhattan/Cassandra
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+test dashboard 1	Public
+TEST::KB	Runtime Systems
+Testing Endpoint Aggregation	Platform Services
+Photurkey (smf1/production)	Platform Services
+testing viz_: Photurkey Fanned Out	Runtime Systems
+testkljkl	Runtime Systems
+teststor	Hardware Engineering & Delivery
+TFlock	Manhattan/Cassandra
+TFlock DB	Manhattan/Cassandra
+Timeline	Platform Services
+Payment	Revenue Eng & Product
+TS Image Processing	Trust and Safety - Engineering
+Tweet Button	Platform
+wanli_test	Public
+Telescope	Anti-Spam
+TelescopeStaging	Anti-Spam
+Koalabird	Runtime Systems
+Site Health Test	Operations Engineering
+Ads Auction Dashboard	Revenue Eng & Product
+Nagios	Operations Engineering
+hardware	Manhattan/Cassandra
+For presentation	Hardware Engineering & Delivery
+rgb_haplo	Runtime Systems
+spiderduck canary	Manhattan/Cassandra
+Cassowary Sarus	User Discovery & Personalization
+Cassowary Compute Forward	User Discovery & Personalization
+Cassowary Compute Reverse	User Discovery & Personalization
+Site Health Testing	Operations Engineering
+metastore canary	Manhattan/Cassandra
+ostrichagg	Runtime Systems
+Cassowary Service Main	User Discovery & Personalization
+Cassowary Service Misc	User Discovery & Personalization
+Cassowary PAc stats	User Discovery
+timelines in the monorail	Platform Services
+thrift in the monorail	Platform Services
+memcached in the monorail	Platform Services
+mysql in the monorail	Platform Services
+observe-411	Runtime Systems
+rate limiter in the monorail	Platform Services
+requests in the monorail	Platform Services
+home timeline in the monorail	Platform Services
+Tina's Debugging	Platform Services
+Travis Sandbox	Analytics
+Flock DB	Manhattan/Cassandra
+observe-414	Runtime Systems
+hadoop_mem_check	Hardware Engineering & Delivery
+hadoop	Runtime Systems
+flock in the monorail	Platform Services
+tbird in the monorail	Platform Services
+tflock in the monorail	Platform Services
+address_book in the monorail	Platform Services
+adserver_thrift in the monorail	Platform Services
+blender_service in the monorail	Platform Services
+colony in the monorail	Platform Services
+groups in the monorail	Platform Services
+haplocheirus in the monorail	Platform Services
+malware in the monorail	Platform Services
+metastore in the monorail	Platform Services
+pheasant_thrift in the monorail	Platform Services
+puffin in the monorail	Platform Services
+rockdove in the monorail	Platform Services
+snowflake in the monorail	Platform Services
+user_reputations_service in the monorail	Platform Services
+TFlock	data services
+hadoop test	Manhattan/Cassandra
+wtf in the monorail	Platform Services
+talon in the monorail	Platform Services
+scarecrow	Anti-Spam
+activity in the monorail	Platform Services
+Swiftlet Delete failures	Platform Services
+Hosebird Avail	Platform Services
+growth stats	Growth
+BB	Datacenter
+SMF1 TweetyPie	Platform Services
+Blocks	Platform Services
+Rao's Haplo Test	Runtime Systems
+photurkey in the monorail	Platform Services
+trends_client in the monorail	Platform Services
+activity memcached in the monorail	Platform Services
+counter memcached in the monorail	Platform Services
+fragment memcached in the monorail	Platform Services
+lookaside memcached in the monorail	Platform Services
+magic memcached in the monorail	Platform Services
+object memcached in the monorail	Platform Services
+page memcached in the monorail	Platform Services
+rate memcached in the monorail	Platform Services
+trends memcached in the monorail	Platform Services
+united memcached in the monorail	Platform Services
+user memcached in the monorail	Platform Services
+timelineservice in the monorail	Platform Services
+timeline rendering in the monorail	Platform Services
+DaemonSlayer Daemons	Platform Services
+Rainbird Aggregator	Platform Services
+upload cluster in the monorail	SRE
+Haplocheirus Misc	Platform Services
+check_key_metrics	Build & Release
+Agent Tools	Trust and Safety - Engineering
+Scribe	Public
+Scribe Overload (slow)	Public
+Scribe Revenue	Public
+Dev	Demand Services
+tbird queries in the monorail	Platform Services
+Scribe SpiderDuck	Public
+Scribe (testing changes, ignore)	Public
+audubon.role.dedicated-ratelimit-cache	Runtime Systems
+audubon.role.misc-small-cache	Runtime Systems
+audubon.role.misc-cache	Public
+audubon.role.misc-cache3	Runtime Systems
+Platform Metrics 	Demand Services
+agn-13 ags-33	Datacenter
+Direct Message Load	Platform Services
+home timeline in the monorail	Platform Services
+home timeline in the monorail	Demand Services
+connections	Platform Services
+Gizmoduck User Cache	Platform Services
+Phase 1 Canary	Operations Engineering
+TFE Test Viz	Network Engineering
+Scribe Backtype	Public
+chickadee	Runtime Systems
+Cassowary Service Main	Public
+Cassowary Service Main	Public
+Cassowary Databases	User Discovery
+Cassowary DB Write Stats	User Discovery
+Cassowary DB Read Stats	User Discovery
+Cassowary Stats Per Algorithm (0-20)	User Discovery
+Cassowary Stats Per Algorithm (21-40)	User Discovery
+Scribe Twitterweb	Public
+Cassandra - addressbook-cassandra	Manhattan/Cassandra
+Cassandra - inference-cassandra	Manhattan/Cassandra
+Cassandra - rainbird-cassandra	Manhattan/Cassandra
+Thumbingbird	Platform services
+Cassowary Fetcher Stats	User Discovery
+audubon.role.activity.cache	Runtime Systems
+Hosts per SLB	Build & Release
+Power	Datacenter
+rao timeline canary	Runtime Systems
+audubon.role.ads-memcache	Runtime Systems
+audubon.role.appsrvc.cache	Runtime Systems
+audubon.role.timeline-cache	Runtime Systems
+Story Service	Trends
+Workload (aka Internet Numbo-Tron 3000)	Hardware Eng & Demand Svcs
+FZ Test	Runtime Systems
+haplocheirus - main	Platform Services
+twemcache::ads.11221	Revenue Eng & Product
+twemcache::ads.11222	Revenue Eng & Product
+SMF1 TweetyPie Staging	Platform Services
+haplo misc - redis	Platform Services
+haplo main - redis	Platform Services
+haplocheirus - misc	Platform Services
+Twitterweb MonorailExceptions	Demand Services
+Rainbird Query Service	Platform Services
+Cache	Demand Services
+Parrot_loadtest	Runtime Systems
+Search Assistance	Search
+haplocheirus - main	Platform Services
+memcache_test	Platform Services
+Template	Runtime Systems
+darkwing	Data Services
+SMF1 TweetyPie Canary	Platform Services
+TypeAheadForGrowth	User Discovery
+audubon.role.misc.cache4	Runtime Systems
+Sam's Dashboard	Platform Services
+SMS/Push Twemcache Pool	Mobile
+Gizmoduck - Monorail Integration	Core Services
+top-line (formerly tweet_write_path)	TCC
+Observe::Cuckoo::Node	Runtime Systems
+Observe Template	Hardware Engineering & Delivery
+timelineservice debug	Runtime Systems
+Vex Memory Bandwidth	Runtime Systems
+arya debugging	Platform Services
+Budgie	Platform Services
+d_mobile_500s	TCC
+TestFlockCpu	Build & Release
+zookeeper ensemble role:configuration	Coordination
+twemcache::ads.no.evict	Revenue Eng & Product
+Beetle Power	Hardware Engineering & Delivery
+usersearch	User Discovery
+Parag's Spend Hack	Revenue Eng & Product
+Discovery, Internal Search & Facets	Platform Services
+observe-790	Runtime Systems
+Core Services	Build & Release
+templatation	Platform Services
+templatation	Platform Services
+TFE Site Health	TCC
+d_TFE_Status_Response	TCC
+Request Latencies	Build & Release
+Mobile JP	Mobile
+Bananaquit FE	growth
+Cassandra - cuckoo-cassandra	Manhattan/Cassandra
+Mobile Web	Mobile
+self-unsuspend	Anti-Spam
+Incoming SMS	Mobile-Messaging
+Thrift Latencies	Build & Release
+Timeline Cache	Demand Services
+Memcache Misses	Build & Release
+Time to first tweet (home page)	Web
+Woodstar (Staging)	API Core
+Woodstar (Employee Release)	Platform Services
+Woodstar (Production)	API Core
+Spend Kestrel	Revenue Eng & Product
+Time to first tweet (home page, slow)	Web
+dbs test	Manhattan/Cassandra
+timeline health	Platform Services
+Direct Message Votes	Platform Services
+Europe TTFT	Web
+uk os test	Web
+Counts	Build & Release
+SMF1 - Spend Server (ads.spendserver-staging)	Revenue Eng & Product
+Postfix	Operations Engineering
+SMF1 - Spend Server (ads.spendserver)	Revenue Eng & Product
+Mobile Web Kernel Canary	Mobile
+phishy_blank_unicode_tweets	Security
+Decompounder	Revenue Eng & Product
+Cassandra - cassandra.prod.backtype	Manhattan/Cassandra
+Cassandra - cassandra.prod.geo	Manhattan/Cassandra
+Stephan Test	Platform Services
+mysql overview	DBA
+T1 Mobile Unlock	Platform Services
+Budget Throttling	Revenue Eng & Product
+Cassowary Unsuitable Users Memcache	User Discovery
+TESTTEST	Public
+Gizmoduck Staging Load Test	Core Services
+Gizzard RVP	Search
+Read Path CPU	Demand Services
+Social Graph	Demand Services
+Woodstar (Canary)	API Core
+Latency and RPS	Platform Services
+Outbound Bandwidth	Build & Release
+cache evictions	TCC
+Tweet Embed Metrics	Platform
+mysql connections	DBA
+mysql queries	DBA
+mysql replication	DBA
+mysql innodb logs	DBA
+mysql innodb rows	DBA
+mysql innodb pages	DBA
+mysql storage	DBA
+mysql network	DBA
+mysql cpu	DBA
+Dropped Packets	Build & Release
+Bits Per Second Sent	Build & Release
+Hosebird Cache	Anti-Spam
+spiderduck in the monorail	Platform Services
+spiderduck in the monorail	Platform Services
+mysql transactions	DBA
+Rockdove	Platform Services
+TTC	International Engineering
+Database Queries	Build & Release
+Gizmoduck/Darkwing/Monorail Migration Dashboard	Core Services
+Cassandra - cassandra.prod.bigbrotherbird	Manhattan/Cassandra
+Preflight	Build & Release
+User Reputation Table Builder - SFM1	Search
+Ingester	Search
+TPS	Analytics
+Queue Sizes	Build & Release
+RPS	Demand Services
+Mobile Web Canary Stats	Mobile
+Cassowary Memcached	User Discovery
+Adserver ThriftStore	Revenue Eng & Product
+Observe::Cost	Runtime Systems
+Cassowary Compute Memcached	User Discovery
+Hot Hadoops	Hardware Engineering & Delivery
+Cassandra - cassandra.prod.unallocated	Manhattan/Cassandra
+Network Stories Blender Workflow	Trends
+Passbird Canary	Platform Services
+test	Demand Services
+Sniper firehose partitioner	Anti-Spam
+Sniper processor	Anti-Spam
+Scribe by Category (agg)	SRE
+Twitterweb Capacity Calc	Demand Services
+super fluffy bunnies	Runtime Systems
+Test Rack	Hardware Engineering & Delivery
+Woodstar (Viz Test)	API Core
+Caps Lock On Password	Security
+Ad impressions	Revenue Eng & Product
+Profiles	Platform Services
+photurkey_vitals	Platform Services
+Observe::Cuckoo::Staging	Runtime Systems
+Passbird Staging	Platform Services
+User Typeahead	Search
+Scribe-Loadtest Dashboard	Operations Engineering
+easyviz test	Runtime Systems
+Cassandra - cassandra.devel.blobstore	Manhattan/Cassandra
+Cassandra - cassandra.prod.chubbysnipe	Manhattan/Cassandra
+Cassandra - cassandra.prod.tweetbutton	Manhattan/Cassandra
+TPS Everywhere	TCC
+Cassandra - cassandra-console	Manhattan/Cassandra
+Cassandra - cassandra.prod.reserve	Manhattan/Cassandra
+Peacock	Revenue Eng & Product
+Scribe Adserver	Operations Engineering
+Cassowary Test Page	User Discovery
+Cassowary Test Page	User Discovery
+Cassowary Test Page	User Discovery
+Cassowary Test Page	User Discovery
+Ads General Memcache Pool	Revenue Eng & Product
+Cassowary Service Main	User Discovery & Personalization
+Rufous	Platform services
+Cassowary Sarus	User Discovery & Personalization
+Cassowary Compute Forward	User Discovery & Personalization
+Cassowary Compute Reverse	User Discovery & Personalization
+Cassandra - cassandra.prod.maverick	Manhattan/Cassandra
+Cassandra - cassandra.prod.sniper	Manhattan/Cassandra
+Cassowary Service Main	User Discovery & Personalization
+Tweet Ecosystem	Platform Services
+Cassowary db slave	User Discovery & Personalization
+Birdherd - High Latency	Platform Services
+service success rate	Platform Services
+RX Drops (samya)	Runtime Systems
+test1	Runtime Systems
+Observe::Koalabird::Staging	Runtime Systems
+Observe::Koalabird::Prod	Runtime Systems
+Feature Server Memcache Pool	Revenue Eng & Product
+David Test	Platform Services
+finagle-performance	Runtime Systems
+test kernel update	Operations Engineering
+jay-test1	TCC
+Cassowary PAc stats	User Discovery & Personalization
+Cassowary db master	User Discovery & Personalization
+Cassandra - cassandra.prod.tweetdeck	Manhattan/Cassandra
+Cassandra - cassandra.prod.boomer	Manhattan/Cassandra
+Cassandra - cassandra.prod.spiderduck	Manhattan/Cassandra
+kernel_canary	Build & Release
+kernel_canary	Build & Release
+Bytes per request	Platform Services
+SMS/Push Scribe	Mobile
+Observe::Reads	Runtime Systems
+release-display	Build & Release
+User Health	Core Services
+twitter-daemons	Platform Services
+Gizzard Capacity	Hardware Eng & Demand Svcs
+Adserver in Monorail	Revenue Eng & Product
+ Kernel Canary Twitterwebs	Runtime Systems
+backtype.kestrel	Revenue Eng & Product
+metrics	TCC
+Strategic_metrics_tcc	TCC
+dm-poll	Web
+Mobile Impressions & Engagements	Revenue Eng & Product
+backtype.elephantdb	Revenue Eng & Product
+backtype	Revenue Eng & Product
+Manhattan - cassandra.prod.manhattan-test	Manhattan/Cassandra
+Kernel version	operations engineering
+api.twitter.com	Demand Services
+Manhattan - manhattan.prod.frontend	Manhattan/Cassandra
+SMF1 TweetyPie GC	Platform Services
+Revenue Traffic Quality	Revenue Eng & Product
+Site Traffic	Hardware Eng & Demand Svcs
+Spiderduck Notification Reader	Anti-Spam
+Manhattan - manhattan.prod.starbuck old	Manhattan/Cassandra
+SMF1 TweetyPie Staging Backend	Platform Services
+Memory Leak Tracking	Trends
+Cassandra - cassandra.prod.blobstore	Manhattan/Cassandra
+Cassandra - cassandra.prod.imageproxy	Manhattan/Cassandra
+SMF1 TweetyPie Staging GC	Platform Services
+SMF1 TweetyPie Backend	Platform Services
+SMF1 TweetyPie Canary Backend	Platform Services
+SMF1 TweetyPie Canary GC	Platform Services
+Site Traffic 2 - Work In Progress	Demand Services
+self-unsuspend-test	Public
+rc - Talon DB reads writes	TCC
+Password Reset	Security
+swift-discover	Web
+Cassowary Service Misc	User Discovery & Personalization
+Rainbird Integrity Checker	Platform Services
+SMF1 TweetyPie Staging Clients	Platform Services
+SMF1 TweetyPie Clients	Platform Services
+SMF1 TweetyPie Canary Clients	Platform Services
+TFE sums	TCC
+misc-small-cache-wtf?	TCC
+Cassowary Service Main	User Discovery & Personalization
+Crash::mycaw	Runtime Systems
+Crash::mccv_macaw	Platform Services
+Crash::capotej_macaw	Platform Services
+Crash::rao_macaw	Runtime Systems
+Crash::gregc_macaw	Runtime Systems
+Manhattan - manhattan.prod.athena	Manhattan/Cassandra
+haplo trouble shooting atla-aby-08-sr4	Platform Services
+Hadoop - EXP cluster	Manhattan/Cassandra
+Hadoop - EXP cluster overview	Manhattan/Cassandra
+Hadoop - DW cluster overview	Core storage & database engineering
+Cassandra - cassandra.prod.playground	Manhattan/Cassandra
+discover swift	Web
+Swoop Performance	Build & Release
+success rate	Demand Services
+Mesos ZooKeeper	Runtime Systems
+oxpecker	Manhattan/Cassandra
+Haplo3 Kernel Upgrade	Platform Services
+Haplo1 Kernel Upgrade	Platform Services
+CPU Util	Hardware Engineering & Delivery
+CPU Utilization	Runtime Systems
+rc - Success rate playground	TCC
+TCC Internal Services	TCC
+Thrift Exceptions	Build & Release
+marius' fake dashboard	Runtime Systems
+Hadoop - HBase DW cluster overview	Core storage & database engineering
+tcc-jptest	TCC
+SMF1 TweetyPie Staging Canary	Platform Services
+SMF1 TweetyPie Staging Canary Backend	Platform Services
+SMF1 TweetyPie Staging Canary GC	Platform Services
+SMF1 TweetyPie Staging Canary Clients	Platform Services
+Trends Staging Backend	Trends
+Mobile Web Signups	Mobile
+TSEng Top Lines	Trust and Safety - Engineering
+Adserver db synchronization	Revenue Eng & Product
+Manhattan - manhattan.prod.adama	Manhattan/Cassandra
+Roac	Anti-Spam
+photukey delays	TCC
+Queue Ages	Build & Release
+Selvin's dashboard	Runtime Systems
+Cassandra - cassandra.prod.cuckoo-keytracker	Manhattan/Cassandra
+Cassandra - cassandra.prod.cuckoo-minutely	Manhattan/Cassandra
+Jeff Sarnat's Dashboards	Platform Services
+Core Services	Hardware Eng & Demand Svcs
+Weekly Success Metrics	TCC
+rc -Overall Success rate 	TCC
+Tweetypie Memcache oddness	TCC
+Tweet Extensions	Platform Services
+Kujaku (Staging - SMF1)	Eng - international
+friendship_api_authenticity_failures	Security
+Gizmoduck Production Stooges	Core Services
+Cache/appsrvc.cache/Health	Runtime systems
+Cassowary DB Master	User Discovery & Personalization
+dw-worker	Runtime Systems
+Search QPS	Demand Services
+tfe swift latencies	Web
+Hummingbird::Vex.Collection.ShardCapacity	Runtime Systems
+Ads Realtime Daemon	Revenue Eng & Product
+image upload success	TCC
+misc-cache3 health	Revenue Eng & Product
+Tweetbutton Macaw Canary	Platform Services
+Image Proxy Thrift	Platform Services
+Image Proxy HTTP	Platform Services
+Hadoop - Backups cluster overview	Manhattan/Cassandra
+SMF1 TweetyPie Traffic Profile	Platform Services
+Hadoop - RT cluster overview	Manhattan/Cassandra
+Hadoop - Test cluster overview	Core storage & database engineering
+Website Analytics	Revenue Eng & Product
+quick test dashboard	Anti-Spam
+David's Template Test	Runtime Systems
+Temporary Macaw-Swift	Application Services
+Don	Manhattan/Cassandra
+TweetDeck Daemon	Mobile
+jlkjl	Runtime Systems
+mesos smf1 service proxy	Runtime Systems
+MTA	Operations Engineering
+Events	Search
+SMF1 TweetyPie Staging Traffic Profile	Platform Services
+rc-tflock mysql process data	TCC
+Macaw-Swift (Viz Test)	Platform Services
+Macaw-Swift (Production)	Platform Services
+Macaw-Swift (Canary)	Platform Services
+latency_mon	TCC
+Blobstore - (devel) manager	Core Storage & Database Engineering
+hosebird-kestrel	Platform Services
+Monorail Latency Showdown	Platform Services
+network template	Runtime Systems
+SMF1 TweetyPie Canary Traffic Profile	Platform Services
+rc-twitterweb_api_503	TCC
+Search Capacity	Demand Services
+SMF1 TweetyPie Staging Canary Traffic Profile	Platform Services
+misc-small-cache health	Runtime Systems
+Monorail Success Rate Showdown	Platform Services
+Cassandra - cassandra.prod.addressbook	Manhattan/Cassandra
+Cassandra - cassandra.prod.syndication	Manhattan/Cassandra
+Promptbird Canary	Eng - Activation & Messaging
+Blobstore - (devel) storagenode	Core Storage & Database Engineering
+Blobstore - (prod) storagenode	Core Storage & Database Engineering
+Observability::Ostrichagg.FinagleMetrics	Runtime Systems
+Lookaside cache hitrates	Platform Services
+zookeeper cluster monitor	Operations Engineering
+Macaw Typeahead (staging)	macaw-search-team
+Observability::template.jvm	Runtime Systems
+Hadoop - HBase TST cluster overview	Core storage & database engineering
+Blobstore - (prod) manager	Core Storage & Database Engineering
+Blobstore - (prod) metadata	Core Storage & Database Engineering
+Cassandra - cassandra.prod.dev1	Manhattan/Cassandra
+tcc-zookeeper	TCC
+darkwing-exporter	Data Services
+search_deploy_error_monitoring	Demand Services
+Data Services - Success Rate	Runtime Systems
+byan test	Demand Services
+Log Pipeline Overview	Analytics
+rc-incident diagnositic (Work in progress)	TCC
+Macaw Typeahead (canary)	macaw-search-team
+stddev_memory_debugging	Demand Services
+Blobstore - (prod) tfe	Core storage & Database engineering
+Cassandra - cassandra.prod.chubbysnipe-lastlogin	Manhattan/Cassandra
+Cassandra - cassandra.prod.stolen	Manhattan/Cassandra
+Macaw-Typeahead (Viz Test)	Platform Services
+Expert Search Shard	Search
+photurkey_upload_debugging	Demand Services
+TBird	Data Services
+Blobstore - mesos-nonprod	Manhattan/Cassandra
+Mobile Web Test Maxb	Mobile
+Blobstore - (devel) tfe	Core storage & Database engineering
+Trends Backend	Trends
+zookeeper ensemble role:szklowsla	SRE
+Monorail Default Route Use	Security
+Blobstore - (prod) kestrel	Core Storage & Database Engineering
+Query Rewriting	Search
+Unified Cache Dashboard	Hardware Eng & Demand Svcs
+TFE CPU	Hardware Eng & Demand Svcs
+gmac	Operations Engineering
+Rack ASC load	Datacenter
+Trends CTR	Trends
+test-ck	Network Engineering
+Cards (In-Tweet Media)	Platform Services
+Blobstore - (devel) metadata	Core Storage & Database Engineering
+storybird	Discovery
+Promptbird Production	Eng - Activation & Messaging
+Core App Services - SMF	Platform Services
+Hummingbird::High.Collection.Time	Runtime Systems
+Chris Test Utilization	Runtime Systems
+Cassandra - cassandra.prod.dev2	Manhattan/Cassandra
+Woodstar (Staging Tap)	Platform Services
+Top Stories Topology	Discovery
+audubon.role.cache.search.smf1	Runtime Systems
+audubon.role.ads.cache.smf1	Runtime Systems
+audubon.role.limiter.cache.smf1	Runtime Systems
+audubon.role.misc-cache.smf1	Runtime Systems
+Hummingbird::Kestrel2 timeouts	Runtime Systems
+Penguin as a Service (Staging - SMF1)	Eng - international
+Cassowary Twemcache	User Discovery & Personalization
+Manhattan - manhattan.prod.revenue	Manhattan/Cassandra
+Penguin as a Service (Production - SMF1)	Eng - international
+spiderduck data read rollout	Manhattan/Cassandra
+spiderduck data read and gc rollout	Core storage & database engineering
+Traffic Report	Platform Services
+Cassowary Service	Personalization and recommender systems
+Cassowary Service Total	User Discovery & Personalization
+parrot template	Platform Services - Developer Productivity
+Spend Aggregator (Prod 2)	Revenue Eng & Product
+Spend Aggregator (Production)	Revenue Eng & Product
+Monorail Request Count Showdown	Platform Services
+Thrift Service Proxy Monorail	Platform Services
+Twitterweb Compare (smf1-alq-38-sr1)	Platform Services
+Hummingbird::Sample Size	Runtime Systems
+app-app utilization	Infrastructure Automation
+appapp	Infrastructure Automation
+TwitterWeb Swift Thresholds	Hardware Eng & Demand Svcs
+twitter-daemons in the monorail	Platform Services
+Contact Fetch Daemon	Growth
+Gizmoduck/Darkwing User Repair	Core Services
+fernet_dev	Runtime Systems
+Promptbird Staging 1	Prod - Growth
+Promptbird Staging 2	Prod - Growth
+Newt Production	Prod - Growth
+Core App Services - testing	Platform Services
+Brand Surveys	Revenue Eng & Product
+Brand Surveys	Revenue Eng & Product
+Graph Service	Runtime Systems
+Expert Search Broker	Search
+Hadoop - PROC cluster overview	Core storage & database engineering
+MinHash monitoring	Trends
+Static-Sites	Gazebo
+Observe::Zipkin::Prod	Runtime Systems
+testing new	Runtime Systems
+Hummingbird::Twitterweb::Collection	Runtime Systems
+Site Capacity Headroom	Hardware Eng & Demand Svcs
+Trends Experiment	Trends
+Trends Experiment	Trends
+Gazebo	Gazebo
+timelineservice testing	Platform Services
+timelineservice testing in the monorail	Platform Services
+Cassowary Sarus	User Discovery & Personalization
+Cassowary Sarus Total	User Discovery & Personalization
+Syndication	Platform Services
+Haplo-V2 test	Platform Services
+Search Top Level Metrics	Search
+Promptbird Custom Host	Growth
+Puppetserver Metrics	Infrastructure Production Services
+web.tweetdeck_http_requests	Security
+Trends Staging Service	Trends
+Twitterweb Capacity and Performance	Demand Services
+ads.admixer metrics	Revenue Eng & Product
+Platform Services Memcache Dashboard	Platform Services
+Swift	Web
+Latencies: Request (new)	Build & Release
+Latencies: Thrift (new)	Build & Release
+Other Latencies (new)	SRE
+Diff #1 Twitterweb Canary	Hardware Eng & Demand Svcs
+Hummingbird::Collection drilldown	Runtime Systems
+Diff #2 Twitterweb Canary	Hardware Eng & Demand Svcs
+Diff #3 Twitterweb Canary	Hardware Eng & Demand Svcs
+Diff #4 Twitterweb Canary	Hardware Eng & Demand Svcs
+Promptbird Custom Host	Growth
+Vertica	Analytics
+Profiles	Platform Services
+Malware Capacity	Hardware Eng & Demand Svcs
+Scarecrow Capacity	Hardware Eng & Demand Svcs
+Tiered actions	Anti-Spam
+Cassowary v2	User Discovery & Personalization
+Mail MTA Capacity	Hardware Eng & Demand Svcs
+Promptbird Custom Host	Growth
+AlexTest - cuckoo_frontend	Runtime Systems
+Puppetmaster Metrics	SRE
+SMF1 TweetyPie Write	Platform Services
+Cassandra - cassandra.devel.blobstore	Manhattan/Cassandra
+Cassandra - cassandra.prod.chubbysnipe	Manhattan/Cassandra
+Cassandra - cassandra.prod.imageproxy-cache	Manhattan/Cassandra
+Cassandra - cassandra.prod.playground	Manhattan/Cassandra
+Cassandra - cassandra.prod.syndication	Manhattan/Cassandra
+Cassandra - cassandra.prod.tweetbutton	Manhattan/Cassandra
+Cassandra - cuckoo-cassandra	Manhattan/Cassandra
+Manhattan - manhattan.prod.athena	Manhattan/Cassandra
+Service Efficiency  	Hardware Eng & Demand Svcs
+Bryce's Test #1: Capacity Overhead	Hardware Eng & Demand Svcs
+thrift in the monorail	Platform Services
+haplo misc	Platform Services
+Scoop	Platform Services
+Vertica Single Node	Analytics
+Sandeep's updated Play Around Dashboard	Hardware Eng & Demand Svcs
+All Cassandra Cluster Dashboard	Manhattan/Cassandra
+All Cassandra Cluster CPU Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Live Size Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Free Disk Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Request Rate Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Write Latency Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Read Latency Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Disk Util(%) Dashboard	Manhattan/Cassandra
+All Cassandra Cluster Heap Util(%) Dashboard	Manhattan/Cassandra
+Test-Toby	Runtime Systems
+aurora-smf1-test	Aurora
+aurora-smf1	Aurora
+Promptbird Custom Host	Prod - Growth
+Swift Search	Web
+Apollo FrontEnd Power CPU	Hardware Eng + Demand Svcs
+Beetle Frontend Power CPU	Hardware Eng + Demand Svcs
+Bryce's Test Dashboard for upload	Hardware Eng & Demand Svcs
+Help Center : Password Reset	User Services - Engineering
+gds_edges in the monorail	Platform Services
+chubby_snipe in the monorail	Platform Services
+darkwing_snowflake in the monorail	Platform Services
+expert_search_service in the monorail	Platform Services
+gizmoduck_read in the monorail	Platform Services
+gizmoduck_write in the monorail	Platform Services
+guano in the monorail	Platform Services
+haplo in the monorail	Platform Services
+ibis in the monorail	Platform Services
+listsplus_thrift in the monorail	Platform Services
+newt in the monorail	Platform Services
+optometrist in the monorail	Platform Services
+promptbird in the monorail	Platform Services
+promptbird_thrift in the monorail	Platform Services
+spam_signal in the monorail	Platform Services
+syndication in the monorail	Platform Services
+tbird_client in the monorail	Platform Services
+thumbingbird in the monorail	Platform Services
+topic_timeline_service in the monorail	Platform Services
+tweety_pie in the monorail	Platform Services
+tweetypie_client in the monorail	Platform Services
+twitter in the monorail	Platform Services
+Quay	Manhattan/Cassandra
+Newt Staging	Prod - Growth
+authenticity_token_failures	Security
+Promptbird Custom Host	Prod - Growth
+Promptbird Custom Host	Prod - Growth
+Promptbird Custom Host	Prod - Growth
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+Promptbird Custom Host	Prod - Growth
+Passbird New Memcache	Platform Services
+Cuckoo Capacity	Hardware Eng & Demand Svcs
+TweetyPie Staging Direct Messages	Platform Services
+zookeeper ensemble role:storm.zookeeper	Streaming Compute
+New Dashboard	Mobile
+haplo main	Platform Services
+Mesos (smf1-test)	Runtime Systems
+Mesos (smf1-multi)	Runtime Systems
+Mesos (smf1-prod)	Runtime Systems
+Twitterweb Compare (smf1-aeb-19-sr3)	Platform Services
+Twitterweb Compare (smf1-aks-14-sr1)	Platform Services
+hosebird-canary	Platform Services
+fernet_prod	Runtime Systems
+Friendship Audits	Platform Services
+DMBird	data services
+SMF1 TweetyPie Staging Canary Replication	Platform Services
+ads.adserver load test metrics comparison	Revenue Eng & Product
+Monorail Workload Showdown	Platform Services
+Manhattan Backup Cluster Overview	Manhattan/Cassandra
+iOS	Mobile
+New Dashboard	Manhattan/Cassandra
+Mail MTA Capacity2	Hardware Eng & Demand Svcs
+Malware Capacity 2	Hardware Eng & Demand Svcs
+Scarecrow Capacity 2	Hardware Eng & Demand Svcs
+Service Efficiency2	Hardware Eng & Demand Svcs
+Native App	Platform Services
+Twitterweb CPU	Hardware Eng & Demand Svcs
+Twitterweb Swift Thresholds2	Hardware Eng & Demand Svcs
+Tflock DB	Hardware Eng & Demand Svcs
+DMStore	Platform Services
+Cassandra - cassandra.prod.rainbird	Manhattan/Cassandra
+Cassandra - cassandra.prod.tweetdeck-new	Manhattan/Cassandra
+Manhattan - manhattan.prod.unallocate-m	Manhattan/Cassandra
+TweetyPie Verifier	Platform Services
+tp_test	platform services
+Twitterweb IRQ Affinity Test	Platform Services
+Budgie Staging	Platform Services
+Rainbird Aggregator (Staging)	Platform Services
+New Dashboard	Runtime Systems
+New Dashboard	Mobile
+Rainbird Peacock	Revenue Eng & Product
+Advertiser API	Revenue Eng & Product
+ads.adserver load test stats template	Revenue Eng & Product
+Promptbird Custom Host	Prod - Growth
+SMF1 TweetyPie Canary Replication	Platform Services
+SMF1 TweetyPie Replication	Platform Services
+SMF1 TweetyPie Staging Replication	Platform Services
+Reach Estimator	Revenue Eng & Product
+Geoduck Geohasher Loadtest	Platform Services
+Twitterweb Compare (smf1-aep-07-sr2)	Platform Services
+Observe::Hummingbird::staging::scribe	Runtime Systems
+Mesos Utilization Test 1	Aurora
+Image Dedupe	Search
+Apollo Unicorn Count Test	Platform Services
+Vertica Cluster	Analytics
+Yann's Test Dash	Runtime Systems
+Twitterweb Compare (smf1-aem-23-sr4)	Platform Services
+Gizmoduck Twemcache Staging	Core Services
+SMF1 TweetyPie Canary Write	Platform Services
+SMF1 TweetyPie Staging Write	Platform Services
+SMF1 TweetyPie Staging Canary Write	Platform Services
+TweetyPie Staging Write	Platform Services
+DW - Network - Overview	core-storage-team
+TweetyPie From Frontends	Platform Services
+TweetyPie Frontend	Platform Services
+Expert Search Jit	Search
+Workload 2(aka Internet Numbo-Tron 3000)	Hardware Eng & Demand Svcs
+DW NN Random	Manhattan/Cassandra
+Passbird Integration	Platform Services
+User Typeahead Canary	Search
+Cassandra - cassandra.prod.cuckoo-minutely-kv	Manhattan/Cassandra
+Android	Mobile
+New Dashboard	Infrastructure Production Services
+Spam: Block sources	Anti-Spam
+Expandodo Server (Production - SMF1)	Cards
+Top Stories Topology (EasyViz Test)	Discovery
+Parus	Search
+d2	Manhattan/Cassandra
+Photurkey (smf1/canary)	Platform Services
+Blobstore	Hardware Eng & Demand Svcs
+SMF1 TweetyPie Non-Live Prod	Platform Services
+SMF1 TweetyPie Non-Live Prod Backend	Platform Services
+SMF1 TweetyPie Non-Live Prod Write	Platform Services
+SMF1 TweetyPie Non-Live Prod GC	Platform Services
+SMF1 TweetyPie Non-Live Prod Clients	Platform Services
+SMF1 TweetyPie Non-Live Prod Traffic Profile	Platform Services
+SMF1 TweetyPie Non-Live Prod Replication	Platform Services
+Upload CPU	Hardware Eng & Demand Svcs
+ads.config deploy canary comparision	Revenue Eng & Product
+Universal Search Features	Search
+Promptbird Custom Host	Prod - Growth
+Promptbird Custom Host	Prod - Growth
+TFlock Transform	DBA
+Help Center	User Services - Engineering
+Help Center : Contact Forms	User Services - Engineering
+Help Center : Tickets	User Services - Engineering
+Help Center : System	User Services - Engineering
+Mesos Use Case #1	Aurora
+Help Center : Erasures	User Services - Engineering
+Macaw-Promptbird (Viz Test)	Prod - Growth
+Macaw-Promptbird (Production)	Prod - Growth
+Macaw-Promptbird (Staging)	Prod - Growth
+Twitterweb Errors by Platform	TCC
+Topic Typeahead	Search
+Billing Team Peacock Dashboard	Revenue Eng & Product
+Total CSP Reports	PS - Applications Security
+Promptbird Realtime Analytics	Prod - Growth
+Promptbird Custom Host	Prod - Growth
+Zookeeper Ensemble role:szookeeper	SRE
+Rainbird Loadbalancer	Platform Services
+ads.adshard metrics	Revenue Eng & Product
+Vertica Sandbox	Analytics
+ov_mesos_util	Hardware Eng & Demand Svcs
+Contact Import Daemon	Eng - Activation & Messaging
+Blah::Observe::Colony::Prod	Runtime Systems
+Macaw-Conversation (Viz Test)	Platform Services
+TBird Transform	DBA
+Flock Transform	DBA
+Macaw-Conversation (Production)	Platform Services
+Macaw-Conversation (Staging)	Platform Services
+Twitterweb Compare (smf1-aaw-35-sr4)	Platform Services
+SocialGraph Production (SMF1)	Platform Services
+SocialGraph Production Canary (SMF1)	Platform Services
+SocialGraph Staging (SMF1)	Platform Services
+Observe::Cuckoo::TFE	Runtime Systems
+Twitterweb Compare (smf1-ajn-15-sr2)	Platform Services
+Dashboard for topology id swstorm-cuckoo-example-27-1353399602	Runtime Systems
+SocialGraph Loadtest	Platform Services
+Cassandra - cassandra.devel.cuckoo-keytracker	Manhattan/Cassandra
+Cassandra - cassandra.prod.search	Manhattan/Cassandra
+TweetDeck Daemon (Staging)	Mobile
+TweetDeck clients	Mobile
+Observe::DeployTracker::Prod	Runtime Systems
+smf1-ajq-09-sr1	Runtime Systems
+Cassowary Service Per Source	Personalization and recommender systems
+Twitterweb Compare (smf1-ajq-09-sr1)	Platform Services
+New Dashboard	Mobile
+Push Destinations API	Mobile
+Facebook App	Eng - Growth
+Crawlers Only Restriction	Eng - Growth
+Twitterweb Compare (smf1-abc-15-sr2)	Platform Services
+Topic Typeahead Canary	Search
+Kujaku (Production - SMF1)	Eng - international
+HEIST	Revenue Eng & Product
+dwmem	Manhattan/Cassandra
+backtype.kafka	Revenue Eng & Product
+Topic Typeahead Staging	Search
+haplocheirus - main	Platform Services
+macaw-discover	Discovery
+macaw-discover (Canary)	Discovery
+macaw-discover (Staging)	Discovery
+Invitebird Production	growth-team
+Gimlet Overview	Analytics Infrastructure
+Data Services Dashboard	Data Services
+New Dashboard	Mobile
+Jer Dashboard	Mobile
+Dashboard for topology id swstorm-cuckoo-example-27-1353399602	Runtime Systems
+Storm Capacity Cluster	Runtime Systems
+exxtra-events	Relevance
+observe-hummingbird-scribe	Runtime Systems
+macaw-relevance (Viz Test)	Relevance
+macaw-relevance (Production)	Relevance
+macaw-relevance (Canary)	Relevance
+macaw-relevance (Staging)	Relevance
+Macaw-Activity (Viz Test)	Platform Services
+Macaw-Activity (Production)	Platform Services
+Macaw-Activity (Staging)	Platform Services
+Universal Workflow	Search
+Trends Hosebird Consumption	Trends
+Parus Memcached Eviction	Search
+Tina's Dashboard	Platform Services
+Twitterweb Compare (smf1-amw-37-sr1)	Platform Services
+Twitterweb Compare (smf1-amw-37-sr1)	Platform Services
+Twitterweb Compare (smf1-amw-37-sr1)	Platform Services
+lunchbag's derpy dashboard	Runtime Systems
+Trends Backend Profiling	Trends
+DW Platform Memory Comparisons by Platform	Manhattan/Cassandra
+New Dashboard	Mobile
+Swift Discover	Web
+Cassandra - cassandra.prod.cuckoo-minutely-test	Manhattan/Cassandra
+Cassandra - cassandra.prod.prov-d	Manhattan/Cassandra
+Cassandra - cassandra.prod.spam	Manhattan/Cassandra
+Cassandra - cassandra.prod.spare	Manhattan/Cassandra
+MDC Percent Offload	Hardware Eng & Demand Svcs
+counter_multipass memcached in the monorail	Platform Services
+magic_multipass memcached in the monorail	Platform Services
+page_multipass memcached in the monorail	Platform Services
+S&R Metrics	Relevance
+Twitterweb Compare (smf1-aye-26-sr1)	Platform Services
+Jason and Ankit's Dashboard	Runtime Systems
+Macaw-International (Production - SMF1)	Eng - international
+Macaw-International (Staging - SMF1)	Eng - international
+Diff #1 TFE Canary	Hardware Eng & Demand Svcs
+mysql innodb flush operations	DBA
+Observe::Hummingbird::prod::scribe	Runtime Systems
+Topic Typeahead Index Builder Stats	Search
+Spiderduck	Core Svcs - T.co
+Quick Start Dashboard for upload	Hardware Eng & Demand Svcs
+Quick Start Dashboard for photurkey	Hardware Eng & Demand Svcs
+Manhattan - manhattan.prod.hotdog	Manhattan/Cassandra
+Observe::Hummingbird::HDFS	Runtime Systems
+Geoduck - Reverse Geocoder loadtest	Platform Services
+Rainbird Aggregator (Mesos)	Platform Services
+Bryce's Test Dashboard for photurkey	Hardware Eng & Demand Svcs
+Vibhav Canary Test	Hardware Eng & Demand Svcs
+sfdsfsfsfdsg easyviz	Runtime Systems
+Peacock change notifications	Revenue Eng & Product
+Storm Topology Worker	Runtime Systems
+Twitterweb Compare (smf1-amt-08-sr1)	Platform Services
+PROC - Network - Overview	core-storage-team
+Rails CVEs	PS - Applications Security
+Credit Processor (Production)	Revenue Eng & Product
+Credit Processor (Staging)	Revenue Eng & Product
+Observability::template.system	Runtime Systems
+Storm::template.system	Runtime Systems
+Storm::Kafka-system-stats	Runtime Systems
+Storm::Kafka-stream-adapter-system-stats	Streaming Compute
+Storm Nimbus Worker Count	Streaming Compute
+SMS/Push Legacy Twemcache Pool	Mobile
+Cassowary Service Total	Relevance
+Cassowary Service	Relevance
+RT - Network - Overview	core-storage-team
+Daemon Operational Monitoring	Platform Services
+Storm::Kafka-Server-Stats	Streaming Compute
+exxtra-live-jtrobec	Relevance
+Manhattan - manhattan.prod.omega	Manhattan/Cassandra
+Text-targeting	Revenue Eng & Product
+Gizmoduck Twemcache Staging smf1-auz-19-sr4	Platform Services
+Dan's Fault	Manhattan/Cassandra
+User Typeahead Coverage Stats	Search
+New Dashboard	Gazebo
+Gazebo Business Load Testing	Gazebo
+Alex:Test:Kestrel	Runtime Systems
+Charge Processor (Production)	Revenue Eng & Product
+Charge Processor (Staging)	Revenue Eng & Product
+Spiderduck Manhattan Migration	Core Svcs - T.co
+Cross DC Timeline Comparison	Platform Services
+Raghav test stats	Anti-Spam
+Upload Performance Test	Platform Services
+Blender Single Node For Comparison	Search
+Service Discovery Zookeeper (Test)	Runtime systems
+Rbldnsd Proudction Summary smf1 prod	Platform Services
+Rbldnsd Proudction Summary atla prod	Platform Services
+Counting Features on Summingbird	Revenue Eng & Product
+New Dashboard	Infrastructure Automation
+Kujaku (Production Viz Test - SMF1)	Eng - international
+TweetDeck Redis Daemons	mobile
+TweetyPie Twemcache	Platform Services
+Blobstore - (prod) Cygnus comparison	Manhattan/Cassandra
+timelineservice canary	Platform Services
+timelineservice control	Platform Services
+Promotion Cards	Revenue Eng & Product
+Gizzard DBA High Level	DBA
+Macaw Advertiser API	Revenue Eng & Product
+Gizmoduck Lru Cache	Platform Services
+BlackKite	Platform Services
+Manhattan - manhattan.prod.revenue dataset	Manhattan/Cassandra
+Translations Test Dashboard	Platform Services
+Bryce's Test Dashboard for flockdb	Hardware Eng & Demand Svcs
+Observe::Hummingbird::staging::cuckoo	Runtime Systems
+New Storm Zookeeper Stats	Streaming Compute
+SMF1 - ERP EXPORTER (billingservice.erpexporter)	Revenue Eng & Product
+chucktest	DBA
+Ads DataService	Revenue Eng & Product
+Blender Canary	Search
+New Dashboard	Data Infrastructure
+Geoduck LocationService Staging	Platform Services
+Macaw-Swift (Staging)	Platform Services
+Blobstore - (prod) Cygnus comparison	Manhattan/Cassandra
+Bryce's Test Dashboard for upp	Hardware Eng & Demand Svcs
+DCDS Host Info	DC Services
+Ibis Datastore	Platform Services
+audubon.role.upload	Public
+audubon.role.upp	Public
+Manhattan - manhattan.prod.adama dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.athena dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.omega dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-d dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.hotdog dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-m dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.athena appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.hotdog appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.omega appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-d appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-m appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.spare-d appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck appid	Manhattan/Cassandra
+Nighthawk API Prod	Runtime Systems
+Nighthawk NM Dev	Runtime Systems
+Nighthawk DM NM Staging	Runtime Systems
+Nighthawk DM NM Prod	Runtime Systems
+Manhattan - manhattan.prod.spare-d dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.adama appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.revenue appid	Manhattan/Cassandra
+Geoduck LocationService Production	Platform Services
+Geoduck LocationService Staging	Platform Services
+Expandodo Server (Staging - SMF1)	Cards
+Expandodo Staging (OS Team)	Platform Services
+Gizmoduck Aquila Staging Load Test	Platform Services
+Manhattan - manhattan.prod.spiderduck dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.spiderduck appid	Manhattan/Cassandra
+Cassowary Service Staging 0	Relevance
+Bookkeeper Server	Data Services
+Messaging Zookeeper	Data Services
+New Dashboard	Security
+New Dashboard	Security
+Search Assistance Beta	Search
+Geoduck LocationService Production (Non-ShardID)	Platform Services
+Manhattan - manhattan.prod.redwing	Manhattan/Cassandra
+Manhattan - manhattan.test.greenbean	Manhattan/Cassandra
+Manhattan - manhattan.prod.redwing dataset	Manhattan/Cassandra
+Manhattan - manhattan.test.greenbean dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.redwing appid	Manhattan/Cassandra
+Manhattan - manhattan.test.greenbean appid	Manhattan/Cassandra
+Twitterweb Compare (smf1-avx-14-sr1)	Platform Services
+ostrichagg capacity	Runtime Systems
+storm-stable9-cluster-system-stats	Streaming Compute
+Ibis Devices API Twemcache Pool	Platform Services
+Network Trends Backend	Trends
+DM Service Nighthawk Integration	Platform Services
+Talon Scribehose Proudction Summary smf1 prod	Core Svcs - T.co
+TFE 5XX per server	TCC
+Woodstar (alh stress)	Platform Services
+wtf_sarus_v2	Personalization and Recommender Systems
+File Size Stats	Platform Services
+New Dashboard	Personalization and Recommender Systems
+mail.msys.mta	platform-svcs-team
+Observe::Cuckoo-scribe::Prod	Runtime Systems
+oauth redirects	PS - Product Security
+ads.adshard per-client metrics	Revenue Eng & Product
+Profile Banner Migration	Platform Services
+Profile Banner Migration	Platform Services
+misc-cache Health	Runtime Systems
+OAuth	Platform Services
+Expandodo Kestrel Reader	Platform Services
+Woodstar Endpoints (Viz Test)	API Core
+Woodstar Endpoints (Production)	API Core
+Woodstar Endpoints (Canary)	API Core
+Woodstar Endpoints (Staging)	API Core
+Woodstar Endpoints (Employee Release)	Platform Services
+Bryce's Test Dashboard for CAP-1265	Hardware Eng & Demand Svcs
+cache.search health	Runtime Systems
+Observability Capacity Planning	Runtime Systems
+Observe::Hummingbird::prod::vex	Runtime Systems
+System Wide Exception Rates	Runtime Systems
+ads.adshard loadtest metrics	Revenue Eng & Product
+ads.admixer loadtest metrics	Revenue Eng & Product
+Profilebird (Prod)	Platform Services
+kafka-zookeeper-system-stats	Streaming Compute
+test me Amadeus!	Runtime Systems
+test me Amadeus!	Runtime Systems
+test me Amadeus!	Runtime Systems
+Observe::Hummingbird::prod::svc	Runtime Systems
+Socialgraph Canary experiments	Platform Services
+engagement counter	Revenue Eng & Product
+Cassowary Service Staging 0	Relevance
+Cassowary Service Staging 0	Relevance
+New Dashboard	Web
+New Dashboard	Web
+Passbird Password Authentication	PS - Product Security
+tflock corpus size	SRE
+Core Services Cache Expiry Daemon	Platform Services
+SMF1 - Crane Runner (billingservice.cranerunner)	Revenue Eng & Product
+Blobstore - (prod) storagenode Scummingbird	Runtime Systems
+Profilebird (Staging)	Platform Services
+Profilebird (Canary)	Platform Services
+Daemon Mesos Operational Monitoring	Platform Services
+TFlock Data Volume	DBA
+Flock Data Volume	DBA
+Groups Data Volume	DBA
+Darkwing Data Volume	DBA
+TBird Data Volume	DBA
+DMbird Data Volume	DBA
+Hummingbird2::Collection drilldown	Runtime Systems
+Chickadee Webserver Stats	Runtime Systems
+New Dashboard	Infrastructure Production Services
+zookeeper role:storm.zookeeper.devel	Streaming Compute
+Jubjub v2 SMF1 Prod	Timelines Quality
+Jubjub v2 SMF1 Staging	Timelines Quality
+Twitterweb Compare (smf1-amy-38-sr1)	Platform Services
+David	Platform Services
+-j	Platform Services
+Transaction/Thrift Ratios	Hardware Eng & Demand Svcs
+Geoduck Locationservice Canary	Platform Services
+Twitterweb Memory Usage	Platform Services
+API v1 Blackout Test	Platform Services
+UserImageService (Prod)	Platform Services
+UserImageService (Staging)	Platform Services
+UserImageService (Canary)	Platform Services
+Observe::Hummingbird::prod::mesos-services	Runtime Systems
+Ads Index Server	Revenue Eng & Product
+AdReview LoadTest	Revenue Eng & Product
+New Dashboard	Manhattan/Cassandra
+Ads Realtime Text Targeting - Storm Topology	Revenue Eng & Product
+Ibis Client Dynamic Dashboard	Platform Services
+exxtra-prod1	Content Discovery
+exxtra-prod2	Content Discovery
+Ad Review [Production]	Revenue Eng + Product
+Twitterweb Compare (smf1-ayf-37-sr4)	Platform Services
+Ibis Main Dynamic Dashboard	Platform Services
+Twitterweb Compare (smf1-ajx-28-sr1)	Platform Services
+New Dashboard	Runtime Systems
+TweetyPie Metrics	Runtime Systems
+Ibis Executor Dynamic Dashboard	Platform Services
+Ken benchmark	Revenue Eng & Product
+Observe::Hummingbird::prod::aurora	Runtime Systems
+Fanoutservice Staging	Platform Services
+Macaw-Swift (Preflight)	Platform Services
+derrrrrrrrrp	Observability Product
+SUL Service (Production - SMF1)	Eng - international
+New Dashboard	Revenue Eng & Product
+Counting Features on Summingbird (Read Side)	Revenue Eng & Product
+Manhattan Cygnus Watch	Manhattan/Cassandra
+Woodstar Endpoints (Pre-Production)	Platform Services
+New Kafka-Server-Stats(mesos hybrid)	Streaming Compute
+Macaw-International (Test - SMF1)	Eng - international
+Macaw-International (Devel - SMF1)	Eng - international
+Kujaku (Test - SMF1)	Eng - international
+Kujaku (Devel - SMF1)	Eng - international
+Display Location Counts	Revenue Eng & Product
+Rainbird Aggregator Canary (Mesos)	Platform Services
+sre-sla	SRE
+Tflock efficiency metrics	Data Infrastructure
+Malware	Anti-Spam
+New Dashboard	Revenue Eng & Product
+New Dashboard	Revenue Eng & Product
+New Dashboard	Revenue Eng & Product
+Scoop (Staging)	Platform Services
+Budgie Mesos	Platform Services
+Rainbird Query Service (Staging)	Platform Services
+Fanoutservice Canary	Platform Services
+RTS	SRE
+Ibis Cachewarmer	Platform Services
+OAuth CSRFs	PS - Product Security
+Things that jump™	DBA
+ads.adshard FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+New Dashboard	Revenue Eng & Product
+Annest	Analytics Infrastructure
+api.twitter.com-atla	SRE
+Counting Features Breakdown by Adshard	Revenue Eng & Product
+exxtra-live-yhuang	Content Discovery
+Counting Features Manhattan Info	Revenue Eng & Product
+Macaw Testbed	API Core
+Opera Mini Contact Import	Web
+Ads FSDatasets %	Revenue Eng & Product
+TweetDeck Tracker	Mobile
+Service client success rates	SRE
+Bookkeeper Server	Data Services
+Temp Bookkeeper Server	Messaging Team
+Temp Bookkeeper Server	Data Services
+Hosebird Staging (smf1, partitioned)	Platform Services
+mysql memory	DBA
+Rainbird Query Service (Mesos)	Platform Services
+Rainbird Query Service (Canary)	Platform Services
+Storm::smf1-afk-19-sr4-system-stats	Streaming Compute
+Ad Review [Staging]	Ads
+System Stats	Platform Services
+lol temporary dashboard	SRE
+Observe::Nectar	Runtime Systems
+New Dashboard	Runtime Systems
+Direct Messages In Woodstar	Platform Services
+SocialGraph Staging (New)	Platform Services
+order test	Runtime Systems
+NewCanary	SRE
+Platform Engineering Health	SRE
+exxtra-live-events	Content Discovery
+Hatchery	User Services - Engineering
+New Dashboard	Manhattan/Cassandra
+Autogen: SOA-soroban-47-1357887494 system stats	Streaming Compute
+Self-unsuspension service	Anti-Spam
+Autogen: Rosette.kafka.stats	Streaming Compute
+New Dashboard	Eng - Activation & Messaging
+Promptbird Mesos	Eng - Activation & Messaging
+Cassandra - cassandra.prod.prov-m	Manhattan/Cassandra
+Cassandra - cassandra.staging.blobstore	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-md dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-md appid	Manhattan/Cassandra
+New Dashboard	Mobile
+Mobile Web Spam	Mobile
+Observability::Template TFE Traffic	Runtime Systems
+AUTOGEN : New Kafka Cluster (Mesos Hybrid)	Data Infrastructure
+Counting Features on Summingbird (Load Test)	Revenue Eng & Product
+Manhattan - manhattan.prod.zac dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac appid	Manhattan/Cassandra
+System Wide Exception Class Rates	Runtime Systems
+platform-health-summary2	SRE
+top-stories-server	Discovery
+Cassandra - cassandra.prod.fe	Manhattan/Cassandra
+Observe::Twitterweb::Errors	Runtime Systems
+api.twitter.com-smf1	SRE
+Shorten Urls Script	Platform Services
+New Dashboard	Networking Eng
+poolparty	TCC
+poolparty2	TCC
+Twitterweb Compare (smf1-anb-26-sr1)	Platform Services
+New Dashboard	Revenue Eng & Product
+codemetrics	web
+xZone Demo	Runtime Systems
+darkwing reservation	Data Services
+exxtra-live-yhuang2	Content Discovery
+New Dashboard	Platform Services
+Zookeeper Ensemble role:szookeeper	SRE
+Zookeeper Ensemble role:szookeeper	SRE
+Zookeeper Ensemble role:szookeeper	SRE
+sla-dashboard-home-timeline-post	SRE
+timelineservice staging	Platform Services
+Tflock: V2 rollout	Data Services
+Flock Canary Comparison	data-services-eng
+Bookkeeper Server - Temp Cluster	Data Services
+PromptBird Prompt Alerts	virality
+sla-dashboard-test-2	SRE
+2FA	PS - Product Security
+New Dashboard	Core Services
+Ads Load Tester: Parrot	Revenue Eng & Product
+New Dashboard	Manhattan/Cassandra
+Flock Top Down	Data Services
+SMS Pingers Dependancies 	Platform Infrastructure
+sla-dashboard-media-timeline	SRE
+sla-dashboard-home-timeline	SRE
+sla-dashboard-search	SRE
+New Dashboard	Web
+timelineservice-cpu-performance-test	platform
+timelineservice-cpu-performance-test	platform
+Macaw-Swift migration status	Technical Program Management
+Macaw-Swift (LoadTest 1)	Hardware Eng & Demand Svcs
+Macaw-Swift (LoadTest 2)	Hardware Eng & Demand Svcs
+Observe::Observe-daily::Prod	Runtime Systems
+timelineservice corvis	Platform Services
+Talon Failover Metrics	SRE
+Expert Search Rooster	Search
+macaw-conversation-failover	SRE
+Observe::Viz::Staging Test	Observability Product
+Tweetbutton	Platform Services
+New Dashboard	Platform Infrastructure
+Talon failover	SRE
+Passbird Compare	Platform Services
+Observe::Viz::Staging::User	Observability Product
+Titanis (Mobile Crash and Error Reporting)	Platform Services
+exxtra-mike-1	Content Discovery
+observe-hdfs-verification	Runtime Systems
+observe-hdfs-verification	Runtime Systems
+Glassbird	glassbird-team
+Twitterweb Compare (smf1-aoa-14-sr1)	Platform Services
+exxtra-live-bano	Content Discovery
+xZone TCC Dashboard	TCC
+New Dashboard	Platform Services
+New Dashboard	Platform Services
+New Dashboard	Eng - Activation & Messaging
+Observe::Viz::Staging::User	Observability Product
+fragment_multipass memcached in the monorail	Platform Services
+object_multipass memcached in the monorail	Platform Services
+status_multipass memcached in the monorail	Platform Services
+mobile web failover	SRE
+Manhattan - manhattan.prod.limiters	Manhattan/Cassandra
+Manhattan - manhattan.prod.limiters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.limiters appid	Manhattan/Cassandra
+audubon.role.misc.cache5.smf1	Runtime Systems
+sla-dashboard-user-timeline-get	SRE
+sla-dashboard-user-timeline-post	SRE
+sla-dashboard-media-timeline-get	SRE
+sla-dashboard-media-timeline-post	SRE
+sla-dashboard-home-timeline-get	SRE
+TFlock Canary Comparison	data-services-eng
+CIS Production	Manageability Services
+Interference Test	Runtime Systems
+Storm-dev-cluster-system-stats	Streaming Compute
+Kujaku (Canary - SMF1)	Eng - international
+Macaw-International (Canary - SMF1)	Eng - international
+SUL Service (Production Viz Test - SMF1)	Eng - international
+SUL Service (Canary - SMF1)	Eng - international
+SUL Service (Staging - SMF1)	Eng - international
+SUL Service (Devel - SMF1)	Eng - international
+Adshard loadtest	Revenue Eng & Product
+Twitterweb Compare (smf1-amr-25-sr1)	Platform Services
+Geoduck ReverseGeocoder Production	Platform Services
+Geoduck ReverseGeocoder Staging	Platform Services
+New Dashboard	Platform Services
+A+M backfill	Platform Services
+zookeeper ensemble role:sdzookeeper	SRE
+Adshard loadtest: 2 replicas	Revenue Eng & Product
+Observability Metrics	Observability Product
+New Dashboard	Platform Services
+micheal test dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+Passbird Load Test	Platform Services
+Twitter over Email Dashboard	Eng - Activation & Messaging
+dba mysql tables	DBA
+Observe::Viz::Front-End	Runtime Systems
+Profile Banner Media Pipeline (Prod)	Platform Services
+dba mysql sort	DBA
+exxtra-tgeorgiou	Content Discovery
+New Dashboard  1370291869	Platform Services
+exxtra-mike2	Content Discovery
+Adshard: Ratio to Production	Revenue Eng & Product
+Geoduck ReverseGeocoder Canary	Platform Services
+zookeeper ensemble role:zk-observability	SRE
+webmetrics-demo	SRE
+rc-Revenue Impact	TCC
+Macaw Swift Search	Web
+exxtra-jtrobec	Content Discovery
+exxtra-mike1	Content Discovery
+webmetrics	SRE
+Talon Production	Core Svcs - T.co
+New Dashboard  1370631159	Personalization and Recommender Systems
+traffic	SRE
+hosebird-usersite-partition	Platform Services
+Backups - Network - Overview	Accounting
+New Dashboard  1370648275	Manhattan/Cassandra
+New Dashboard  1370649570	Manhattan/Cassandra
+Rufous Canary	Platform services
+Frigate Notifier	Personalization + Rec Systems
+Manhattan - manhattan.prod.zac-counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-counters appid	Manhattan/Cassandra
+exxtra-xiaolei-label0	Content Discovery
+exxtra-xiaolei-label1	Content Discovery
+Ads Counting features	Revenue Eng & Product
+SMF1 TweetyPie Loadtest	Platform Services
+SMF1 TweetyPie Loadtest Backend	Platform Services
+SMF1 TweetyPie Loadtest Write	Platform Services
+SMF1 TweetyPie Loadtest GC	Platform Services
+SMF1 TweetyPie Loadtest Clients	Platform Services
+SMF1 TweetyPie Loadtest Traffic Profile	Platform Services
+SMF1 TweetyPie Loadtest Replication	Platform Services
+Arbor Demo	SRE
+Cassandra - cassandra.prod.cuckoo-hourly2	Manhattan/Cassandra
+ClusterDuck Service Staging 0	Content Discovery
+ClusterDuck Service Staging 3	Content Discovery
+experimental latency graph	SRE
+Manhattan - manhattan.prod.zac-counters counter	Manhattan/Cassandra
+Mobile App Tracking Dashboard 	Revenue Eng + Product
+dctools smf1 test bench	DC Services
+New Dashboard  1371092991	Web
+New Dashboard  1371146348	IT
+hermit (Production)	cassowary
+hermit (Staging)	cassowary
+hermit (Viz Test)	cassowary
+storm devel zookeeper ensemble	SRE
+New Dashboard  1371504837	Manhattan/Cassandra
+Hadoop - COLD cluster overview	core-storage-team
+New Dashboard  1371505958	Manhattan/Cassandra
+New Dashboard  1371506447	Manhattan/Cassandra
+Twitterweb Turbo Boost	Hardware Eng & Demand Svcs
+Cold - Network - Overview	core-storage-team
+New Dashboard  1371508693	Manhattan/Cassandra
+mesos-container-stats	mesos
+mesos-container-stats-instance	mesos
+streamingpartners	SRE
+Blender-test	Search
+aptmetrics	SRE
+sla-dashboard-test	SRE
+Macaw-Cards (Viz Test)	Platform Services
+Macaw-Cards (Production)	Platform Services
+Macaw-Cards (Staging)	Platform Services
+Greg's Peacock Uptime Graph	Revenue Eng & Product
+ads-admin Uptime	Revenue Eng & Product
+united_multipass memcached in the monorail	Platform Services
+ATLA TFE Response Status Count	Platform Services
+ATLA TFE Response Status Latency	Platform Services
+ATLA TFE Response Status Size	Platform Services
+ATLA TFE Twitterweb Redux	Platform Services
+MySQL Overview	Manhattan/Cassandra
+Cassandra - cassandra.prod.cuckoo	Manhattan/Cassandra
+Snowflake	platform-svcs-team
+Manhattan - cassandra.prod.manhattan-test	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck old	Manhattan/Cassandra
+Observe::Alpha::Hummingbird::JVM	Runtime Systems
+Manhattan - manhattan.prod.athena	Manhattan/Cassandra
+Cassandra - cassandra.prod.geo	Manhattan/Cassandra
+Cassandra - cassandra.prod.backtype	Manhattan/Cassandra
+Cassandra - cassandra.prod.blobstore	Manhattan/Cassandra
+Cassandra - cassandra.prod.cuckoo-minutely	Manhattan/Cassandra
+Observe::Cuckoo::Prod::OBSERVE-1905	Runtime Systems
+Cassandra - cassandra.prod.addressbook	Manhattan/Cassandra
+Cassandra - cassandra.prod.sniper	Manhattan/Cassandra
+Cassandra - cassandra.prod.spiderduck	Manhattan/Cassandra
+Cassandra - cassandra.prod.tweetdeck	Manhattan/Cassandra
+Top line	Twitter Command Center
+Observability::template.jvm	Runtime Systems
+Observability::template.system	Runtime Systems
+mesos atla service proxy	Runtime Systems
+hosebird-kestrel	Platform Services
+hosebird-filtered-dm	Platform Services
+TCC Internal Services	Twitter Command Center
+Site Health	Twitter Command Center
+Scribe by Category (ATLA DC)	SRE
+Cassandra - cassandra.devel.blobstore	Manhattan/Cassandra
+ATLA zookeeper cluster monitor	Operations Engineering
+top-line (formerly tweet_write_path)	Twitter Command Center
+Flock	data services
+TBird	Data Services
+Cassandra - cassandra.prod.syndication	Manhattan/Cassandra
+zookeeper ensemble role:zookeeper	SRE
+zookeeper ensemble role:zookeeper.devel	SRE
+Blobstore - (prod) storagenode	Core Storage & Database Engineering
+Blobstore - (prod) manager	Core Storage & Database Engineering
+Blobstore - (prod) metadata	Core Storage & Database Engineering
+Blobstore - (devel) manager	Core Storage & Database Engineering
+Blobstore - (devel) metadata	Core Storage & Database Engineering
+Blobstore - (devel) storagenode	Core Storage & Database Engineering
+Blobstore - (devel) tfe	Core storage & Database engineering
+darkwing	Data Services
+Observe::Cuckoo::Prod	Runtime Systems
+Observe::Colony::Prod	Runtime Systems
+Observe::Hummingbird::Prod	Runtime Systems
+Observe::Koalabird::Prod	Runtime Systems
+mysql connections	DBA
+mysql cpu	DBA
+dba mysql innodb	DBA
+mysql innodb logs	DBA
+mysql innodb pages	DBA
+mysql innodb rows	DBA
+mysql network	DBA
+mysql overview	DBA
+mysql replication	DBA
+mysql storage	DBA
+mysql queries	DBA
+mysql transactions	DBA
+audubon.role.misc-cache3.atla	Runtime Systems
+Cassandra - cassandra.prod.dev2	Manhattan/Cassandra
+audubon.role.ads-memcache.atla	Runtime Systems
+audubon.role.appsrvc.cache.atla	Runtime Systems
+audubon.role.dedicated-ratelimit-cache.atla	Runtime Systems
+audubon.role.misc-small-cache.atla	Runtime Systems
+audubon.role.misc.cache4.atla	Runtime Systems
+audubon.role.cache.search.atla	Runtime Systems
+audubon.role.ads.cache.atla	Runtime Systems
+audubon.role.limiter.cache.atla	Runtime Systems
+audubon.role.misc-cache.atla	Runtime Systems
+Blender	Search
+Rockdove	Platform Services
+Ingester Discovery - atla	Search
+Passbird Production	Platform Services
+Blobstore - (prod) kestrel	Core Storage & Database Engineering
+TFlock	data services
+Cassowary Service Main	User Discovery & Personalization
+Mobile Web	Mobile
+Cassowary Compute Memcached	User Discovery & Personalization
+Cassowary Compute Forward	User Discovery & Personalization
+Cassowary Compute Reverse	User Discovery & Personalization
+Cassowary Compute Reverse	User Discovery & Personalization
+Cassowary Compute Forward	User Discovery & Personalization
+Cassowary DB Master	User Discovery & Personalization
+Cassowary Memcached	User Discovery & Personalization
+Cassowary PAc stats	User Discovery & Personalization
+Cassowary PAc stats	User Discovery & Personalization
+Cassowary Sarus	User Discovery & Personalization
+Cassowary Sarus	User Discovery & Personalization
+Cassowary Service Main	User Discovery & Personalization
+Cassowary Service Main	User Discovery & Personalization
+Cassowary Service Misc	User Discovery & Personalization
+Cassowary Service Misc	User Discovery & Personalization
+Cassowary Service	User Discovery & Personalization
+Cassowary Service Total	User Discovery & Personalization
+Cassowary Twemcache	User Discovery & Personalization
+ATLA TweetyPie Staging	Platform Services
+ATLA TweetyPie Staging Backend	Platform Services
+ATLA TweetyPie Staging GC	Platform Services
+ATLA TweetyPie Staging Clients	Platform Services
+ATLA TweetyPie Staging Traffic Profile	Platform Services
+ATLA TweetyPie Canary	Platform Services
+ATLA TweetyPie Canary Backend	Platform Services
+ATLA TweetyPie Canary GC	Platform Services
+ATLA TweetyPie Canary Clients	Platform Services
+ATLA TweetyPie Canary Traffic Profile	Platform Services
+ATLA TweetyPie	Platform Services
+ATLA TweetyPie Backend	Platform Services
+ATLA TweetyPie GC	Platform Services
+ATLA TweetyPie Clients	Platform Services
+ATLA TweetyPie Traffic Profile	Platform Services
+Graph Service	Runtime Systems
+Static-Sites	Gazebo
+Cassowary Sarus Total	User Discovery & Personalization
+Puppetserver Metrics	Infrastructure Production Services
+Search Updater	Search
+Ads General Memcache Pool	Revenue Eng & Product
+Feature Server Upload Daemon	Revenue Eng & Product
+Feature Server Memcache Pool	Revenue Eng & Product
+Manhattan - manhattan.prod.adama	Manhattan/Cassandra
+Cassandra - cassandra.prod.dev1	Manhattan/Cassandra
+Cassandra - cassandra.prod.addressbook	Manhattan/Cassandra
+Cassandra - cassandra.prod.backtype	Manhattan/Cassandra
+Cassandra - cassandra.prod.blobstore	Manhattan/Cassandra
+Cassandra - cassandra.prod.chubbysnipe	Manhattan/Cassandra
+Cassandra - cassandra.prod.cuckoo	Manhattan/Cassandra
+Cassandra - cassandra.prod.cuckoo-minutely	Manhattan/Cassandra
+Cassandra - cassandra.prod.dev2	Manhattan/Cassandra
+Cassandra - cassandra.prod.geo	Manhattan/Cassandra
+Cassandra - cassandra.prod.sniper	Manhattan/Cassandra
+Cassandra - cassandra.prod.spiderduck	Manhattan/Cassandra
+Cassandra - cassandra.prod.tweetdeck	Manhattan/Cassandra
+Manhattan - manhattan.prod.revenue	Manhattan/Cassandra
+Vertica Single Node	Analytics
+aurora-atla	Aurora
+ATLA TFE Support	Platform Services
+Trends Service	trends
+Cassandra - cassandra.prod.boomer	Manhattan/Cassandra
+Trends Backend	Trends
+Hadoop - RT cluster overview	Manhattan/Cassandra
+Hadoop - Backups cluster overview	Manhattan/Cassandra
+Penguin as a Service (Staging - ATLA)	Eng - international
+Penguin as a Service (Production - ATLA)	Eng - international
+Woodstar (atla)	Platform Services
+Vertica Sandbox	Analytics
+Vertica Cluster	Analytics
+Test-Toby	Runtime Systems
+Mesos (atla-prod)	Runtime Systems
+ATLA TweetyPie Replication	Platform Services
+j3h Test	Platform Services
+hosebird-canary	Platform Services
+DMBird	data services
+ATLA TweetyPie Canary Replication	Platform Services
+Cassandra - cassandra.prod.bigbrotherbird	Manhattan/Cassandra
+Cassandra - cassandra.prod.rainbird	Manhattan/Cassandra
+Cassandra - cassandra.prod.tweetdeck-new	Manhattan/Cassandra
+Core App Services - ATLA	Platform Services
+ATLA TweetyPie Staging Replication	Platform Services
+Expert Search Shard	Search
+Expert Search Broker	Search
+ATLA TweetyPie Canary Write	Platform Services
+ATLA TweetyPie Write	Platform Services
+ATLA TweetyPie Staging Write	Platform Services
+TweetyPie Frontend	Platform Services
+Cassandra - cassandra.prod.imageproxy	Manhattan/Cassandra
+Cassandra - cassandra.prod.imageproxy-cache	Manhattan/Cassandra
+Cassandra - cassandra.prod.prov-d	Manhattan/Cassandra
+Cassandra - cassandra.prod.prov-m	Manhattan/Cassandra
+ATLA - Spend Server (ads.spendserver-staging)	Revenue Eng & Product
+ATLA - Spend Server (ads.spendserver)	Revenue Eng & Product
+Gazebo	Gazebo
+New Dashboard	Revenue Eng & Product
+timelineservice in the monorail	Platform Services
+Hadoop - HBase EXP cluster overview	Core storage & database engineering
+haplo main	Platform Services
+haplo misc	Platform Services
+Image Proxy Thrift	Platform Services
+Image Proxy HTTP	Platform Services
+haplo misc - redis	Platform Services
+haplo main - redis	Platform Services
+Help Center : System	User Services - Engineering
+Help Center	User Services - Engineering
+Observe::Zipkin::Prod	Runtime Systems
+Zookeeper Ensemble role:szookeeper	SRE
+TFlock Transform	DBA
+Flock Transform	DBA
+TBird Transform	DBA
+Cassandra - cassandra.prod.tweetbutton	Manhattan/Cassandra
+Observe::Observe-health::Prod	Runtime Systems
+Rainbird Aggregator (Staging)	Platform Services
+Scoop	Platform Services
+Budgie Staging	Platform Services
+ads.admixer metrics	Revenue Eng & Product
+ads.adshard metrics	Revenue Eng & Product
+Hummingbird::Collection drilldown	Runtime Systems
+ATLA Live	TCC
+New Dashboard	Runtime Systems
+Human Eval in Search Targeting	Revenue Eng & Product
+HEIST	Revenue Eng & Product
+haplocheirus - main	Platform Services
+haplocheirus - misc	Platform Services
+chickadee	Runtime Systems
+User Services: TweetExport	User Services - Engineering
+Passbird New Memcache	Platform Services
+Passbird Canary	Platform Services
+Passbird Staging	Platform Services
+Passbird Integration	Platform Services
+download.twitter.com TFE dashboard	Platform Services
+Grailbird	User Services - Engineering
+Cassandra - cassandra.prod.chubbysnipe-lastlogin	Manhattan/Cassandra
+Cassandra - cassandra.prod.spam	Manhattan/Cassandra
+Gizmoduck User Cache	Core Services
+Hadoop - STRESS cluster overview	Manhattan/Cassandra
+mysql innodb flush operations	DBA
+ads.config deploy canary comparision	Revenue Eng & Product
+Manhattan - manhattan.test.hotdog	Manhattan/Cassandra
+Test V2 - Network - Overview	Manhattan/Cassandra
+alert:Cache/activity/alerts/atla	Revenue Eng & Product
+Cross DC Timeline Comparison	Platform Services
+PROC V2 - Network - Overview	Manhattan/Cassandra
+api.twitter.com-atla	SRE
+Manhattan - manhattan.prod.baltar	Manhattan/Cassandra
+Rbldnsd Proudction Summary atla prod	Platform Services
+Macaw-Conversation (Viz Test)	Platform Services
+Macaw-Conversation (Production)	Platform Services
+Macaw-Conversation (Staging)	Platform Services
+Macaw-Activity (Viz Test)	Platform Services
+Macaw-Activity (Production)	Platform Services
+Macaw-Activity (Staging)	Platform Services
+New dashboard created with API key	Runtime Systems
+New Dashboard	Runtime Systems
+Audubon	Configuration
+Gizmoduck Lru Cache	Core Services
+Universal Search Features	Search
+Universal Workflow	Search
+ostrichagg	Platform Services
+GDCS Host Info	DC Services
+haplo trouble shooting atla-aby-08-sr4	Platform Services
+haplo trouble shooting atla-aci-37-sr4	Platform Services
+haplo misc - redis trouble shooting	Platform Services
+Manhattan - manhattan.prod.baltar appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-m appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.revenue appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.athena dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.baltar dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-m dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck dataset	Manhattan/Cassandra
+Manhattan - manhattan.test.hotdog dataset	Manhattan/Cassandra
+Nighthawk DM NM Prod	Runtime Systems
+Nighthawk DM NM Staging	Runtime Systems
+Nighthawk API Prod	Runtime Systems
+Daemon Operational Monitoring	Platform Services
+Manhattan - manhattan.prod.revenue dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.athena appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck appid	Manhattan/Cassandra
+Manhattan - manhattan.test.hotdog appid	Manhattan/Cassandra
+Geoduck LocationService Production	Platform Services
+Geoduck LocationService Staging	Platform Services
+Hummingbird Reboot	Runtime Systems
+Addressbook	Eng - Growth
+Topic Typeahead	Search
+Manhattan - manhattan.prod.redwing	Manhattan/Cassandra
+Manhattan - manhattan.test.greenbean	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-d dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.redwing dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.spare-d dataset	Manhattan/Cassandra
+Manhattan - manhattan.test.greenbean dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-d appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.redwing appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.spare-d appid	Manhattan/Cassandra
+Manhattan - manhattan.test.greenbean appid	Manhattan/Cassandra
+Search Assistance	Search
+Topic Typeahead Staging	Search
+Topic Typeahead Canary	Search
+ads.adshard per-client metrics	Revenue Eng & Product
+User Typeahead	Search
+User Typeahead Canary	Search
+Observe::Hummingbird::prod::mesos-services	Runtime Systems
+Daemon Mesos Operational Monitoring	Platform Services
+Observe::Cuckoo-scribe::Prod	Runtime Systems
+TFE-Listener Production Sample	Platform Services
+ATLA Woodstar Endpoints (Production)	API Core
+ATLA Woodstar Endpoints (Canary)	API Core
+ATLA Woodstar Endpoints (Staging)	API Core
+Observe::Hummingbird::prod::vex	Runtime Systems
+Blender Canary 2	Search
+BlackKite	Platform Services
+Observability Capacity Planning	Runtime Systems
+macaw-relevance (Production)	Relevance
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+New Dashboard	Runtime Systems
+Spiderduck Manhattan Migration	Core Svcs - T.co
+Profilebird (Canary)	Platform Services
+Profilebird (Prod)	Platform Services
+Profilebird (Prod)	Platform Services
+Profilebird (Staging)	Platform Services
+Profilebird (Canary)	Platform Services
+TFE-Router DC Backhaul	Platform Services
+TFlock Data Volume	DBA
+Flock Data Volume	DBA
+TBird Data Volume	DBA
+Darkwing Data Volume	DBA
+Groups Data Volume	DBA
+Observe::Hummingbird::prod::svc	Runtime Systems
+Hummingbird2::Collection drilldown	Runtime Systems
+New Dashboard	Search
+Expert Search Jit	Search
+Chickadee Webserver Stats	Runtime Systems
+Geoduck Locationservice Canary	Platform Services
+Macaw-Typeahead ATLA (Production)	api-frameworks
+UserImageService (Prod)	Platform Services
+UserImageService (Staging)	Platform Services
+UserImageService (Canary)	Platform Services
+Hadoop - HBase v2 cluster overview	Core storage & database engineering
+misc-cache3 health	Revenue Eng & Product
+misc-small-cache health	Runtime Systems
+New Dashboard	Manhattan/Cassandra
+Image Proxy HTTP	Platform Services
+Nighthawk NM Dev	Runtime Systems
+System Wide Exception Rates	Runtime Systems
+Ads Index Server	Revenue Eng & Product
+macaw-discover (Staging)	Discovery
+macaw-discover (Canary)	Discovery
+Observe::Hummingbird::prod::aurora	Runtime Systems
+Manhattan - manhattan.prod.omega	Manhattan/Cassandra
+Manhattan - manhattan.prod.omega dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.omega appid	Manhattan/Cassandra
+Macaw-Swift ATLA (Viz Test)	Platform Services
+Macaw-Swift ATLA (Production)	Platform Services
+Macaw-Swift ATLA (Canary)	Platform Services
+Macaw-Swift ATLA (Staging)	Platform Services
+David	Platform Services
+Malware	Anti-Spam
+chucktest	DBA
+Gizzard High Level	DBA
+Tflock efficiency metrics	Data Services
+Ads DataService	Revenue Eng & Product
+Fanoutservice Canary	Platform Services
+Macaw-Typeahead ATLA (Viz Test)	Platform Services
+Things that jump™	DBA
+Annest	Analytics Infrastructure
+Blobstore	Hardware Eng & Demand Svcs
+Cuckoo Capacity	Hardware Eng & Demand Svcs
+Gizzard CPU	Hardware Eng & Demand Svcs
+Mail MTA Capacity	Hardware Eng & Demand Svcs
+Malware Capacity	Hardware Eng & Demand Svcs
+Quick Start Dashboard for photurkey	Hardware Eng & Demand Svcs
+Scarecrow Capacity	Hardware Eng & Demand Svcs
+Service Efficiency	Hardware Eng & Demand Svcs
+Tflock DB	Hardware Eng & Demand Svcs
+Quick Start Dashboard for upload	Hardware Eng & Demand Svcs
+Workload (aka Internet Numbo-Tron 3000)	Hardware Eng & Demand Svcs
+ads.adshard FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+Rainbird Aggregator (Mesos)	Platform Services
+Rainbird Aggregator Canary (Mesos)	Platform Services
+Rainbird Query Service (Staging)	Platform Services
+Rainbird Aggregator	Platform Services
+Manhattan - manhattan.prod.zac dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac appid	Manhattan/Cassandra
+Macaw-International (Production - ATLA)	Eng - international
+Macaw-International (Staging - ATLA)	Eng - international
+Macaw-International (Test - ATLA)	Eng - international
+Macaw-International (Devel - ATLA)	Eng - international
+Kujaku (Production Viz Test - ATLA)	Eng - international
+Kujaku (Production - ATLA)	Eng - international
+Kujaku (Staging - ATLA)	Eng - international
+Kujaku (Test - ATLA)	Eng - international
+Kujaku (Devel - ATLA)	Eng - international
+storybird	Discovery
+sre-sla	SRE
+Cassandra - cassandra.prod.fe	Manhattan/Cassandra
+Cassandra - cassandra.prod.maverick	Manhattan/Cassandra
+Cassandra - cassandra.prod.spare	Manhattan/Cassandra
+Cassandra - cassandra.staging.blobstore	Manhattan/Cassandra
+Observability::Template TFE Traffic	Runtime Systems
+Observability::Template TFE Traffic	Runtime Systems
+System Wide Exception Class Rates	Runtime Systems
+top-stories-server	Discovery
+Observe::Twitterweb::Errors	Runtime Systems
+haplo-redis-24	Core Services
+Darkwing Transform	DBA
+DMBird Transform	DBA
+New Dashboard	Runtime Systems
+Observe::Hummingbird::prod::scribe	Runtime Systems
+Tflock: V2 rollout	Data Services
+timelineservice canary	Platform Services
+Flock Canary Comparison	data-services-eng
+zookeeper ensemble role:mzookeeper	SRE
+Expert Search Rooster	Search
+Observe::Observe-daily::Prod	Runtime Systems
+Woodstar Failover Dashboard	SRE
+Macaw International Failover	SRE
+macaw-typeahead-failover	SRE
+macaw-activity-failover	SRE
+micheals test dashboard	Runtime Systems
+macaw-conversation-failover	SRE
+macaw-swift-failover	SRE
+macaw-discover-failover	SRE
+webmetrics-demo	SRE
+talon failover	SRE
+Passbird Compare	Platform Services
+Manhattan - manhattan.prod.hotdog	Manhattan/Cassandra
+Manhattan - manhattan.prod.hotdog dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.hotdog appid	Manhattan/Cassandra
+Rufous	Platform services
+mobile-web-failover	SRE
+audubon.role.misc.cache5.atla	Runtime Systems
+TFlock Canary Comparison	data-services-eng
+Counting Features on Summingbird	Revenue Eng + Product
+Kujaku (Canary - ATLA)	Eng - international
+Macaw-International (Canary - ATLA)	Eng - international
+SUL Service (Production Viz Test - ATLA)	Eng - international
+SUL Service (Production - ATLA)	Eng - international
+SUL Service (Canary - ATLA)	Eng - international
+SUL Service (Staging - ATLA)	Eng - international
+SUL Service (Devel - ATLA)	Eng - international
+Blender Canary	Search
+Geoduck ReverseGeocoder Staging	Platform Services
+Geoduck ReverseGeocoder Production	Platform Services
+micheal test dashboard	Runtime Systems
+Expandodo Server (Production - ATLA)	Cards
+blender-discover	Discovery
+dba mysql tables	DBA
+dba mysql sort	DBA
+Adshard: Ratio to Production	Revenue Eng & Product
+Geoduck ReverseGeocoder Canary	Platform Services
+darkwing reservation	Data Services
+zookeeper ensemble role:zk-observability	SRE
+Backups - Network - Overview	core-storage-team
+RT - Network - Overview	Manhattan/Cassandra
+Rufous Canary	Platform services
+Manhattan - manhattan.prod.zac-counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.adama dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.adama appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-counters appid	Manhattan/Cassandra
+Ads Counting features	Revenue Eng & Product
+Talon Production	Platform Services
+Promptbird Mesos	Eng - Activation & Messaging
+Manhattan - manhattan.prod.zac-counters counter	Manhattan/Cassandra
+Temp Bookkeeper Server	Data Services
+zookeeper ensemble role:sdzookeeper	SRE
+Mobile Web Canary Stats	Mobile
+Gimlet Overview	Analytics Infrastructure
+TFE Load Test	Hardware Eng & Demand Svcs
+booyah with a wierd	observability-team
+booyah with a wierd	observability-team
+Rufous-test	Platform services
+New Dashboard  1371766440	Content Discovery
+recos-memory	Content Discovery
+booyah with a wierd	observability-team
+Training Data Collector Service	Content Discovery Infra.
+New Dashboard  1371774910	Platform Services
+Mobile Web Spam	Mobile
+New Dashboard  1371779536	Revenue Eng & Product
+engagement counter	Revenue Eng + Product
+exxtra-yhuang	Content Discovery
+Ouroboros Job	Platform Services
+New Dashboard  1371851389	Content Discovery
+dba mysql handler ops	DBA
+dba mysql handler ops	DBA
+Guano Staging	Trust and Safety - Engineering
+ARM Monitoring	Analytics Infrastructure
+New Dashboard  1372202010	Content Discovery
+Tweet Image Dark Write	Platform Services
+Manhattan - Manhattan Fleet (Cluster Disk Utilization & Cluster Size)	Manhattan/Cassandra
+haplo-redis-24-main	core services
+haplo-redis-24-atla-main	core services
+haplo-redis-24-atla-misc	core services
+haplo-redis-24-smf1-misc	core services
+haplo-redis-24-smf1-main	core services
+New Dashboard  1372352599	Observability Product
+Macaw-Swift (Canary vs Prod)	Platform Services
+Scribe High SLA (smf1)	SRE
+New Dashboard  1372377630	Observability Product
+New Dashboard  1372378806	Runtime Systems
+New Dashboard  1372379033	Runtime Systems
+New Dashboard  1372379204	Observability Product
+New Dashboard  1372380027	Observability Product
+mesos-container-stats	mesos
+New Dashboard  1372383044	Observability Product
+New Dashboard  1372383063	Observability Product
+New Dashboard  1372383578	Observability Product
+zookeeper ensemble role:sdzookeeper.test	SRE
+Ingester Protected	Search
+Kingfisher	kingfisher-team
+New Dashboard  1372445230	Revenue Eng & Product
+New Dashboard  1372445537	Revenue Eng & Product
+New Dashboard  1372446194	Observability Product
+Ingester Protected	Search
+SMF1 - Rasvelg Runner (billingservice.rasvelgrunner)	Revenue Eng & Product
+platform-health-summary	SRE
+Ibis Client Dynamic Dashboard Atla	Platform Services
+New Dashboard  1372622018	DC Services
+New Dashboard  1372639930	Observability Product
+Earlybird2	Observability
+Interference Test (Tweetypie)	Platform Services
+Tina's Server Dashboard	Platform Services
+Parus	Search
+Feature Store Service	Content Discovery Infra.
+Feature Store Service	Content Discovery Infra.
+Universal Module Stats	Search
+New Dashboard  1372723348	Platform Services
+zookeeper ensemble role:storm.zookeeper.prod	SRE
+Blender create-viz troubleshooting 	Search
+Observe::Hummingbird2::prod	Runtime Systems
+New Dashboard  1372882570	Observability Product
+hermit (Production Atla)	cassowary
+Observe::Hummingbird2::prod	Runtime Systems
+Macaw-International (Production Viz Test - SMF1)	Eng - international
+Macaw-International (Production Viz Test - ATLA)	Eng - international
+peacock-analytics	Revenue Eng + Product
+zipbird-production	Trust and Safety - Engineering
+zipbird-staging1	Trust and Safety - Engineering
+zipbird-staging2	Trust and Safety - Engineering
+zipbird-staging3	Trust and Safety - Engineering
+zookeeper role:storm.zookeeper	Streaming Compute
+zookeeper role:storm.zookeeper	Streaming Compute
+Tiered actions	Anti-Spam
+Blobstore Production Locking	core-storage-team
+exxtra-rchengyue-pavo	Content Discovery
+Endpoint stats	TCC
+Adserver	Hardware Eng + Demand Svcs
+New Storm Zookeeper Stats	Streaming Compute
+sla-dashboard-test-geo-reverse-geocode-from-ip-get	SRE
+sla-dashboard-test-users-show-get	SRE
+sla-dashboard-test-users-show-post	SRE
+sla-dashboard-test-account-verify-credentials-get	SRE
+sla-dashboard-test-account-verify-credentials-post	SRE
+sla-dashboard-test-statuses-user-timeline-get	SRE
+sla-dashboard-test-statuses-user-timeline-post	SRE
+sla-dashboard-test-statuses-home-timeline-get	SRE
+sla-dashboard-test-statuses-home-timeline-post	SRE
+sla-dashboard-test-statuses-media-timeline-get	SRE
+sla-dashboard-test-statuses-media-timeline-post	SRE
+sla-dashboard-test-geo-reverse-geocode-from-ip-post	SRE
+sla-dashboard-test-statuses-update-get	SRE
+sla-dashboard-test-statuses-update-post	SRE
+sla-dashboard-test-activity-about-me-get	SRE
+sla-dashboard-test-activity-about-me-post	SRE
+sla-dashboard-test-growth-authed-prompt-suggest-get	SRE
+sla-dashboard-test-growth-authed-prompt-suggest-post	SRE
+sla-dashboard-test-friendships-show-get	SRE
+sla-dashboard-test-friendships-show-post	SRE
+sla-dashboard-test-direct-messages-get	SRE
+sla-dashboard-test-direct-messages-post	SRE
+Mobile App Tracking Dashboard	Revenue Eng & Product
+Mobile App Tracking Dashboard	Revenue Eng & Product
+Ibis Datastore Canary	Platform Services
+AuctionModifiers LoadTest	Revenue Eng & Product
+hummingbird2-prod-smf1	Runtime Systems
+hummingbird2-prod-atla	Runtime Systems
+hummingbird2-prod-atla	Runtime Systems
+Ibis Fanout Dashboard	Platform Services
+Ibis Health	Platform Services
+New Dashboard  1373915752	DC Services
+New Dashboard  1373961778	Trends
+ClusterDuck Service Production TEST!	Content Discovery
+exxtra-kfang	Content Discovery
+Nighthawk Spoonbill NM	Cache
+Nighthawk DM NM	Cache
+ClusterDuck Service Production	Content Discovery
+Imagebird Server (smf1/canary)	Platform Services
+Ibis SMS Interpreter Dashboard	Platform Services
+New Dashboard  1374105035	Core Services
+ClusterDuck Service Staging3	Content Discovery
+Testing	Observability Product
+testing dashboard by jen	Observability Product
+jkl;jl	Observability Product
+TFE Canaries	Platform Services
+backhaul-profile	SRE
+Ouroboros Job atla	Platform Services
+Ouroboros Job smf1	Platform Services
+Storm Nimbus Worker Count	Streaming Compute
+Client Failures	TCC
+zookeeper role:storm.zookeeper.prod	Streaming Compute
+zookeeper ensemble role:storm.zookeeper.prod #2	Streaming Compute
+User Reputation Table Builder - ATLA	Search
+Second Storm Zookeeper	Streaming Compute
+Cassandra - cassandra.prod.cuckoo2	Manhattan/Cassandra
+Talon::Frontend::Prod	talon
+frigate-fanout	Personalization + Rec Systems
+Manhattan - manhattan.prod.zac2	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac2 dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac2 appid	Manhattan/Cassandra
+TFE Host Metrics Template	Platform Services
+Hadoop - PROC ATLA cluster overview	hadoop-team
+Hadoop - PROCREV ATLA cluster overview	hadoop-team
+PROC ATLA - Network - Overview	hadoop-team
+PROCREV - Network - Overview	Core Storage & Database Engineering
+TFE Overview	Platform Services
+Kafka Mirrormaker	Messaging Team
+Ouroboros Service	Platform Services
+Blender with Configurable Source (smf1)	Search
+Blender with Configurable Source (atla)	Search
+Observe::Viz::Staging	Runtime Systems
+Kestrel Replication	Runtime Systems
+dba mysql innodb	DBA
+Flock Summary	data services
+Flock Summary ATLA	data services
+TFlock Summary	data services
+TFlock Summary ATLA	data services
+Loadtest with TransformKVS and Validator	Revenue Eng + Product
+Tbird Summary	data services
+TBird Summary ATLA	Data Services
+Kestrel - Test	SRE
+DMBird Summary	data services
+DMBird Summary ATLA	Data Services
+tweetwatcher (ATLA)	Platform Service
+tweetwatcher (SMF1)	Platform Service
+Limiter Staging smf1	Platform Services
+Limiter Staging atla	Platform Services
+Limiter smf1	Platform Services
+Limiter atla	Platform Services
+Limiter Compare smf1	Platform Services
+Limiter Compare atla	Platform Services
+Limiter Template smf1	Platform Services
+Limiter Template atla	Platform Services
+Kestrel Replication-micheal	Runtime Systems
+New Dashboard  1374737712	Revenue Eng + Product
+New Dashboard  1374737732	Revenue Eng + Product
+exxtra-yhuang-replay-nba	Content Discovery
+Hadoop - HBase PROC cluster overview	Core storage & database engineering
+test test	Observability Product
+New Dashboard  1374779028	Revenue Eng & Product
+New Dashboard  1374779563	Revenue Eng + Product
+New Dashboard  1374785187	Revenue Eng + Product
+Darkwing Summary	Data Services
+Darkwing Summary	Data Services
+Storm-smf1-1-cluster-system-stats	Streaming Compute
+storm-smf1-2-cluster-system-stats	Streaming Compute
+Observe::Hummingbird::Prod::All	Runtime Systems
+Observe::Hummingbird::Prod::All	Runtime Systems
+Talon::Backend::Prod	Core Svcs - T.co
+Adshard: AB Average Comparison	Revenue Eng & Product
+New Dashboard  1375120752	Revenue Eng & Product
+Nighthawk DM API	Runtime Systems
+Nighthawk DM API	Runtime Systems
+Promotion Card Server (Production)	Revenue Eng & Product
+New Dashboard  1375121807	DC Services
+Promotion Card Server (Staging)	Revenue Eng & Product
+Observe::Viz::Prod	Runtime Systems
+Observe::Viz::Prod	Runtime Systems
+Observe::Viz::Prod	Runtime Systems
+zac counters	Manhattan/Cassandra
+my test dashboard	Manhattan/Cassandra
+sdfsdf	Manhattan/Cassandra
+foo	Manhattan/Cassandra
+Promotion Card Server SMF1 (Staging)	Revenue Eng & Product
+Promotion Card Server ATLA (Staging)	Revenue Eng & Product
+Promotion Card Server SMF1 (Production)	Revenue Eng & Product
+Promotion Card Server ATLA (Production)	Revenue Eng & Product
+ATLA Woodstar Endpoints (Viz Test)	API Core
+manhattan cuckoo counter development	Core storage & database engineering
+timelineservice (SMF1)	Platform Services
+timelineservice in the monorail	Platform Services
+timelineservice (ATLA)	Platform Services
+timelineservice canary (SMF1)	Platform Services
+timelineservice canary (ATLA)	Platform Services
+timelineservice staging (smf1)	Platform Services
+timelineservice control	Platform Services
+Manhattan - manhattan.prod.adama	Observability Product
+haplo main (smf1)	Platform Services
+Client Success Rate	TCC
+haplo main (area51)	Platform Services
+haplo main (SMF1)	Platform Services
+Statistics Service	trends-events-team
+Syndication (beta)	Platform Services
+Blender Mesos	Search
+VW Expt 1	Revenue Eng + Product
+Blender Production using Colony	Search
+haplo main - redis (SMF1)	Platform Services
+haplo misc (SMF1)	Platform Services
+haplo misc - redis (SMF1)	Platform Services
+haplo main (ATLA)	Platform Services
+haplo main - redis (ATLA)	Platform Services
+haplo misc (ATLA)	Platform Services
+haplo misc - redis (ATLA)	Platform Services
+haplo afn (SMF1)	Platform Services
+Kestrel	Runtime Systems
+DeferredRPC	Messaging Team
+booyah wtf with a wierd name	observability-team
+foo	Manhattan/Cassandra
+Invited Reminder	Eng - Activation & Messaging
+booyah wtf with a wierd name	observability-team
+API Services Dashboard smf1	Platform Services
+API Services Dashboard smf1	Platform Services
+API Services Dashboard atla	Platform Services
+API Services Dashboard atla	Platform Services
+App-proxy alerts	Platform Infrastructure
+exxtra-yhuang-replay-nba-2	Content Discovery
+go-slash-tps-new	COO - G+A
+Invitebird Staging	growth-team
+Pink-Floyd	Core Svcs - T.co
+Observe::Hummingbird::Staging::All	Runtime Systems
+cproxy::smf1::canary	Cache
+cproxy::smf1::prod	Cache
+cproxy::atla::prod	Cache
+cproxy::atla::canary	Cache
+Vertica Cluster smf1-new	Analytics
+Peacock	Revenue Eng & Product
+Rufous	Platform services
+Client Latency p50	TCC
+hermit (Production Atla)	cassowary
+aafdaaManhattan - manhattan.prod.adama	Observability Product
+Blobstore Staging Locking 11411	core-storage-team
+Blobstore Staging Locking 11412	core-storage-team
+Blobstore Staging Locking (All instances)	core-storage-team
+Blobstore Staging Locking	core-storage-team
+Blobstore Capacity	Hardware Eng + Demand Svcs
+Data Quality	Analytics Infrastructure
+Storm Nimbus Up Time	Streaming Compute
+Storm Nimbus Up Time	Streaming Compute
+Scribe High SLA (atla)	SRE
+DC-Compare	SRE
+Manhattan - manhattan.prod.omega	Manhattan/Cassandra
+Manhattan - manhattan.prod.revenue	Manhattan/Cassandra
+Feature_Store_Test	Content Discovery
+Manhattan - manhattan.prod.zac-agent dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-agent appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.limiters	Manhattan/Cassandra
+Manhattan - manhattan.prod.revenue	Manhattan/Cassandra
+Manhattan - manhattan.prod.limiters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-agent dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.limiters appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac-agent appid	Manhattan/Cassandra
+TestDB	Observability Product
+zktraffic storm.zookeeper.devel	Storm
+timelineservice-endpoints	core services
+rc-scraper's  favorite 	TCC
+Manhattan - manhattan.prod.zac.hourly	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters counter	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters counter	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.index	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.index dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.index appid	Manhattan/Cassandra
+ClusterDuck Service Staging 1	Content Discovery
+Manhattan - manhattan.prod.zac.hourly	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.agents dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.agents appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.agents dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.agents dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.agents appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.agents appid	Manhattan/Cassandra
+Twemcache::smf1::ads-11221	Cache
+Twemcache::smf1::ads-11222	Cache
+Twemcache::smf1::adstorm-23210	Cache
+Twemcache::smf1::adstorm-23211	Cache
+Twemcache::smf1::gizmoduck	Cache
+Twemcache::smf1::gizmoduck_lru	Cache
+Twemcache::smf1::tweetypie	Cache
+Twemcache::smf1::search	Cache
+Twemcache::smf1::connectbadge	Cache
+Twemcache::smf1::fragment	Cache
+Twemcache::smf1::object	Cache
+Twemcache::smf1::search-assistance	Cache
+Twemcache::smf1::syndication	Cache
+Twemcache::smf1::wtf_req	Cache
+Twemcache::smf1::ratelimit	Cache
+Twemcache::smf1::limiter-23121	Cache
+Twemcache::smf1::limiter-23122	Cache
+Twemcache::smf1::cid	Cache
+Twemcache::smf1::devices	Cache
+Twemcache::smf1::ibis	Cache
+Twemcache::smf1::imageproxy-meta	Cache
+Twemcache::smf1::kujaku	Cache
+Twemcache::smf1::macaw	Cache
+Twemcache::smf1::new_user	Cache
+Twemcache::smf1::passbird	Cache
+Twemcache::smf1::spiderduck	Cache
+Twemcache::smf1::talon	Cache
+Twemcache::smf1::topstories	Cache
+Twemcache::smf1::trends	Cache
+Twemcache::smf1::gazebo	Cache
+Twemcache::smf1::counter-23011	Cache
+Twemcache::smf1::exxtra	Cache
+Twemcache::smf1::magic	Cache
+Twemcache::smf1::mobile	Cache
+Twemcache::smf1::mobile-object-jp	Cache
+Twemcache::smf1::mobile-sms	Cache
+Twemcache::smf1::mobile-upp	Cache
+Twemcache::smf1::page	Cache
+Twemcache::smf1::promptbird2	Cache
+Twemcache::smf1::tweetdeck	Cache
+Twemcache::smf1::translate	Cache
+Twemcache::smf1::app_proxy	Cache
+Twemcache::smf1::geolocationservice	Cache
+Twemcache::smf1::hosebird	Cache
+Twemcache::smf1::ibis-api	Cache
+Twemcache::smf1::ouroboros	Cache
+Twemcache::smf1::real-time-tweets	Cache
+Twemcache::smf1::spiderduck-image	Cache
+Twemcache::smf1::united_status_l2	Cache
+Twemcache::smf1::geouser	Cache
+Twemcache::smf1::sms	Cache
+Twemcache::smf1::summingbird	Cache
+hermit (Production Per Host)	cassowary
+Twemcache::smf1::activity	Cache
+SMF1 Hadoop Proc Daemon - System	Analytics Infrastructure
+Hadoop-ProcRev QueueMetrics	Hadoop
+Audubonmon	Provisioning Engineering
+Observe::Hummingbird::Staging::All	Runtime Systems
+hermit (Production Host)	cassowary
+hermit (Production Per Host)	cassowary
+Agent Tools (for USE)	User Services - Engineering
+SYS::smf1::ads-memcache	Cache
+SYS::smf1::dedicated-ratelimit-cache	Cache
+SYS::smf1::misc-cache	Cache
+SYS::smf1::misc-cache3	Cache
+SYS::smf1::misc-small-cache	Cache
+SYS::smf1::activity.cache	Cache
+SYS::smf1::adstorm.cache	Cache
+SYS::smf1::appsrvc.cache	Cache
+SYS::smf1::appsrvc.cache.slave	Cache
+SYS::smf1::cache.search	Cache
+SYS::smf1::limiter.cache	Cache
+SYS::smf1::misc.cache4	Cache
+SYS::smf1::misc.cache5	Cache
+SYS::smf1::misc.cache6	Cache
+SYS::smf1::summingbird.cache	Cache
+Manhattan - manhattan.prod.zac.minutely dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.counters counter	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.agents dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.agents appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.counters counter	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.index	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.index dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.index appid	Manhattan/Cassandra
+hermit (Production Per Host Atla)	cassowary
+Hadoop - PROCREV ATLA cluster overview	hadoop-team
+rc-TWP changes	TCC
+Gazebo Global	Gazebo
+SYS::atla::activity.cache	Cache
+SYS::atla::ads-memcache	Cache
+SYS::atla::appsrvc.cache	Cache
+SYS::atla::cache.search	Cache
+SYS::atla::dedicated-ratelimit-cache	Cache
+SYS::atla::limiter.cache	Cache
+SYS::atla::misc-cache	Cache
+SYS::atla::misc-cache3	Cache
+SYS::atla::misc-small-cache	Cache
+SYS::atla::misc.cache5	Cache
+SYS::atla::misc.cache6	Cache
+SYS::atla::summingbird.cache	Cache
+Manhattan - zac.minutely.counters	Manhattan/Cassandra
+Manhattan - zac.minutely.counters dataset	Manhattan/Cassandra
+Manhattan - zac.minutely.counters appid	Manhattan/Cassandra
+Manhattan - zac.minutely.counters counter	Manhattan/Cassandra
+Manhattan - zac.hourly.counters	Manhattan/Cassandra
+Manhattan - zac.hourly.counters dataset	Manhattan/Cassandra
+Manhattan - zac.hourly.counters appid	Manhattan/Cassandra
+Manhattan - zac.hourly.counters counter	Manhattan/Cassandra
+Twemcache::atla::ads-11221	Cache
+Twemcache::atla::ads-11222	Cache
+Twemcache::atla::fragment	Cache
+Twemcache::atla::geolocationservice	Cache
+Twemcache::atla::geouser	Cache
+Twemcache::atla::gizmoduck	Cache
+Twemcache::atla::gizmoduck_lru	Cache
+Twemcache::atla::ibis	Cache
+Twemcache::atla::limiter-23121	Cache
+Twemcache::atla::limiter-23122	Cache
+Twemcache::atla::magic	Cache
+Twemcache::atla::mobile	Cache
+Twemcache::atla::new_user	Cache
+Twemcache::atla::object	Cache
+Twemcache::atla::page	Cache
+Twemcache::atla::passbird	Cache
+Twemcache::atla::promptbird2	Cache
+Twemcache::atla::ratelimit	Cache
+Twemcache::atla::spiderduck	Cache
+Twemcache::atla::summingbird	Cache
+Twemcache::atla::talon	Cache
+Twemcache::atla::translate	Cache
+Twemcache::atla::trends	Cache
+Twemcache::atla::tweetdeck	Cache
+Twemcache::atla::tweetypie	Cache
+Twemcache::atla::united_status_l2	Cache
+Twemcache::atla::wtf_req	Cache
+Manhattan - zac.hourly.counters	Manhattan/Cassandra
+Manhattan - zac.hourly.counters dataset	Manhattan/Cassandra
+Manhattan - zac.hourly.counters appid	Manhattan/Cassandra
+Manhattan - zac.hourly.counters counter	Manhattan/Cassandra
+Manhattan - zac.minutely.counters	Manhattan/Cassandra
+Manhattan - zac.minutely.counters dataset	Manhattan/Cassandra
+Manhattan - zac.minutely.counters appid	Manhattan/Cassandra
+Manhattan - zac.minutely.counters counter	Manhattan/Cassandra
+Twemcache::atla::activity	Cache
+Production	Prod - Growth
+Snowflake	platform-svcs-team
+Write path turnup	Core Svcs - Gizmoduck
+Macaw Example	observability-team
+Icebird	Trust and Safety - Engineering
+Events quality	Trends + Events
+Manhattan - manhattan.devel.greenbean	Manhattan/Cassandra
+Manhattan - manhattan.devel.hotdog	Manhattan/Cassandra
+Manhattan - manhattan.devel.greenbean dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.hotdog dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.greenbean appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.hotdog appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.hotdog	Manhattan/Cassandra
+Manhattan - manhattan.devel.greenbean dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.hotdog dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.greenbean appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.hotdog appid	Manhattan/Cassandra
+Adshard performance metrics	Revenue Eng & Product
+Adshard performance metrics	Revenue Eng & Product
+VW Online Correction Dashboard	Revenue Eng + Product
+DM Service (smf1)	Core Svcs - Tweets and DMs
+DM Service: methods (smf1)	Core Svcs - Tweets and DMs
+DM Service: backends (smf1)	Core Svcs - Tweets and DMs
+DM Service: clients (smf1)	Core Svcs - Tweets and DMs
+DM Service Canary (smf1)	Core Svcs - Tweets and DMs
+DM Service Canary: methods (smf1)	Core Svcs - Tweets and DMs
+DM Service Canary: backends (smf1)	Core Svcs - Tweets and DMs
+DM Service Canary: clients (smf1)	Core Svcs - Tweets and DMs
+DM Service Staging (smf1)	Core Svcs - Tweets and DMs
+DM Service Staging: methods (smf1)	Core Svcs - Tweets and DMs
+DM Service Staging: backends (smf1)	Core Svcs - Tweets and DMs
+DM Service Staging: clients (smf1)	Core Svcs - Tweets and DMs
+DM Service (atla)	Core Svcs - Tweets and DMs
+DM Service: methods (atla)	Core Svcs - Tweets and DMs
+DM Service: backends (atla)	Core Svcs - Tweets and DMs
+DM Service: clients (atla)	Core Svcs - Tweets and DMs
+DM Service Canary (atla)	Core Svcs - Tweets and DMs
+DM Service Canary: methods (atla)	Core Svcs - Tweets and DMs
+DM Service Canary: backends (atla)	Core Svcs - Tweets and DMs
+DM Service Canary: clients (atla)	Core Svcs - Tweets and DMs
+DM Service Staging (atla)	Core Svcs - Tweets and DMs
+DM Service Staging: methods (atla)	Core Svcs - Tweets and DMs
+DM Service Staging: backends (atla)	Core Svcs - Tweets and DMs
+DM Service Staging: clients (atla)	Core Svcs - Tweets and DMs
+pandabear-production	Trust and Safety - Engineering
+test dashboard	Observability Product
+ZK SLA zookeeper/atla	Zookeeper
+ZK SLA zookeeper / atla	Zookeeper
+ZK SLA szookeeper/smf1	szookeeper
+ZK SLA szookeeper/atla	szookeeper
+ZK SLA sdzookeeper/smf1	sdzookeeper
+ZK SLA sdzookeeper/atla	sdzookeeper
+Media Import Service	Platform Services
+ (SMF1 - Viz Test})	Platform Services
+ (ATLA - Viz Test})	Platform Services
+Macaw-Activity (SMF1 - Viz Test)	Platform Services
+Macaw-Activity (ATLA - Viz Test)	Platform Services
+Macaw-Activity (SMF1 - Production)	Platform Services
+Macaw-Activity (SMF1 - Staging)	Platform Services
+Macaw-Activity (ATLA - Staging)	Platform Services
+Macaw-Activity (ATLA - Production)	Platform Services
+Macaw-Conversation (SMF1 - Viz Test)	Platform Services
+Macaw-Conversation (ATLA - Viz Test)	Platform Services
+Macaw-Conversation (SMF1 - Production)	Platform Services
+Macaw-Conversation (SMF1 - Staging)	Platform Services
+Macaw-Conversation (ATLA - Production)	Platform Services
+Macaw-Conversation (ATLA - Staging)	Platform Services
+derping.derping.hi!	Observability Product
+@_@_R@##Rσω 	Observability Product
+Roc	PS - Product Security
+Flock Load Test	data services
+Macaw-Activity (SMF1 - Load Test 1)	Platform Services
+Macaw-Activity (SMF1 - Load Test 4)	Platform Services
+Macaw-Activity (SMF1 - Load Test 3)	Platform Services
+Macaw-Activity (SMF1 - Load Test 2)	Platform Services
+Macaw-Activity (ATLA - LoadTest1)	Platform Services
+Macaw-Activity (ATLA - Load Test 3)	Platform Services
+Macaw-Activity (ATLA - Load Test 2)	Platform Services
+Expandodo Nest (Production - Multi DC)	Cards
+Reflex Jobs	Content Discovery
+Wilson	Provisioning Engineering
+ClusterDuck Service Production	Content Discovery
+ClusterDuck Service Production	Content Discovery
+Stephanie's test dashboard	Observability Product
+Talon::Upstream::Service::Prod	Core Svcs - T.co
+Blobstore Customers	Blob-Store
+CARDS-1296	SRE
+discover-data	Discovery
+SMF1 Hadoop DW Daemon - System	Analytics Infrastructure
+SMF1 Hadoop RT Daemon - System	Analytics Infrastructure
+Analytics.tools	Analytics Infrastructure
+VW Online Correction Dashboard2	Revenue Eng + Product
+Ads Pctr: VW Online Correction Dashboard	Revenue Eng + Product
+Ads Pctr: VW Online Correction Dashboard	Revenue Eng + Product
+Scheduling Service Staging (SMF1)	Platform Services
+Imagebird Server (smf1/staging)	Platform Services
+Scheduling Service (SMF1)	Platform Services
+Scheduling Service (ATLA)	Platform Services
+Scheduling Service Staging (ATLA)	Platform Services
+Tweet Scheduler (SMF1)	Platform Services
+Tweet Scheduler Staging (SMF1)	Platform Services
+Tweet Scheduler (ATLA)	Platform Services
+Tweet Scheduler Staging (ATLA)	Platform Services
+Imagebird Server (smf1/production)	Platform Services
+Imagebird Server (atla/staging)	Platform Services
+Imagebird Server (atla/canary)	Platform Services
+Imagebird Server (atla/production)	Platform Services
+test-raghu	Analytics Infrastructure
+Gimlet Topic Overview	Analytics Infrastructure
+Rufous	Platform services
+Gimlet Topic Overview	Analytics Infrastructure
+Rosette Topic Overview	Analytics Infrastructure
+Flock Testing	data services
+Flock Summary Testing	data services
+exxtra-tgeorgiou-3	Content Discovery
+RoosterServerStaging	Revenue Eng + Product
+vkwok-4077	TCC
+Observe::Observe::prod::status::Prod	Runtime Systems
+Observe::Observe::prod::status::Prod	Runtime Systems
+SMF1 Hadoop DW Daemon 2 - System	Analytics Infrastructure
+SMF1 Hadoop DW Daemon 2 - System	Analytics Infrastructure
+TFE Host Metrics Template ATLA	Platform Services
+Flock Testing	data services
+Observe::Observestatus::Prod	observability-team
+Observe::Observestatus::Prod	observability-team
+haplo template (SMF1)	Platform Services
+haplo template (ATLA)	Platform Services
+haplo viztest (SMF1)	Platform Services
+Vertica Cluster atla-new	Analytics
+haplo test (SMF1)	Platform Services
+Admixer: AB Average Comparison	Revenue Eng & Product
+Admixer: AB Average Comparison	Revenue Eng & Product
+JAYH-TEST	TCC
+Manhattan - manhattan.prod.zac.minutely.agents agents	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.agents agents	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly.agents agents	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely.agents agents	Manhattan/Cassandra
+Gizmoduck Production Mesos (ATLA)	Core Services
+Gizmoduck Production Mesos (SMF1)	Core Services
+Stephanie Viz	Observability Product
+RoosterServerProd	Revenue Eng + Product
+SMF1 Coop	Platform Services
+ATLA Coop	Platform Services
+Passbird Write Path Health	API Services
+Ouroboros Service smf1	Platform Services
+Ouroboros Service atla	Platform Services
+DM Service: writes (smf1)	Core Svcs - Tweets and DMs
+PROCREV - Network - Overview	Core Storage & Database Engineering
+Hosebird Beta (smf1)	Platform Services
+Hosebird Internal (smf1)	Platform Services
+Hosebird Streamdot (smf1)	Platform Services
+Hosebird Canary (smf1)	Platform Services
+Hosebird Beta (atla)	Platform Services
+Hosebird Internal (atla)	Platform Services
+Hosebird Streamdot (atla)	Platform Services
+Hosebird Canary (atla)	Platform Services
+Hosebird Overview	Platform Services
+hosebird-template	Platform Services
+hosebird-compare	Platform Services
+Hosebird Userstream (smf1)	Platform Services
+Hosebird Partner (smf1)	Platform Services
+Hosebird Userstream (atla)	Platform Services
+Hosebird Partner (atla)	Platform Services
+Roc	PS - Product Security
+sarus	obs-team
+Chubby Snipe (smf1)	Trust and Safety - Engineering
+Chubby Snipe (atla)	Trust and Safety - Engineering
+tweet/update	TCC
+ads.admixer smf1 FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+ads.admixer atla FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+TweetyPie	Core Svcs - Tweets and DMs
+Bookkeeper Server - Kestrel Backend	Messaging Team
+Interference Test (Cards)	os-team
+redlegged	runtime-systems
+Hosebird Sitestream (smf1)	Platform Services
+Hosebird Sitestream (atla)	Platform Services
+js-atla-tfe	TCC
+timelineservice template (atla)	Platform Services
+timelineservice template (smf1)	Platform Services
+Cassowary Service Canary Hosts	User Discovery & Personalization
+timelineservice viz test	Platform Services
+LogLens	Messaging
+timelineservice canary (atla)	Platform Services
+tweet-html	TCC
+timelineservice canary-smf1 (smf1)	Platform Services
+SMF1 Coop Staging	Platform Services
+Spamacaw	Anti-Spam
+Cluster Utilization (smf1)	Aurora
+Spamacaw	Anti-Spam
+Talon::Exchequer::Prod	Core Svcs - T.co
+Macaw-Activity (ATLA - Template)	Platform Services
+Macaw-Activity (SMF1 - Template)	Platform Services
+object cache hit rates	Platform Services
+Core App Services - SMF	Platform Services
+Core App Services - testing	Platform Services
+API Failover 08/27 - 08/29	SRE
+Ouroboros Service Sandbox	Platform Services
+API failover test	SRE
+Geo Client Dashboard	Platform Services
+Nuthatch-Prod	Observability Product
+TFE	Platform Services
+Raptor (Production)	Manageability Services
+Unified Cache Dashboard ATLA	Hardware Eng & Demand Svcs
+Mesos (atla-multi)	Runtime Systems
+Monorail Request Count	Platform Services
+Ouroboros Whitelist	Platform Services
+Typeahead Daily Spikes	Hardware Eng + Demand Svcs
+Data services cache miss impact	Data Services
+Ads Counting features V3 (FastDecay)	Revenue Eng & Product
+Ads Counting features V3 (FastDecay)	Revenue Eng & Product
+kettle/devel/api	Provisioning Engineering
+Spiderduck	Core Svcs - T.co
+kettle/staging/api	Provisioning Engineering
+kettle/prod/api	Provisioning Engineering
+Spiderduck PostProcessor	Discovery
+Spiderduck PostProcessor	Discovery
+Ads Streaming Updates	Revenue Eng & Product
+Ads Streaming Updates	Revenue Eng & Product
+ryantest	observability-team
+Blobstore - (prod) storagenode HW comparison	Core Storage & Database Engineering
+exxtra-mike-replay	Content Discovery
+test/update	TCC
+test/update3	TCC
+Twemcache::smf1::pinkfloyd	Cache
+Raptor (Staging)	Manageability Services
+vkwok%5C/test	TCC
+ryantest	observability-team
+exxtra-yhuang-group-writing	Content Discovery
+Nighthawk Featurestore API (atla)	Cache
+Nighthawk Featurestore API (smf1)	Cache
+Nighthawk Featurestore Backend (smf1)	Cache
+Nighthawk Featurestore Backend (atla)	Cache
+Macaw-Conversation (ATLA - Template)	Platform Services
+Macaw-Conversation (SMF1 - Template)	Platform Services
+Manhattan - manhattan.devel.helo	Manhattan/Cassandra
+Gizmoduck Staging Mesos (ATLA)	Core Services
+Gizmoduck Staging Mesos (SMF1)	Core Services
+Gizmoduck Production (ATLA)	Core Services
+Gizmoduck Production Canary (ATLA)	Core Services
+Gizmoduck Production Kernel Canary (ATLA)	Core Services
+Gizmoduck Production JVM Canary (ATLA)	Core Services
+Gizmoduck Staging (ATLA)	Core Services
+Gizmoduck User Loader (ATLA)	Core Services
+Gizmoduck Template (ATLA)	Core Services
+Gizmoduck Production (SMF1)	Core Services
+Gizmoduck Production Canary (SMF1)	Core Services
+Gizmoduck Production Kernel Canary (SMF1)	Core Services
+Gizmoduck Production JVM Canary (SMF1)	Core Services
+Gizmoduck Staging (SMF1)	Core Services
+Gizmoduck Template (SMF1)	Core Services
+Gizmoduck User Loader (SMF1)	Core Services
+Gizmoduck Staging Load Test (SMF1)	Core Services
+Gizmoduck PBI Migration (SMF1)	Core Services
+Gizmoduck PBI Migration (ATLA)	Core Services
+Trends Service	trends
+Macaw-Cards (Canary)	Platform Services
+Nighthawk Dev API (smf1)	Cache
+Macaw-Activity (ATLA - Load Test 1)	Platform Services
+Ibis Generic Push Dashboard	Platform Services
+Nighthawk Dev API (atla)	Cache
+Nighthawk Dev Backend (smf1)	Cache
+Nighthawk Revenue Backend (smf1)	Cache
+Nighthawk Revenue Backend (atla)	Cache
+Nighthawk Revenue API (smf1)	Cache
+Nighthawk Revenue API (atla)	Cache
+Nighthawk Spb API (smf1)	Cache
+Nighthawk Spb API (atla)	Cache
+Nighthawk Spb Backend (smf1)	Cache
+Nighthawk Spb Backend (atla)	Cache
+General Purpose Zookeeper SMF1	Coordination
+General Purpose Zookeeper ACL SMF1	Coordination
+Service Discovery Zookeeper SMF1	Coordination
+General Purpose Zookeeper ATLA	Coordination
+General Purpose Zookeeper ACL ATLA	Coordination
+Service Discovery Zookeeper ATLA	Coordination
+Nighthawk Dev Backend (atla)	Cache
+Ibis Generic Push Dashboard	Platform Services
+IM 788 AB test	SRE
+Macaw Advertiser API	Revenue Eng & Product
+IM 788 AB Test 2	SRE
+im-788-ab-test-2	SRE
+IM-788-ATLA	SRE
+Twemcache::smf1::timeline_push	Cache
+Twemcache::smf1::cards_validator	Cache
+Twemcache::smf1::jubjub	Cache
+smf1-service-proxy-loadtest	Core Services
+Remaining Site Capacity - SMF1	Hardware Eng & Demand Svcs
+Remaining Site Capacity - ATLA	Hardware Eng & Demand Svcs
+DMbird Data Volume	DBA
+Test-nupurdave	Capacity Services
+Kafka-Server	Messaging Team
+Data services cache miss impact	Data Services
+App Proxy Server (Production - SMF1)	Cards
+App Proxy Server (Production - ATLA)	Cards
+ads.admixer smf1 FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+ads.adshard smf1 FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+ads.adshard atla FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+mleinartas-parrot_service_proxy_loadtest	SRE
+Ibis Canary Dashboard	Platform Services
+tweetypie-wtf	TCC
+Bug Report System Section	Platform Services
+Monorail caches	SRE
+macaw-discover	Discovery
+(New) Topology in atla: ads-staging-counting-features-fast-decay	Streaming Compute
+(New) Topology in atla: flamingo-synthetic-atla-2	Streaming Compute
+(New) Topology in atla: ads-production-counting-features	Streaming Compute
+(New) Topology in smf1: ads-staging-counting-features-fast-decay	Streaming Compute
+(New) Topology in atla: flamingo-synthetic-atla-1	Streaming Compute
+(New) Topology in atla: benchmark-1	Streaming Compute
+(New) Topology in atla: ads-rtt-user-engagement	Streaming Compute
+(New) Topology in atla: ads-rtt-firehose	Streaming Compute
+(New) Topology in atla: summingbird_FeatureAggregator	Streaming Compute
+(New) Topology in atla: spend_cache_writer	Streaming Compute
+(New) Topology in atla: parus-firehose-topology	Streaming Compute
+(New) Topology in atla: summingbird_OuroborosJob	Streaming Compute
+(New) Topology in atla: parus-scribehose-topology	Streaming Compute
+(New) Topology in atla: summingbird_EngagementCountAggregator	Streaming Compute
+(New) Topology in atla: parus-socialhose-topology	Streaming Compute
+(New) Topology in atla: ads-production-streaming-updates	Streaming Compute
+(New) Topology in smf1: summingbird_PromptbirdActionCollectJob	Streaming Compute
+(New) Topology in smf1: partner-support-topology	Streaming Compute
+(New) Topology in smf1: summingbird_TupleGeneratorJob	Streaming Compute
+(New) Topology in smf1: summingbird_TimelinePushJob	Streaming Compute
+(New) Topology in smf1: flamingo-synthetic-smf1-2	Streaming Compute
+(New) Topology in smf1: parus-socialhose-topology	Streaming Compute
+(New) Topology in smf1: summingbird_OuroborosJob	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterJob	Streaming Compute
+(New) Topology in smf1: ads-production-streaming-updates	Streaming Compute
+(New) Topology in smf1: ads-production-counting-features	Streaming Compute
+(New) Topology in smf1: storm-trident-synthetic	Streaming Compute
+(New) Topology in smf1: parus-firehose-topology	Streaming Compute
+(New) Topology in smf1: storm-kafka-synthetic	Streaming Compute
+(New) Topology in smf1: summingbird_FrigateJob	Streaming Compute
+(New) Topology in smf1: open_link_tracking_topology	Streaming Compute
+(New) Topology in smf1: exxtra-snikolov-events	Streaming Compute
+(New) Topology in smf1: partner-support-topology-test	Streaming Compute
+(New) Topology in smf1: summingbird_HashtagTimeSeriesJob	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-2	Streaming Compute
+(New) Topology in smf1: summingbird_TvConversationJob	Streaming Compute
+(New) Topology in smf1: cat-staging-muffy	Streaming Compute
+(New) Topology in smf1: summingbird_FollowerTweetJob	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-5	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-4	Streaming Compute
+(New) Topology in smf1: flamingoapp_honten	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-3	Streaming Compute
+(New) Topology in smf1: simple-test	Streaming Compute
+(New) Topology in smf1: flamingo_engagement_honten	Streaming Compute
+(New) Topology in smf1: sholiday_logfirehose_8	Streaming Compute
+(New) Topology in smf1: summingbird_TweetDigestJob	Streaming Compute
+(New) Topology in smf1: zazu_honten	Streaming Compute
+(New) Topology in smf1: summingbird_ConversationJob	Streaming Compute
+(New) Topology in smf1: jason-test-log-firehose-2c	Streaming Compute
+(New) Topology in smf1: eulertestsid	Streaming Compute
+(New) Topology in smf1: Trends	Streaming Compute
+(New) Topology in smf1: jason-flamingo	Streaming Compute
+(New) Topology in smf1: nbhagat_exclm1	Streaming Compute
+(New) Topology in smf1: discovery-top-stories-test-aarmstrong	Streaming Compute
+(New) Topology in smf1: exxtra-mike1	Streaming Compute
+(New) Topology in smf1: jason-test-fake-data-1	Streaming Compute
+(New) Topology in smf1: summingbird_SocialMentionsJob	Streaming Compute
+(New) Topology in smf1: summingbird_TsarSummingbirdJob	Streaming Compute
+(New) Topology in smf1: geoduck-hw-efroese-test	Streaming Compute
+(New) Topology in smf1: summingbird_HashtagImpressionsJob	Streaming Compute
+(New) Topology in smf1: data-recorder-topology	Streaming Compute
+(New) Topology in smf1: exxtra-tgeorgiou-2	Streaming Compute
+(New) Topology in smf1: exxtra-tgeorgiou	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-1	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCountJob	Streaming Compute
+(New) Topology in smf1: partner-support-topology-x	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-0	Streaming Compute
+(New) Topology in smf1: discovery-top-stories-test-aarmstrong-social-proof	Streaming Compute
+(New) Topology in smf1: hello_world	Streaming Compute
+(New) Topology in smf1: ads-rtt-firehose	Streaming Compute
+(New) Topology in smf1: ads-rtt-socialhose	Streaming Compute
+(New) Topology in smf1: summingbird_RecentImpressionsJob	Streaming Compute
+(New) Topology in smf1: summingbird_HashtagMentionsAnalyticsJob	Streaming Compute
+(New) Topology in smf1: parus-scribehose-topology	Streaming Compute
+(New) Topology in smf1: summingbird_RetweetCountJob	Streaming Compute
+(New) Topology in smf1: spend_cache_writer	Streaming Compute
+(New) Topology in smf1: ads-heist-query	Streaming Compute
+(New) Topology in smf1: exxtra-prod2	Streaming Compute
+(New) Topology in smf1: summingbird_MentionCountJob	Streaming Compute
+(New) Topology in smf1: exxtra-prod1	Streaming Compute
+(New) Topology in smf1: summingbird_EngagementCountAggregator	Streaming Compute
+(New) Topology in smf1: discovery-top-stories-social-proof	Streaming Compute
+(New) Topology in smf1: flamingo-synthetic-smf1-1	Streaming Compute
+(New) Topology in smf1: summingbird_client_event_counter	Streaming Compute
+(New) Topology in smf1: summingbird_LanRetweetCountJob	Streaming Compute
+(New) Topology in smf1: frigate-socialhose-topology	Streaming Compute
+(New) Topology in smf1: summingbird_TVHashtagAtsignJob	Streaming Compute
+(New) Topology in smf1: ads-mact-install	Streaming Compute
+(New) Topology in smf1: ads-rtt-user-engagement	Streaming Compute
+(New) Topology in smf1: discovery-top-stories	Streaming Compute
+(New) Topology in smf1: summingbird_HashtagSearchesAnalyticsJob	Streaming Compute
+(New) Topology in smf1: ads-heist-tweet	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang	Streaming Compute
+(New) Topology in smf1: summingbird_HappyFeetJob	Streaming Compute
+(New) Topology in smf1: sgarg-storm-starter	Streaming Compute
+(New) Topology in smf1: mhansmire-test-1234	Streaming Compute
+(New) Topology in smf1: summingbird_URLCountJob	Streaming Compute
+(New) Topology in smf1: summingbird_TupleGeneratorJobOmid	Streaming Compute
+(New) Topology in smf1: sgarg-storm-example1	Streaming Compute
+(New) Topology in smf1: sgarg-storm-example2	Streaming Compute
+(New) Topology in smf1: summingbird_FilterImpressionJob	Streaming Compute
+(New) Topology in smf1: sgarg-status-topology	Streaming Compute
+cards-gc	SRE
+(New) Topology in smf1: sandpiper-test-svemuri	Streaming Compute
+Bug Report System Section	Platform Services
+Bug Report System Section	Platform Services
+Twemcache::atla::jubjub	Cache
+Talon-DM-Insight	Core Svcs - T.co
+(New) Topology in smf1: nbhagat_exclm5	Streaming Compute
+(New) Topology in smf1: sandpiper-test-svemuri3	Streaming Compute
+Cuckoo::Read-time Aggregation	Runtime Systems
+Filter Mentions	Search
+sparkes	Observability Product
+test343	Analytics Infrastructure
+Analytics.tools	Analytics Infrastructure
+Analytics.tools.staging	Analytics Infrastructure
+(New) Topology in smf1: sgarg-firehose-topology	Streaming Compute
+Monorail caches exp	SRE
+Expandodo Product (Production - ATLA)	Cards
+Expandodo Product (Production - SMF1)	Cards
+(New) Topology in smf1: exxtra-tgeorgiou2	Streaming Compute
+sshah-Cuckooshrike_SMF1 	Observability Product
+MediaAnalysisService (Prod)	Platform Services
+MediaAnalysisService (Canary)	Platform Services
+MediaAnalysisService (Staging)	Platform Services
+MediaAnalysisService (Prod)	Platform Services
+MediaAnalysisService (Canary)	Platform Services
+MediaAnalysisService (Staging)	Platform Services
+Procrev Log Pipeline Overview	Analytics
+xinxiang::smf1::all-pools	Cache
+xinxiang::smf1::all-pools-qps	Cache
+(New) Topology in smf1: exxtra-jhan	Streaming Compute
+(New) Topology in smf1: nbhagat_exclm6	Streaming Compute
+sshah-Cuckooshrike_ATLA	Observability Product
+Photurkey (atla/production)	Platform Services
+promptbird	Prod - Growth
+(New) Topology in smf1: summingbird_KestrelProducerJob	Streaming Compute
+Flock Canary Comparison Double RPS test	Data Services
+(New) Topology in smf1: sgarg-data-analysis	Streaming Compute
+TFlock Test	data services
+(New) Topology in smf1: summingbird_ConversationPushJob	Streaming Compute
+SocialGraph Staging (ATLA)	Platform Services
+SocialGraph Production Canary (ATLA)	Platform Services
+SocialGraph Production (ATLA)	Platform Services
+(New) Topology in smf1: summingbird_TupleCounterJobOmid	Streaming Compute
+xinxiang::smf1::all-pools-hitrate	Cache
+(New) Topology in smf1: summingbird_RetweetCountJobTest	Streaming Compute
+Photurkey (atla/canary)	Platform Services
+Nuthatch-Staging	Observability Product
+Adserver Health	Revenue Eng & Product
+(New) Topology in smf1: sandpiper-svemuri	Streaming Compute
+Failover	TCC
+Mediainfo (smf1/staging)	Platform Services
+Mediainfo (smf1/canary)	Platform Services
+Trends Service	trends
+Trends Service	trends
+(New) Topology in smf1: ads-mact-install-backup	Streaming Compute
+Mediainfo (atla/staging)	Platform Services
+(New) Topology in smf1: flamingoapp	Streaming Compute
+Twitter Alerts	Lifeline
+(New) Topology in smf1: flamingoLoglensDemo	Streaming Compute
+Mediainfo (smf1/production)	Platform Services
+Mediainfo (atla/canary)	Platform Services
+Mediainfo (atla/production)	Platform Services
+(New) Topology in smf1: ads-mact-loadtest	Streaming Compute
+(New) Topology in smf1: nbhagat_exclm11	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events	Streaming Compute
+Glassbird	glassbird-team
+(New) Topology in smf1: summingbird_FrigateProducerJob	Streaming Compute
+(New) Topology in smf1: summingbird_TaninRetweetCountJob	Streaming Compute
+Tsar Query Service - CardsInsights	platform-analytics
+(New) Topology in atla: nbhagat_exclm11	Streaming Compute
+(New) Topology in smf1: zazu_david	Streaming Compute
+(New) Topology in smf1: summingbird_sholiday_URLCount	Streaming Compute
+(New) Topology in smf1: summingbird_client_event_counter_topology_naming	Streaming Compute
+Corporate Productivity VMS	Corporate Productivity
+typeahead	api-frameworks
+Tbird Test	data services
+Login Verification Push Bits Fix	Core Svcs - Product Security
+Twemcache::atla::pinkfloyd	Cache
+(New) Topology in smf1: summingbird_ZazuEngagementCountsJob	Streaming Compute
+(New) Topology in atla: ads-rtt-socialhose	Streaming Compute
+(New) Topology in smf1: sandpiper-svemuri1	Streaming Compute
+hosebird-userstream	Platform Services
+Macaw-Validator (Production - SMF1)	Cards
+Macaw-Validator (Production - ATLA)	Cards
+mesos-container-stats-instance	mesos
+hosebird-streamdot	Platform Services
+ouro-storm-cache	Public
+(New) Topology in smf1: summingbird_PidJob	Streaming Compute
+EventParrot	Content Knowledge
+Birdsye 0.1 Dashboard	Revenue Eng + Product
+timelineservice	Platform Services
+Bing -Annotation tests	Core Svcs - Tweets and DMs
+(New) Topology in smf1: frigate-integration-topology	Streaming Compute
+Observe::Cuckoo::Staging	Runtime Systems
+Bookkeeper Server - Stage Backend	Messaging Team
+(New) Topology in smf1: exxtra-yhuang-zombie	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-control	Streaming Compute
+DeferredRPC Staging	Messaging Team
+DeferredRPC - DistributedLog Staging	Messaging Team
+Blender with Configurable Source (atla)	Search
+Trends Service	trends
+DMBird Test	data services
+(New) Topology in smf1: sholiday_logfirehose	Streaming Compute
+Spoonbill	Web Client
+(New) Topology in smf1: summingbird_TweetCountJobXgu0000	Streaming Compute
+(New) Topology in atla: fake-data-1	Streaming Compute
+Ingester - atla	Search
+BookKeeper	Messaging Team
+(New) Topology in smf1: exxtra-yhuang-zombie-2	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-control-2	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-zombie-nonzero-centroid-2	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCountUnitJobXgu0000	Streaming Compute
+Groups	SRE
+Groups Transform	DBA
+Macaw-Cards (Viz Test) - ATLA	Platform Services
+Macaw-Cards - ATLA (Production)	Platform Services
+Macaw-Cards - ATLA (Canary)	Platform Services
+Macaw-Cards - ATLA (Staging)	Platform Services
+exxtra-yhuang-control	Content Discovery
+exxtra-yhuang-zombie	Content Discovery
+Consolidated User Creation Launch	Core Svcs - Gizmoduck
+FlockDB Loadtest (Client View)	Data Services
+Nuthatch-Prod	Observability Product
+Ads Realtime Text Targeting - Storm Topology	Revenue Eng & Product
+Ingester - smf1	Search
+Ibis Event Consumer	Platform Services
+(New) Topology in smf1: summingbird_TweetCountJobLongXgu0000	Streaming Compute
+(New) Topology in smf1: summingbird_EngagementCountAggregatorStaging	Streaming Compute
+(New) Topology in smf1: summingbird_TfwUrlJob	Streaming Compute
+TCC Dashboard	TCC
+Push Notification Timeouts	Mobile-Messaging
+hadoop-procrev-nn-state	Hadoop
+(New) Topology in smf1: summingbird_justinTweetCount	Streaming Compute
+Frigate Notifier Dogfood	Personalization + Rec Systems
+Ingester Discovery - smf1	Search
+(New) Topology in smf1: summingbird_XXTweetCountJob	Streaming Compute
+(New) Topology in smf1: sholiday_fireHose	Streaming Compute
+(New) Topology in smf1: sholiday_loglens	Streaming Compute
+marul-example	marul
+Storm Visualizer	Observability Product
+(New) Topology in smf1: gzuzic-storm-test	Streaming Compute
+frigate-fanout-dev	Personalization + Rec Systems
+(New) Topology in smf1: TestTupleLoss	Streaming Compute
+(New) Topology in smf1: summingbird_URLCountJobPwagle	Streaming Compute
+testing easyviz	Observability Product
+Manhattan - manhattan.prod.blobstore	Manhattan/Cassandra
+Manhattan - manhattan.prod.blobstore dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.blobstore appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.blobstore	Manhattan/Cassandra
+Manhattan - manhattan.prod.blobstore dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.blobstore appid	Manhattan/Cassandra
+(New) Topology in smf1: gabor-tweet-events1	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events3	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events2	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-replication	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-replication2	Streaming Compute
+(New) Topology in smf1: sholiday_loglens2	Streaming Compute
+(New) Topology in smf1: flamingo-synthetic-dev	Streaming Compute
+Storm Viz Dashboard Demo	Streaming Compute
+Frigate Notifier test	Personalization + Rec Systems
+Flock double RPS, multiple platforms	dba-team
+(New) Topology in smf1: XXStormCounter	Streaming Compute
+Ibis Kestrel Dashboard	Platform Services
+(New) Topology in smf1: exxtra-yhuang-logs	Streaming Compute
+(New) Topology in smf1: summingbird_TweetTopicTmsJob	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-first	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-first2	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-reliable	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-reliable2	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-reliable3	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-reliable4	Streaming Compute
+woodstar_threads	TCC
+Ads Realtime Daemon	Revenue Eng & Product
+(New) Topology in smf1: summingbird_TvConversation2Job	Streaming Compute
+TweetDeck Daemon Mesos (Canary)	TweetDeck
+timelineservice-xdc-test	Platform Services
+Core App Services	Platform Services
+(New) Topology in smf1: summingbird_URLCount_sholiday	Streaming Compute
+(New) Topology in smf1: TestTupleLoss-new	Streaming Compute
+(New) Topology in smf1: TestTupleLoss-new1	Streaming Compute
+(New) Topology in smf1: FireHoseSample_sholiday	Streaming Compute
+Ouroboros Service Canary	Platform Services
+(New) Topology in smf1: sholiday_sampleTopology	Streaming Compute
+Ibis Server Dynamic Dashboard	Platform Services
+Ibis Relevance Dashboard	Platform Services
+(New) Topology in smf1: TestTupleLoss-new3	Streaming Compute
+Blobstore - Manhattan vs Cassandra	SRE
+discover-data	Discovery
+(New) Topology in smf1: TestTupleLoss-new5	Streaming Compute
+Ibis Dashboard	Platform Services
+zeus-aquila-cputest	Capacity Services
+(New) Topology in atla: partner-support-topology	Streaming Compute
+(New) Topology in smf1: ankit-test	Streaming Compute
+(New) Topology in smf1: ankit-test2	Streaming Compute
+Validator	Cards
+(New) Topology in smf1: nb_kafka_testing	Streaming Compute
+(New) Topology in smf1: ankit-test3	Streaming Compute
+(New) Topology in smf1: ads-mact-install-imp-store	Streaming Compute
+Ibis Timeline Executor Dashboard	Platform Services
+Monorail Light Read Endpoints	SRE
+Twemcache::atla::mobile-upp	Cache
+(New) Topology in smf1: gabor-tweet-events-reliable6	Streaming Compute
+Ads API Partners	Platform Relations
+(New) Topology in smf1: gabor-tweet-events-reliable7	Streaming Compute
+TweetDeck Daemon Mesos	TweetDeck
+Ibis Health Canary	Platform Services
+Core App Services	Platform Services
+Monorail Failover to ATLA Overview	SRE
+Monorail Failover to ATLA Overview	SRE
+(New) Topology in smf1: summingbird_URLCountJob_amedina	Streaming Compute
+(New) Topology in smf1: summingbird_UserTopicTmsJob	Streaming Compute
+(New) Topology in atla: stormpad_firehose	Streaming Compute
+(New) Topology in smf1: summingbird_URLCountJob_klin	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-reliable8	Streaming Compute
+(New) Topology in smf1: stormpad_firehose	Streaming Compute
+ValidateUser/Monorail Integration	Core Svcs - Gizmoduck
+Insight Service (SMF1)	Insights Team
+(New) Topology in smf1: gabor-tweet-events-100M	Streaming Compute
+(New) Topology in smf1: summingbird_FriendJoinedPushJob_cpuerta	Streaming Compute
+aurora-smf1-utilization	Aurora
+Spiderduck::Fetcher-Domains::Prod	Core Svcs - T.co
+DM Service: writes (atla)	Core Svcs - Tweets and DMs
+DM Service Canary: writes (smf1)	Core Svcs - Tweets and DMs
+DM Service Staging: writes (smf1)	Core Svcs - Tweets and DMs
+DM Service Canary: writes (atla)	Core Svcs - Tweets and DMs
+DM Service Staging: writes (atla)	Core Svcs - Tweets and DMs
+(New) Topology in smf1: gabor-tweet-events-first-100M	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-10M-2	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-10M-3	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-10M-1	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-100M-1	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-10M-test8	Streaming Compute
+(New) Topology in smf1: gabor-tweet-events-100M-test2	Streaming Compute
+Observe::Hummingbird::prod::cuckoo-only	Runtime Systems
+Observe::Hummingbird::prod::apache	Runtime Systems
+Observe::Hummingbird::prod::cuckoo-only	Runtime Systems
+Observe::Hummingbird::prod::apache	Runtime Systems
+(New) Topology in smf1: gabor-tweet-events-100M-test	Streaming Compute
+(New) Topology in smf1: SummingStormCounter	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-debug	Streaming Compute
+Hadoop - DW cluster overview - Null is 0	Manhattan/Cassandra
+aurora-atla-utilization	Aurora
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-master	Streaming Compute
+macaw-swift-atla-sdzk	Platform Services
+macaw-swift-sdzk	Platform Services
+hosebird-usersite-partition	Platform Services
+macaw-swift-atla-sdzk	Platform Services
+Reflex Stats	Content Discovery
+(New) Topology in smf1: HashtagCountJob	Streaming Compute
+TV Targeting	Revenue TV
+Manhattan - manhattan.prod.enzo2	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo dataset2	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo dataset2	Manhattan/Cassandra
+ClusterDuck Service Staging0	Content Discovery
+(New) Topology in smf1: exxtra-yhuang-memcached	Streaming Compute
+(New) Topology in atla: ank	Streaming Compute
+(New) Topology in smf1: ads-mact-install-new	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-master	Streaming Compute
+s_dot_twitter	TCC
+api-admin	Plattools
+TCC-nonumber-cards	TCC
+TCC-1318	TCC
+(New) Topology in smf1: ads-production-tv-audience	Streaming Compute
+password-reset-daemon-stats	Core Svcs - Product Security
+(New) Topology in smf1: summingbird_TvConversation1Job	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-master	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-top-features	Streaming Compute
+alert-engagement_counter_devel	SRE
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-top-features	Streaming Compute
+Cuckoo::Read-time Aggregation	Runtime Systems
+TSA Host Metrics Template	Platform Services
+IM-845	TCC
+Passbird Logins	Core Svcs - Product Security
+Spelling	Search
+(New) Topology in smf1: HashtagCountJob$8a03545f-65ae-4f26-bd8a-1065f0581c38	Streaming Compute
+Macaw Search (viztest)	macaw-search-team
+Manhattan - manhattan.prod.roslin	Manhattan/Cassandra
+Insight Service (ATLA)	Insights Team
+Insight Service Staging (SMF1)	Insights Team
+Insight Service Staging (ATLA)	Insights Team
+$SERVICE_NAME (Viz Test)	TEAM_NAME
+Twemcache::atla::cid	Cache
+(New) Topology in smf1: exxtra-yhuang-nba-finals-top-features-2	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-nba-finals-master	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-top-features-2	Streaming Compute
+Log Category	Analytics Infrastructure
+Macaw-Search LoadTest 1	Demand Services
+Blobstore - (staging) storagenode	Core Storage & Database Engineering
+Blobstore - (staging) manager	Core Storage & Database Engineering
+Blobstore - (staging) metadata	Core Storage & Database Engineering
+Blobstore - (staging) kestrel	Core Storage & Database Engineering
+Blobstore - (staging) storagenode ATLA	Core Storage & Database Engineering
+Expandodo Nest (Staging - Multi DC)	Cards
+Blobstore - (staging) manager ATLA	Core Storage & Database Engineering
+Blobstore - (staging) metadata ATLA	Core Storage & Database Engineering
+Blobstore - (staging) kestrel ATLA	Core Storage & Database Engineering
+Blobstore - (staging) tfe ATLA	Core storage & Database engineering
+(New) Topology in smf1: nbhagat_logFirehose	Streaming Compute
+Macaw-Insights (SMF1)	Insights Team
+Macaw-Insights (ATLA)	Insights Team
+Macaw-Insights Staging (SMF1)	Insights Team
+Macaw-Insights Staging (ATLA)	Insights Team
+Macaw Typeahead (canary)	macaw-search-team
+Macaw Typeahead (staging)	macaw-search-team
+SMF1 Coop Mesos	Platform Services
+IM-853	TCC
+CopySourceTweetEntities	Core Svcs - Tweets and DMs
+Twitterweb Compare (smf1-awf-21-sr4)	Platform Services
+hermit (Canary)	cassowary
+(New) Topology in smf1: summingbird_TupleGeneratorJobProdApi	Streaming Compute
+hermit (Production Per Host Atla)	cassowary
+(New) Topology in smf1: summingbird_EngagementCountAggregatorSpend	Streaming Compute
+(New) Topology in smf1: summingbird_EngagementCountAggregatorTrends	Streaming Compute
+Expandodo Product (Production - SMF1 Staging)	Cards
+Expandodo Product (Production - SMF1 Staging)	Cards
+(New) Topology in smf1: summingbird_FixedDomainTrackerJob	Streaming Compute
+TweetDeck Daemon Mesos	TweetDeck
+cmarshall test 	SRE
+Guano-Service	Trust and Safety - Engineering
+API-10-14	TCC
+(New) Topology in smf1: summingbird_EngagementCountAggregatorImpressions	Streaming Compute
+Manhattan - rocketbird.manhattan	Manhattan/Cassandra
+Manhattan - manhattan.devel.helo dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.roslin dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod2.blobstore dataset	Manhattan/Cassandra
+Manhattan - rocketbird.manhattan dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.helo appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.roslin appid	Manhattan/Cassandra
+Manhattan - manhattan.prod2.blobstore appid	Manhattan/Cassandra
+Manhattan - rocketbird.manhattan appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.greenbean	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.hourly	Manhattan/Cassandra
+Manhattan - manhattan.prod.zac.minutely	Manhattan/Cassandra
+(New) Topology in smf1: ads-rtt-firehose-staging	Streaming Compute
+(New) Topology in smf1: jason-test-log-firehose-1c	Streaming Compute
+(New) Topology in smf1: summingbird_TupleGeneratorJobGeneric	Streaming Compute
+TCC-1365	TCC
+Zeus/Aquila TFE CPU Test	Capacity Services
+Zeus/Aquila TFE CPU Test	Capacity Services
+Security Viz	Core Svcs - Product Security
+ATLA Coop Mesos	Platform Services
+(New) Topology in smf1: exxtra-xx	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterJobGeneric	Streaming Compute
+gizzard-load-test-double-rps-20131010	DBA
+TweetDeck Daemon Mesos (Staging)	TweetDeck
+@j3h DMSERVICE-284 investigation	Core Svcs - Tweets and DMs
+NewDash	Observability Product
+Geo Canary	Core Svcs - Geo
+(New) Topology in smf1: ads-mact-install-test	Streaming Compute
+EventBus Customers ATLA	Messaging Team
+EventBus Customers SMF1	Messaging Team
+browse	Provisioning Engineering
+a/b/c/d	Provisioning Engineering
+(New) Topology in smf1: ads-mact-install-test2	Streaming Compute
+macaw-discoverLoadtest 10-17-14-50	Discovery
+(New) Topology in atla: ads-production-tv-audience	Streaming Compute
+macaw-discover Loadtest 10-17-15-26	Search
+EventBus Kafka	Messaging Team
+DM Service	Core Svcs - Tweets and DMs
+fanoutservice main (TEST)	Platform Services
+fanoutservice activity (TEST)	Platform Services
+Manhattan DR	Capacity Services
+EventBus	Messaging Team
+fanoutservice lowqos (TEST)	Platform Services
+Guano Read Service	T+S - Engineering
+macaw-discover Loadtest 10-17-19-31	Search
+macaw-discover Loadtest 10-18-00-57	Search
+macaw-discover Loadtest 10-18-10-51	Search
+macaw-discover Loadtest 10-18-10-59	Search
+macaw-discover Loadtest 10-18-12-02	Search
+macaw-discover Loadtest 10-18-12-21	Search
+Whoop Coordinator	Manageability Services
+(New) Topology in smf1: nbhagat_newKafkaFirehose	Streaming Compute
+System Bug	observability-team
+(New) Topology in smf1: nbhagat_oldKafkaFirehose	Streaming Compute
+Ads Pctr: VW Static Prediction Dashboard	Revenue Eng + Product
+Ads Pctr: VW Static Prediction Dashboard	Revenue Eng + Product
+(New) Topology in smf1: nbhagat_oldKafkaFirehose1	Streaming Compute
+Macaw-Login Production	Core Svcs - Product Security
+(New) Topology in smf1: nbhagat_newKafkaFirehoseCI	Streaming Compute
+rpande.dash.test.1	SRE
+(New) Topology in smf1: ads-mact-loadtest-lei	Streaming Compute
+(New) Topology in smf1: summingbird_TupleGeneratorJob2	Streaming Compute
+Blender Production using Colony	Search
+Blender Canary using Colony	Search
+Blender Canary using Colony	Search
+(New) Topology in smf1: summingbird_TvProfileJob	Streaming Compute
+IM-865	TCC
+macaw-discover Loadtest 10-21-11-14	Search
+fanoutservice lowqos	Platform Services
+fanoutservice main	Platform Services
+fanoutservice activity	Platform Services
+(New) Topology in smf1: alambert_logFirehose	Streaming Compute
+(New) Topology in smf1: ankit-test-validator	Streaming Compute
+vertica.test	DBA
+User updates to hosebird via monorail	Core Svcs - Gizmoduck
+(New) Topology in smf1: nbhagat_multistoreOffset	Streaming Compute
+Woodstar Mesos Canary (Shard 0)	Platform Services
+Hadoop2 - scheduler info	Hadoop
+Woodstar Mesos Canary (Shard 0) ATLA	Platform Services
+Vertica Test Cluster	DBA
+(New) Topology in smf1: FireHoseSample_alambert	Streaming Compute
+api-admin-devel	Plattools
+api-admin-staging1	Plattools
+(New) Topology in smf1: summingbird_TupleCounterJobBuilder	Streaming Compute
+(New) Topology in atla: ankit-test	Streaming Compute
+Second Session Exp Dash	Web
+(New) Topology in smf1: summingbird_URLCountJob_pradhuman	Streaming Compute
+Hosebird Template (smf1)	Platform Services
+Hosebird Compare (smf1)	Platform Services
+Hosebird Template (atla)	Platform Services
+Hosebird Compare (atla)	Platform Services
+Nighthawk Test Revenue API (atla)	Cache
+Devprod Deploy	SRE
+(New) Topology in smf1: TestAutoTuningStarvation	Streaming Compute
+Blender Mesos	Search
+aurora-atla	Aurora
+(New) Topology in smf1: summingbird_UserCohortJob	Streaming Compute
+(New) Topology in smf1: summingbird_FriendJoinedNotificationJob_cpuerta	Streaming Compute
+TweetDeck Chrome	TweetDeck
+(New) Topology in smf1: nbhagat_mh_futures	Streaming Compute
+BS	SRE
+Dir Replicators	Analytics Infrastructure
+(New) Topology in smf1: nbhagat_mh_futures1	Streaming Compute
+Guano Read Service (staging)	T+S - Engineering
+(New) Topology in smf1: nbhagat_mh_futures2	Streaming Compute
+(New) Topology in smf1: parus-alambert-firehose-topology	Streaming Compute
+Nighthawk Dm API (smf1)	Cache
+Nighthawk Dm Backend (smf1)	Cache
+Nighthawk Dm API (atla)	Cache
+Nighthawk Dm Backend (atla)	Cache
+Monorail Swift Account Settings	Web
+(New) Topology in smf1: nbhagat_mhfutures1	Streaming Compute
+(New) Topology in smf1: nbhagat_mhfutures2	Streaming Compute
+(New) Topology in smf1: nbhagat_mhfutures3	Streaming Compute
+(New) Topology in smf1: nbhagat_mhfutures4	Streaming Compute
+(New) Topology in smf1: nbhagat_mhfutures5	Streaming Compute
+(New) Topology in smf1: nbhagat_mhfutures6	Streaming Compute
+(New) Topology in smf1: summingbird_summingbird_ZazuEngagementCountsJobStaging	Streaming Compute
+Manhattan - manhattan.prod.baltar	Manhattan/Cassandra
+Manhattan - manhattan.prod.baltar dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.baltar appid	Manhattan/Cassandra
+TFE Staging	Platform Services
+TFE Preflight	Platform Services
+(New) Topology in smf1: FireHoseSample_ytang	Streaming Compute
+(New) Topology in smf1: summingbird_FriendJoinedNotificationJob	Streaming Compute
+Eventbus David	Messaging Team
+Macaw-Swift (Viz Test)	Platform Services
+Macaw-Swift ATLA (Viz Test)	Platform Services
+Twemcache::atla::imageproxy-meta	Cache
+Rosette Topic Overview	Analytics Infrastructure
+(New) Topology in smf1: Kestrel_Parus_ytang	Streaming Compute
+Log Pipeline Overview	Analytics
+(New) Topology in smf1: summingbird_FeatureStoreParusJob	Streaming Compute
+(New) Topology in smf1: summingbird_URLCountJob_ioconnell	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCounts_amedina	Streaming Compute
+(New) Topology in smf1: sandpiper	Streaming Compute
+usertopics	usertopics-team
+Nighthawk Test Revenue Backend (smf1)	Cache
+CAT Topology	User Services - Engineering
+(New) Topology in smf1: summingbird_xji_test_PidJob	Streaming Compute
+546	Observability Product
+(New) Topology in smf1: summingbird_exprollup_rt__amedina	Streaming Compute
+TFlock Shard View	DBA
+(New) Topology in smf1: summingbird_URLCountJob_atodi	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCountJob_atodi	Streaming Compute
+Observe::Viz::Front-End Test	Observability Product
+Frigate Listener	Personalization + Rec Systems
+(New) Topology in smf1: summingbird_ExpRollupRTJob_amedina	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCountJob2_atodi	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCountJob3_atodi	Streaming Compute
+TFE Session Ticket Key Generator	product-security
+Friend Joined Notifications (Production Test - SMF1)	Eng - Activation & Messaging
+(New) Topology in smf1: summingbird_exprollup_rt_amedina	Streaming Compute
+(New) Topology in smf1: summingbird_TupleGeneratorTestOmid	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterTestOmid	Streaming Compute
+SMS/Push Fanout Metrics	Mobile
+Twemcache::smf1::partner_support	Cache
+(New) Topology in smf1: summingbird_FeatureStoreParusUpdaterJob	Streaming Compute
+(New) Topology in smf1: summingbird_ZazuEngagementCountsJobStaging	Streaming Compute
+(New) Topology in smf1: summingbird_tv_profile_test	Streaming Compute
+Rosette consumer spam events	Anti-Spam
+(New) Topology in smf1: summingbird_URLCountJob_zzhou	Streaming Compute
+(New) Topology in smf1: summingbird_AdsCountJob_zzhou	Streaming Compute
+Friend Joined Notifications (Production - SMF1)	Eng - Activation & Messaging
+Service Cloud Metrics	User Services - Engineering
+Blobstore - (prod) locking	Core Storage & Database Engineering
+BotMaker	Anti-Spam
+(New) Topology in smf1: nbhagat_kafka1	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka2	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka3	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka4	Streaming Compute
+Blender-Smoketest with Configurable Source	Search
+Blender-Smoketest with Configurable Source	Search
+TCC-1475	TCC
+(New) Topology in smf1: nbhagat_kafka5	Streaming Compute
+xinxiang-test	Cache
+(New) Topology in smf1: nbhagat_kafka6	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka7	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-truncate-centroid-grouping-1	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka8	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-truncate-centroid-grouping-1	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka9	Streaming Compute
+Rainbird Aggregator (Mesos)	Platform Services
+My/Dashboard/10/14	Observability Product
+NightOwl	TCC
+(New) Topology in smf1: parus-firehose-topology-staged	Streaming Compute
+Passbird login verification counts	product-security
+SYS::atla::misc.cache4	Cache
+Hosebird Usersitestream (smf1, partitioned)	Platform Services
+(New) Topology in smf1: nbhagat_kafka10	Streaming Compute
+Manhattan - manhattan.prod.jammer	Manhattan/Cassandra
+Manhattan - manhattan.test.quantum	Manhattan/Cassandra
+(New) Topology in smf1: nbhagat_kafka11	Streaming Compute
+Manhattan - manhattan.prod.jammer dataset	Manhattan/Cassandra
+Manhattan - manhattan.test.quantum dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.jammer appid	Manhattan/Cassandra
+Manhattan - manhattan.test.quantum appid	Manhattan/Cassandra
+(New) Topology in smf1: nbhagat_kafka12	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka13	Streaming Compute
+(New) Topology in atla: parus-firehose-topology-staged	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka15	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka16	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka17	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka18	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka19	Streaming Compute
+Manhattan - manhattan.prod.jammer	Manhattan/Cassandra
+Manhattan - manhattan.prod.jammer dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.jammer appid	Manhattan/Cassandra
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-truncate-centroid-grouping-2	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-truncate-centroid-grouping-2	Streaming Compute
+ads.adshard smf1 Nighthawk Usage Metrics (Nighthawk Datasets)	Revenue Eng & Product
+ads.adshard atla Nighthawk Usage Metrics (Nighthawk Datasets)	Revenue Eng & Product
+ads.admixer smf1 Nighthawk Usage Metrics (Nighthawk Datasets)	Revenue Eng & Product
+ads.admixer atla Nighthawk Usage Metrics (Nighthawk Datasets)	Revenue Eng & Product
+(New) Topology in smf1: summingbird_FeatureStoreParusUpdaterProducerJob	Streaming Compute
+Nuthatch :: Worker Monitor	Runtime Systems
+(New) Topology in smf1: summingbird_FeatureStoreParusUpdaterStormJob	Streaming Compute
+DistributedLog - Write Service	Messaging Team
+DistributedLog - Read Service	Messaging Team
+(New) Topology in smf1: nbhagat_kafka20	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka21	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka22	Streaming Compute
+spam events	Anti-Spam
+(New) Topology in smf1: nbhagat_kafka23	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka25	Streaming Compute
+TCC Dashboard ATLA	TCC
+(New) Topology in smf1: mfu-test-1	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-master-2	Streaming Compute
+(New) Topology in smf1: summingbird_URLCountJob_nbelmonte	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-master-2	Streaming Compute
+Corpprod: Birdhouse	Corporate Productivity
+TCC - Service Success Rate	TCC
+DistributedLog Server	Messaging Team
+(New) Topology in smf1: mfu-test-storm	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka28	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka29	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-finale-master	Streaming Compute
+BookKeeper EarlyBird	Messaging Team
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-finale-master	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka30	Streaming Compute
+Hadoop - DW2 SMF1 cluster overview	hadoop-team
+(New) Topology in smf1: nbhagat_kafka32	Streaming Compute
+Hadoop - DWREV SMF1 cluster overview	hadoop-team
+(New) Topology in smf1: nbhagat_kafka34	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaStarvationInducedFail	Streaming Compute
+DW2 - Network - Overview	core-storage-team
+DWREV - Network - Overview	core-storage-team
+(New) Topology in smf1: nbhagat_kafka35	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka36	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaStarvationBoundCap	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaStarvationBoundKafka	Streaming Compute
+tweetypie-deploy	TCC
+(New) Topology in smf1: mfu-storm-test	Streaming Compute
+PROCREV - Network - Overview	Core Storage & Database Engineering
+(New) Topology in smf1: nbhagat_kafka37	Streaming Compute
+goservice	goservice-team
+(New) Topology in smf1: exxtra-yhuang-all-season-premieres-finale-truncate-centroid-grouping-3	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-finale-truncate-centroid-grouping-3	Streaming Compute
+(New) Topology in smf1: FireHoseSample_kmalik	Streaming Compute
+Derp Manhattan - manhattan.devel.greenbean	Observability Product
+(New) Topology in smf1: summingbird_TupleGeneratorJobLohith	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka40	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka41	Streaming Compute
+(New) Topology in smf1: summingbird_TopNewsPushJob	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka42	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka43	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka44	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka45	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka46	Streaming Compute
+xinxiang-devices-hitrate	Cache
+(New) Topology in smf1: nbhagat_kafka47	Streaming Compute
+(New) Topology in smf1: exxtra-yhuang-breaking-bad-actual-master	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka48	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka49	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka50	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaStarvationOneSlowBolt	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka51	Streaming Compute
+BookKeeper Quantum	Messaging Team
+Observe::Ami::Front-End	Observability Product
+Blobstore Canary Comparison	blobcore
+(New) Topology in smf1: nbhagat_kafka52	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka53	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka54	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka55	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka56	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka57	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka58	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka59	Streaming Compute
+Blobstore - (prod) storagenode HW comparison	Core Storage & Database Engineering
+(New) Topology in smf1: nbhagat_kafka60	Streaming Compute
+(New) Topology in smf1: summingbird_NewsPushJob	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka61	Streaming Compute
+(New) Topology in smf1: staneja_logHose	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka91	Streaming Compute
+Jubjub v2 ATLA Prod	Timelines Quality
+(New) Topology in smf1: nbhagat_kafka71	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka92	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka72	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_with_same_ifelse_no_utils	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_with_if_no_utils	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_with_same_ifelse_with__utils	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_with_if_with_utils	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_with_if_no_utils_with_read	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_with_if_no_utils_no_read	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_cleaned	Streaming Compute
+(New) Topology in smf1: summingbird_TupleGeneratorJobHydrated	Streaming Compute
+(New) Topology in smf1: staneja_memcache	Streaming Compute
+Twemcache::smf1::devices-warmer	Cache
+TBird-FlexSchema	Data Services
+(New) Topology in smf1: nbhagat_kafka_science_rv_ks_pm	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_cleaned_11_7	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaStarvationInducedFails	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_cleaned_2	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaStarvationBoundTopology	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_rv_all-2	Streaming Compute
+TBird-FlexSchema-LOADTEST	Data Services
+Cuckoo::Staging::Read-time Aggregation	Runtime Systems
+Search Updater on Mesos	Search
+Search Updater on Mesos	Search
+(New) Topology in smf1: nbhagat_kafka_cleaned_3	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_rv_all	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_rv_all1	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_rv_all-nodebg	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_only_pm_rv	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_only_major_reverts	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_2	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_synced	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterTestOmidDebug	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterTestOmidDebug2	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_synced_verify	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterTestOmidDebug3	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterTestOmidDebug4	Streaming Compute
+(New) Topology in smf1: sc-contact-update-topology-test	Streaming Compute
+(New) Topology in smf1: staneja_wordcount	Streaming Compute
+(New) Topology in smf1: summingbird_TupleCounterTestOmidDebug5	Streaming Compute
+Invitebird Production	growth-team
+Invitebird Production	growth-team
+woodstar-endpoints-user-experience	API Core
+(New) Topology in smf1: summingbird_TupleCounterTestOmidDebug6	Streaming Compute
+(New) Topology in smf1: staneja_kafkaout	Streaming Compute
+(New) Topology in smf1: KestrelTestTopology	Streaming Compute
+Cuckoo::Staging::Read-time Aggregation	Runtime Systems
+rthangavel's oncall dashboard	Anti-Spam
+Manhattan - manhattan.test.zac.minutely.counters	Manhattan/Cassandra
+Manhattan - manhattan.prod.tbird dataset	Manhattan/Cassandra
+Manhattan - manhattan.test.zac.minutely.counters dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.tbird appid	Manhattan/Cassandra
+Manhattan - manhattan.test.zac.minutely.counters appid	Manhattan/Cassandra
+Manhattan - manhattan.test.zac.minutely.counters counter	Manhattan/Cassandra
+(New) Topology in smf1: nbhagat_kafka_science_mh	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_mh_1	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_science_mh_2	Streaming Compute
+(New) Topology in smf1: alex_wordcount	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_final	Streaming Compute
+Twemcache::atla::devices	Cache
+(New) Topology in smf1: nbhagat_kafka_sanstest	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_all_whistles	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_presubmit	Streaming Compute
+(New) Topology in smf1: david_wordcount	Streaming Compute
+(New) Topology in smf1: nbhagat_kafka_presubmit_0	Streaming Compute
+(New) Topology in smf1: vb_wordcount	Streaming Compute
+(New) Topology in smf1: pkhanduri_logHoseReader	Streaming Compute
+@j3h DM service write-time spam check	Core Svcs - Tweets and DMs
+(New) Topology in smf1: pbommannavar_logHoseReader	Streaming Compute
+(New) Topology in smf1: david_logHoseReader	Streaming Compute
+(New) Topology in smf1: bvenkatachalam_logHoseReader	Streaming Compute
+Timeline Service Api - SMF1	Platform Services
+(New) Topology in smf1: zzhou_logHoseReader	Streaming Compute
+Ouroboros Whitelist	Platform Services
+(New) Topology in smf1: amedina_expRollupRT	Streaming Compute
+Blocks From At Replies	Anti-Spam
+Anti-Spam Real time blocks	Anti-Spam
+(New) Topology in atla: summingbird_FeatureStoreParusUpdaterStormJob	Streaming Compute
+(New) Topology in smf1: dong_logHoseReader	Streaming Compute
+Timeline Service Api - ATLA	Platform Services
+(New) Topology in smf1: summingbird_wordcounter	Streaming Compute
+(New) Topology in smf1: mfu_logFirehose	Streaming Compute
+phan_viz_drafts	Hadoop
+(New) Topology in smf1: sc-contact-update-topology-test-karan	Streaming Compute
+(New) Topology in smf1: mfu-flamingoapp	Streaming Compute
+(New) Topology in smf1: summingbird_QueryCountJob_pradhuman	Streaming Compute
+(New) Topology in smf1: nbhagat_offset_exception	Streaming Compute
+xuecongl_talon_p99_latencies	Core Svcs - T.co
+(New) Topology in smf1: summingbird_amedina_expRollupRTJob_SB	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STRM	Streaming Compute
+Blobstore Canary Comparison	blobcore
+(New) Topology in smf1: dongtweepcredupdater	Streaming Compute
+Realtime Daemon canary	Revenue Eng & Product
+TCC-1553	TCC
+Macaw-Login Dark Read	Core Svcs - Product Security
+Feature Store Parus Updater	Content Discovery
+(New) Topology in smf1: dong_tweepcred_updater	Streaming Compute
+hadoop1-scheduler-info-dw	Hadoop
+(New) Topology in smf1: TestAutoTuningScience	Streaming Compute
+iOS Platform Monitor	Mobile
+(New) Topology in smf1: TestAutoTuningKafkaScience	Streaming Compute
+(New) Topology in smf1: summingbird_FilteredStatusSourceJob	Streaming Compute
+Experimental Talon Dashboard	Core Svcs - T.co
+RPS by cluster and domain	TCC
+(New) Topology in smf1: summingbird_MynaJob_pradhuman	Streaming Compute
+Blobstore - (staging) tfe	Core storage & Database engineering
+Digits	Eng - Activation + Messaging
+Blobstore - (prod) tfe	Core storage & Database engineering
+Photurkey (smf1/staging)	Platform Services
+Photurkey (atla/production)	Platform Services
+Photurkey (atla/canary)	Platform Services
+Photurkey (atla/staging)	Platform Services
+Blobstore - (prod) tfe	Core storage & Database engineering
+IM-894	TCC
+ATLA Woodstar Endpoints (Pre-Production)	API Core
+marulexample	marulexample-team
+(New) Topology in smf1: summingbird_OrganicEngagementCountAggregatorJob	Streaming Compute
+(New) Topology in smf1: summingbird_MentionsHashtagsCollectJob	Streaming Compute
+macaw-typeahead	api-frameworks
+Macaw Typeahead (viztest)	macaw-search-team
+Macaw Typeahead (prod)	macaw-search-team
+Macaw Typeahead (prod)	macaw-search-team
+Macaw-Typeahead ATLA (Production)	api-frameworks
+Macaw-Typeahead (Production)	api-frameworks
+Macaw Search (staging)	macaw-search-team
+Macaw Search (canary)	macaw-search-team
+Macaw Search (prod)	macaw-search-team
+Macaw Search (staging)	macaw-search-team
+Macaw Search (canary)	macaw-search-team
+Macaw Search (prod)	macaw-search-team
+(New) Topology in smf1: zzhou_adsrequest_count	Streaming Compute
+TCC-1563	TCC
+xuecongl_talon_canary_p99_latencies	Core Svcs - T.co
+Viz Ad Hoc	Runtime Systems
+(New) Topology in smf1: staneja_logHoseReader	Streaming Compute
+(New) Topology in smf1: nbhagat_offset_exception2	Streaming Compute
+(New) Topology in smf1: summingbird_top_words	Streaming Compute
+(New) Topology in smf1: summingbird_FeatureStoreParusUpdaterStormJob2	Streaming Compute
+Core Svcs T.co Capacity Planning	Core Svcs - T.co
+Rufous Darkread	Platform services
+Manhattan - URLError: timed out dataset	Manhattan/Cassandra
+Manhattan - This is usually caused by incorrect server name or the server timing out. dataset	Manhattan/Cassandra
+Manhattan - URLError: timed out appid	Manhattan/Cassandra
+Manhattan - This is usually caused by incorrect server name or the server timing out. appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo appid2	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbuck	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.enzo appid	Manhattan/Cassandra
+Talon Key Service	Data Services
+Talon Key Service	Data Services
+blender-discover-canary	Discovery
+Talon Dashboard	Core Svcs - T.co
+(New) Topology in smf1: amedina_expRollupRT_STRM_1	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STRM_2	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STRM_ONE_WORKER	Streaming Compute
+Spiderduck::Fetcher::Template	Core Svcs - T.co
+Syslog Scribe	Fleet Management
+Spiderduck::Fetcher::Template	Core Svcs - T.co
+Hadoop - MANHATTAN SMF1 cluster overview	hadoop-team
+(New) Topology in smf1: amedina_expRollupRT_STRM_3W	Streaming Compute
+Absorbme-gzhou-Devel	Engineering
+Ingesters & Indexers - protected cluster	Search
+Ingesters & Indexers - protected cluster	Search
+Ingesters & Indexers - realtime cluster	Search
+Ingesters & Indexers - realtime cluster	Search
+Sherlock test	TCC
+Service Latency p50	TCC
+Realtime Daemon	Revenue Eng & Product
+Talon Scribehose Proudction Summary atla prod	Core Svcs - T.co
+Consolidated User XAuth Login	Core Svcs - Product Security
+RevCap	Capacity Services
+(New) Topology in smf1: skulkarni_kestrelReader	Streaming Compute
+Earlybird Root Protected	Search
+Earlybird Root SSD Archive	Search
+Earlybird Root In-memory Archive	Search
+Earlybird Root SSD Archive	Search
+Earlybird Root In-memory Archive	Search
+Earlybird Root Protected	Search
+(New) Topology in smf1: nbhagat_offset_exception_desabled	Streaming Compute
+(New) Topology in smf1: skulkarni_oldKestrelReader	Streaming Compute
+DMBird Transform	DBA
+Absorbme-ak-Devel	Engineering
+SMF1 - Spend Server (ads.spendserver-test)	Revenue Eng & Product
+Global Zookeeper SMF1	Coordination
+Global Zookeeper ATLA	Coordination
+Absorbme-roneill-Devel	Engineering
+(New) Topology in smf1: amedina_expRollupRT_STRM_NEW	Streaming Compute
+Macaw Search (viztest)	macaw-search-team
+Ingesters & Indexers - discovery cluster	Search
+(New) Topology in smf1: amedina_expRollupRT_STORM	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_ALL	Streaming Compute
+Admixer: Aggregated by Zone	Revenue Eng & Product
+Absorbme-gsisson-Devel	Engineering
+(New) Topology in smf1: amedina_expRollupRT_STORM_NEW	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_NN	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_AA	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_CC	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_DD	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_EE	Streaming Compute
+(New) Topology in smf1: amedina_expRollupRT_STORM_EF	Streaming Compute
+Absorbme-adelviscio-Devel	Engineering
+Absorbme-kmerrill-Devel	Engineering
+(New) Topology in smf1: summingbird_tweets_with	Streaming Compute
+Absorbme-atollenaere-Devel	Engineering
+Absorbme-ssilverman-Devel	Engineering
+Suspended Tickets Submissions	User Services - Engineering
+Absorbme-dfennelly-Devel	Engineering
+Absorbme-billg-Devel	Engineering
+Statebird-Billg-Devel	Analytics
+Absorbme-staneja-Devel	Engineering
+Absorbme-aghise-Devel	Engineering
+Example Observability Dashboard	Ads
+Absorbme-mwenzel-Devel	Engineering
+Absorbme-jlin-Devel	Engineering
+Absorbme-nvuong-Devel	Engineering
+Absorbme-dknightly-Devel	Engineering
+Timeline Search Ingester - smf1	Search
+Absorbme-xuecongl-Devel	Engineering
+(New) Topology in smf1: amedina_expRollupRT_STORM_GG	Streaming Compute
+(New) Topology in smf1: sc-contact-update-topology-test-sgarg	Streaming Compute
+Timeline Search Ingester - atla	Search
+Macaw Typeahead (viztest)	macaw-search-team
+Absorbme-sungp-Devel	Engineering
+(New) Topology in smf1: light_exprollup_rt	Streaming Compute
+Absorbme-awilcox-Devel	Engineering
+Timeline Search Root - smf1	Search
+(New) Topology in smf1: mfu_storm_test	Streaming Compute
+IM-902	TCC
+Standup Graphs	TCC
+lyrebird	observability
+TSA UserSiteStream	Platform Services
+ads.index_server smf1 FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+ads.index_server atla FSDatasets Usage Metrics (FSManhattan)	Revenue Eng & Product
+(New) Topology in smf1: atoshniwal_sampleTopology	Streaming Compute
+Vertica Revenue Insights Cluster	DBA
+Vertica Revenue Insights Cluster (2)	DBA
+(New) Topology in smf1: mfu_flamingoapp	Streaming Compute
+Geoduck PlaceService Staging	Core Svcs - Geo
+Geoduck PlaceService Production	Core Svcs - Geo
+Geoduck PlaceService Canary	Core Svcs - Geo
+Geoduck PlaceService Staging	Core Svcs - Geo
+Geoduck PlaceService Production	Core Svcs - Geo
+Geoduck PlaceService Canary	Core Svcs - Geo
+Macaw-Login Canary	Core Svcs - Product Security
+(New) Topology in smf1: summingbird_FeatureAggregator	Streaming Compute
+Manhattan - manhattan.prod.starbucks	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbucks dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.starbucks appid	Manhattan/Cassandra
+Statebird-Analytics-Staging	Analytics
+Statebird-Analytics-Prod	Analytics
+Hadoop2 - scheduler PROC@atla info	Hadoop
+statebird	analytics
+(New) Topology in smf1: summingbird_TuplePrinterJob	Streaming Compute
+gjtest Help Center	User Services - Engineering
+(New) Topology in smf1: TestAutoTuningKafkaStarvationSanjeevInducedFails	Streaming Compute
+Mockingjay Metadata Collection	Content Knowledge
+Mockingjay Metadata Service	Content Knowledge
+Mockingjay Metadata Service (staging)	Content Knowledge
+Mockingjay Metadata Collection (staging)	Content Knowledge
+(New) Topology in smf1: summingbird_ZazuEngagementCountsJobJustin	Streaming Compute
+(New) Topology in smf1: mfu-storm	Streaming Compute
+(New) Topology in smf1: TestAutoTuningKafkaDummy	Streaming Compute
+(New) Topology in smf1: TestAutoTuningTest	Streaming Compute
+Ingesters & Indexers - discovery cluster	Search
+(New) Topology in smf1: TestAutoTuningKafkaTest	Streaming Compute
+(New) Topology in smf1: jason-drpc-test-1	Streaming Compute
+BookKeeper ExpertSearch	Messaging Team
+marulexample-devel	observability
+marulexample-staging	observability
+marulexample-prod	observability
+Network digest-image proxy	Eng - Activation + Messaging
+Groups Transform	DBA
+Ingestor API (Prod)	Platform Services
+Ingestor API (Prod)	Platform Services
+Media Ingestor API (Prod)	Platform Services
+Media Ingestor API (Prod)	Platform Services
+tweetwatcher viz test	Platform Service
+New Dashboard	DBA
+macaw-catbird	revenue-eng-team
+(New) Topology in smf1: TestAutoTuningKafkaSanjeevDummy	Streaming Compute
+(New) Topology in smf1: FireHoseSample22_junjunl	Streaming Compute
+(New) Topology in smf1: fail-hose	Streaming Compute
+Manhattan - manhattan.prod.roslin	Manhattan/Cassandra
+Manhattan - manhattan.prod.roslin dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.roslin appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.foster	Manhattan/Cassandra
+Manhattan - manhattan.prod.foster dataset	Manhattan/Cassandra
+Manhattan - manhattan.prod.foster appid	Manhattan/Cassandra
+(New) Topology in smf1: TestAutoTuningKafkaNewChanges	Streaming Compute
+Hosebird Thrift (smf1)	Platform Services
+(New) Topology in smf1: mfu-reach	Streaming Compute
+(New) Topology in smf1: SanjeevDummyTopology	Streaming Compute
+Payment (Staging)	Revenue Eng & Product
+App Companion Staging	App Companion
+(New) Topology in smf1: summingbird_URLCountJob_jackson	Streaming Compute
+Email Confirmation Blast	Eng - Activation & Messaging
+Darkwing Transform	DBA
+(New) Topology in smf1: jason-log-firehose	Streaming Compute
+(New) Topology in smf1: fake-data-1	Streaming Compute
+(New) Topology in smf1: jason-firehose-trident-test	Streaming Compute
+Blobstore - (prod) storagenode Parameterized	Core Storage & Database Engineering
+Blobstore - (prod) storagenode Parameterized	Core Storage & Database Engineering
+Blobstore - (prod) tfe Parameterized	Core storage & Database engineering
+Blobstore - (prod) tfe Parameterized	Core storage & Database engineering
+Blobstore - (prod) tfe JVM canary	Core Storage & Database Engineering
+Blobstore - (prod) storagenode jvm	Core Storage & Database Engineering
+Tsar Query Service - CardsInsights	platform-analytics
+(New) Topology in atla: summingbird_EngagementCountAggregatorImpressions	Streaming Compute
+(New) Topology in smf1: summingbird_URLCountJob_achen	Streaming Compute
+IM-911	TCC
+(New) Topology in smf1: StormReliabilityMetric	Streaming Compute
+TweetDeck Daemon (Canary)	Mobile
+Timeline Search Partition - smf1	Search
+(New) Topology in smf1: summingbird_total_user_tweets	Streaming Compute
+Service Failures	TCC
+(New) Topology in smf1: TestAutoTuningKafkaStarvationInducedFailsOld	Streaming Compute
+vkwok-167	TCC
+owen	TCC
+vkwok-169	TCC
+(New) Topology in smf1: TestAutoTuningKafkaStarvationSanjeevTest	Streaming Compute
+(New) Topology in smf1: summingbird_TweetCountJob_achen	Streaming Compute
+tcc-signup	TCC
+dba mysql innodb ibuf ops	DBA
+dba mysql innodb ibuf ops	DBA
+temp-oliver	TCC
+(New) Topology in smf1: summingbird_WindowCounterJob	Streaming Compute
+(New) Topology in smf1: summingbird_FriendJoinedNotificationJob_rvincelette	Streaming Compute
+Earlybird Realtime	Search
+Macaw-Login Darkread Atla	Core Svcs - Product Security
+Consolidated User XAuth Login Dark Read	Core Svcs - Product Security
+(New) Topology in smf1: partner-support-topology-dev	Streaming Compute
+(New) Topology in smf1: cat-staging-leah	Streaming Compute
+hadoop1-user-hdfs-usage-dw	Hadoop
+IM-914	TCC
+MynahBird (Prod)	Platform Services
+MynahBird (Prod)	Platform Services
+blender-discover-staging	Discovery
+Twitterweb 2x loadtest	SRE
+blender-discover-canary	Discovery
+blender-discover-staging	Discovery
+(New) Topology in smf1: TestSanjeevBuildTest1	Streaming Compute
+Macaw-Swift 2x Loadtest	SRE
+Frigate Notifier Shard host 6	Personalization + Rec Systems
+24 hour Aggregate Success Rate	TCC
+MediaBatchProcessor (Prod)	Media Services
+MediaBatchProcessor (Staging)	Media Services
+IM-916	TCC
+IM-917	TCC
+TweetDeck OAuth (devel)	TweetDeck
+Hadoop-end2end	hadoop-team
+Ingesters & Indexers - userupdates cluster	Search
+Ingesters & Indexers - userupdates cluster	Search
+macaw-publishing-portal - prod	Platform Product
+(New) Topology in smf1: summingbird_TestZazuEngagementCountsJob	Streaming Compute
+discover-data-canary	Discovery
+discover-data-staging	Discovery
+Service Cloud : Daemons	User Services - Engineering
+woodstar-2x-loadtest	SRE
+(New) Topology in smf1: summingbird_TupleGeneratorJobNew	Streaming Compute
+(New) Topology in smf1: summingbird_xji_tfw_map	Streaming Compute
+Corpprod: Roster	Corporate Productivity
+Kingfisher Sandbox	kingfisher-team
+statebird-test	eng
+statebirdtest	eng
+Twemcache::smf1::hato_retweet_count	Cache
+Twemcache::atla::hato_retweet_count	Cache
+tcc-growth	TCC
+WEBCLIENT-599 Scribe Debug	Web
+(New) Topology in smf1: parus-myexperiment-socialhose-topology	Streaming Compute
+IM-920	TCC
+Macaw-Login Darkread Tap-Compare	Core Svcs - Product Security
+(New) Topology in smf1: summingbird_WindowTrackerJob	Streaming Compute
+(New) Topology in smf1: summingbird_storm_test_job	Streaming Compute
+WEBCLIENT-599 Scribe Debug	Web
+Vine frontend	Core storage & Database engineering
+(New) Topology in smf1: summingbird_tfw_map	Streaming Compute
+Core Svcs T.co SLA	Core Svcs - T.co
+(New) Topology in smf1: summingbird_analytics	Streaming Compute
+IM-931	TCC
+yxiong onestore integration board	Core Svcs - T.co
+(New) Topology in smf1: summingbird_ZazuEngagementCountsJobDev	Streaming Compute
+Roc Canary	PS - Product Security
+(New) Topology in smf1: summingbird_TestSocialHoseInteg	Streaming Compute
+MH-LNP-TEST	capacity-eng
+Macaw-Swift overview (smf1)	Web
+Macaw-Swift overview (atla)	Web
+Macaw Search (smf1)	macaw-search-team
+Endpoint request rates	TCC
+Vine frontend	Core storage & Database engineering
+Manhattan - omega dataset	Manhattan/Cassandra
+Manhattan - omega appid	Manhattan/Cassandra
+Manhattan - manhattan.prod.omega	Manhattan/Cassandra
+(New) Topology in smf1: mfu-storm-alter	Streaming Compute
+(New) Topology in smf1: mfu-alter	Streaming Compute
+(New) Topology in smf1: summingbird_MynaJob_ppei	Streaming Compute
+(New) Topology in smf1: summingbird_TvConversation3Job	Streaming Compute
+(New) Topology in smf1: summingbird_tsar_storm_test_job_achen	Streaming Compute
+Devel Zookeeper ATLA	Coordination
+(New) Topology in smf1: storm-test	Streaming Compute
+discover-data-staging	Discovery
+discover-data-canary	Discovery
+(New) Topology in smf1: summingbird_atodi_storm_test_job	Streaming Compute
+Twemcache::atla::karma	Cache
+Twemcache::smf1::karma	Cache
+Nighthawk Dev API:: Get (smf1)	Cache
+Guano Read Service Vs Legacy	T+S - Engineering
+Manhattan - manhattan.devel.dev1	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev10	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev2	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev3	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev4	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev5	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev6	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev7	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev8	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev9	Manhattan/Cassandra
+Manhattan - manhattan.prod.prov-m	Manhattan/Cassandra
+Manhattan - manhattan.prod.spare-d	Manhattan/Cassandra
+Ibis Relevance + SMS/Push Dashboard	Platform Services
+hadoop1-user-hdfs-usage-dw-tpl	Hadoop
+Amplify Production	TV + Video
+xuecongl_talon_canary_p99_latencies_shard1	Core Svcs - T.co
+(New) Topology in smf1: summingbird_achen_summingbird_birdcage_test	Streaming Compute
+hermit (Staging Per Host)	cassowary
+(New) Topology in smf1: summingbird_TaxiTupleGeneratorJob	Streaming Compute
+Guanostore	data services
+Search Assistance Beta (Configurable)	Search
+Guanostore	data services
+(New) Topology in smf1: summingbird_engagement	Streaming Compute
+blender-discover-smoketest-configurable	Discovery
+blender-discover	Discovery
+blender-discover-configurable	Discovery
+Corpprod: Visitors	Corporate Productivity
+blender-discover-smoketest-configurable	Discovery
+blender-discover-configurable	Discovery
+(New) Topology in smf1: sc-contact-update-topology-staging	Streaming Compute
+svcsvc/devel/ui	Configuration
+TweetDeck OAuth	TweetDeck
+Universal Workflow Mesos	Search
+Universal Workflow Mesos	Search
+svcsvc/staging/ui	Configuration
+(New) Topology in smf1: ads-mact-install-staging	Streaming Compute
+Monitoring EngagementCounterSBJob	Analytics Infrastructure
+Tsar Query Service - Impression by tweet devel	platform-analytics
+Ibis Datastore Staging	Data Infrastructure
+Corpprod: Falquora	Corporate Productivity
+Mockingjay Metadata Service (staging)	Content Knowledge
+Hosebird Partnerstream 3 (smf1)	Platform Services
+Earlybird Realtime	Search
+Mockingjay Metadata Service	Content Knowledge
+Polly Server	International Engineering
+Earlybird Protected Realtime	Search
+Earlybird Protected Realtime	Search
+Earlybird Discovery Realtime	Search
+Earlybird Discovery Realtime	Search
+Earlybird Top Archive Memory	Search
+Earlybird Top Archive Memory	Search
+Earlybird Top Archive SSD	Search
+Earlybird Top Archive SSD	Search
+Earlybird Realtime Single	Search
+Earlybird Realtime Single	Search
+Earlybird Protected Realtime Single	Search
+Earlybird Protected Realtime Single	Search
+Earlybird Discovery Realtime Single	Search
+Earlybird Discovery Realtime Single	Search
+Earlybird Top Archive Memory Single	Search
+Earlybird Top Archive Memory Single	Search
+Earlybird Top Archive SSD Single	Search
+Earlybird Top Archive SSD Single	Search
+Polly Server	International Engineering
+Blobstore - (Vine) storagenode	Core Storage & Database Engineering
+Blobstore - (Vine) storagenode	Core Storage & Database Engineering
+Blobstore - () locking	Core Storage & Database Engineering
+Vine locking	Core Storage & Database Engineering
+Manhattan - parameterized	Manhattan/Cassandra
+Blobstore - Vine manager	Core Storage & Database Engineering
+Manhattan - parameterized	Manhattan/Cassandra
+Manhattan - manhattan.prod.tbird	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev1 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev10 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev2 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev3 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev4 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev5 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev6 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev7 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev8 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev9 dataset	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev1 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev10 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev2 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev3 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev4 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev5 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev6 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev7 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev8 appid	Manhattan/Cassandra
+Manhattan - manhattan.devel.dev9 appid	Manhattan/Cassandra
+(New) Topology in smf1: summingbird_myna	Streaming Compute
+(New) Topology in smf1: summingbird_tsar_storm_test_job_atodi	Streaming Compute
+DM Photos - Write Path	Core Svcs - Tweets and DMs
+DM Photos - Reads	Core Svcs - Tweets and DMs
+(New) Topology in smf1: summingbird_cnt_map	Streaming Compute
+(New) Topology in smf1: summingbird_statuses-example	Streaming Compute
+Image Fetcher Service (Staging)	Media Services
+Image Fetcher Service (Canary)	Media Services
+Image Fetcher Service (Staging)	Media Services
+Image Fetcher Service (Canary)	Media Services
+TFE Host Metrics Template ATLA	Platform Services
+Monorail Service Proxy	Platform Services
+Monorail Service Proxy (ATLA)	Platform Services
+Blender with Configurable Source Mesos (smf1)	Search
+per-instance-mesos-container-stats	os-team
+per-instance-mesos-container-stats	os-team
+(New) Topology in smf1: sandpiper-test	Streaming Compute
+(New) Topology in smf1: contact-daemon-topology	Streaming Compute
+Mobile Web MaxB	Mobile
+IM-942	TCC
+(New) Topology in smf1: summingbird_ptrEngagement	Streaming Compute
+(New) Topology in smf1: summingbird_client_event_test	Streaming Compute
+Rufous SLA	Platform services
+IM-945	TCC
+IM-946	TCC
+TweetDeck Canary Daemon	Mobile
+Amplify Staging	TV + Video
+Amplify Dev SMF1	TV + Video
+Mobile Web Signups	Mobile
+(New) Topology in smf1: LangCountKafka-1936109921478892107	Streaming Compute
+Gizmoduck Staging Load Test (SMF1)	Core Services
+Twitter Insight Surveys	Ads
+(New) Topology in smf1: LangCountKafka-2803687196773194475	Streaming Compute
+(New) Topology in smf1: TestTopology_1-1756091910308836421	Streaming Compute
+(New) Topology in smf1: LangCountKafka-6653371597668071979	Streaming Compute
+(New) Topology in smf1: TestTopology_1-8312093126975406001	Streaming Compute
+(New) Topology in smf1: TestTopology_1-2076950849466748183	Streaming Compute
+(New) Topology in smf1: LangCountKafka-5348250311837814456	Streaming Compute
+(New) Topology in smf1: LangCountKafka-2217247108737147483	Streaming Compute
+Contact Daemon	User Services - Engineering
+Macaw-Swift (Canary Dark Reads)	Platform Services
+(New) Topology in smf1: TestTopology_1-6066955546058481990	Streaming Compute
+Macaw-Swift (Canary Dark Reads, atla)	Platform Services
+(New) Topology in smf1: TestTopology_4-601731874144114267	Streaming Compute
+Macaw-Swift (Canary Dark Reads, smf1)	Platform Services
+Image Fetcher Service (Prod)	Media Services
+Image Fetcher Service (Prod)	Media Services
+DMBird Canary Comparison	Data Services
+Manhattan - role:manhattan.prod.starbuck	Manhattan/Cassandra
+Manhattan - role:manhattan.prod.starbuck dataset	Manhattan/Cassandra
+Manhattan - role:manhattan.prod.starbuck appid	Manhattan/Cassandra
+Manhattan - role:manhattan.prod.starbuck	Manhattan/Cassandra
+Manhattan - role:manhattan.prod.starbuck dataset	Manhattan/Cassandra
+Manhattan - role:manhattan.prod.starbuck appid	Manhattan/Cassandra
+(New) Topology in smf1: TestTopology_1-3856771785892593837	Streaming Compute
+(New) Topology in smf1: TestTopology_1-1808004775091358691	Streaming Compute
+(New) Topology in smf1: TestTopology_1-5380951009417860569	Streaming Compute
+(New) Topology in smf1: hli_strom_intro	Streaming Compute
+(New) Topology in smf1: TestTopology_1-2723131807305504221	Streaming Compute
+(New) Topology in smf1: TestTopology_3-6942205753092100138	Streaming Compute
+TCC-1699	TCC
+TweetDeck OAuth (canary)	TweetDeck
+test	TV + Video
+DMBird Canary Comparison	Data Services
+Neteng Nagios Log Telemetry	Network Engineering
+Adshard: Aggregated by Zone	Revenue Eng & Product
+Adshard: Unaggregated	Revenue Eng & Product
+Adshard canary	Revenue Eng & Product
+Adshard: AB Comparison	Revenue Eng & Product
+Adshard: AB Comparison Aggregated	Revenue Eng & Product
+(New) Topology in smf1: TestTopology_1-2267410812605102586	Streaming Compute
+(New) Topology in smf1: summingbird_GrokFanoutJob_mwenzel	Streaming Compute
+(New) Topology in smf1: TestTopology_1-9124305409049005114	Streaming Compute
+(New) Topology in smf1: TestTopology_3-1549059522637980106	Streaming Compute
+(New) Topology in smf1: TestTopology_1-4929949481674468013	Streaming Compute
+(New) Topology in smf1: TestTopology_3-4787942253294400939	Streaming Compute
+(New) Topology in smf1: TestTopology_3-109725085048088642	Streaming Compute
+(New) Topology in smf1: TestTopology_3-207216275609174826	Streaming Compute
+(New) Topology in smf1: TestTopology_1-2306194775146043614	Streaming Compute
+Twemcache::Selfserv::smf1::test::twemcache_xinxiangtest	Cache
+Twemcache::Selfserv::smf1::test::twemcache_user_advertiser_counter	Cache
+Twemcache::Selfserv::smf1::test::twemcache_xji_test	Cache
+Twemcache::Selfserv::smf1::test::twemcache_taxi_test_omid_new	Cache
+Twemcache::Selfserv::smf1::test::twemcache_taxi_fixed_domain_test_omid	Cache
+Twemcache::Selfserv::smf1::test::twemcache_taxi_test_jack	Cache
+Twemcache::Selfserv::smf1::test::twemcache_discovery_works	Cache
+Twemcache::Selfserv::smf1::test::twemcache_taxi_test_omid_new4	Cache
+Twemcache::Selfserv::smf1::test::twemcache_taxi_test_omid_new3	Cache
+Twemcache::Selfserv::smf1::test::twemcache_taxi_fixed_domain_test_jack	Cache
+Twemcache::Selfserv::smf1::test::twemcache_reflex	Cache
+Twemcache::Selfserv::smf1::test::twemcache_reflex_notifications	Cache
+Twemcache::Selfserv::smf1::test::twemcache_kujaku	Cache
+Twemcache::Selfserv::smf1::test::twemcache_tweetevents_odysseus	Cache
+Twemcache::Selfserv::smf1::test::twemcache_tanin_socialhose	Cache
+Twemcache::Selfserv::smf1::test::twemcache_nbelmonte	Cache
+Twemcache::Selfserv::smf1::test::twemcache_xx_summing	Cache
+Twemcache::Selfserv::smf1::test::twemcache_gizmoduck_loadtest	Cache
+Twemcache::Selfserv::smf1::test::twemcache_pkhanduri1	Cache
+Twemcache::Selfserv::smf1::test::twemcache_gizmoduck_staging	Cache
+Twemcache::Selfserv::smf1::test::twemcache_zazu_summingbird	Cache
+Twemcache::Selfserv::smf1::test::twemcache_flamingo_david	Cache
+Twemcache::Selfserv::smf1::test::twemcache_list_topic_counts	Cache
+Twemcache::Selfserv::smf1::test::twemcache_dong	Cache
+Twemcache::Selfserv::smf1::test::twemcache_justin_experiment	Cache
+Twemcache::Selfserv::smf1::test::twemcache_ptr_engagement	Cache
+Twemcache::Selfserv::smf1::test::twemcache_zzhou	Cache
+Twemcache::Selfserv::smf1::test::twemcache_bigbird	Cache
+Twemcache::Selfserv::smf1::test::twemcache_userfeature	Cache
+Twemcache::Selfserv::smf1::test::twemcache_sholiday_stitch	Cache
+Twemcache::Selfserv::smf1::test::twemcache_summingbird_examples	Cache
+Twemcache::Selfserv::smf1::test::twemcache_top_words	Cache
+Twemcache::Selfserv::smf1::test::twemcache_insightservice	Cache
+Twemcache::Selfserv::smf1::test::twemcache_jackson	Cache
+Twemcache::Selfserv::smf1::test::twemcache_hyungoo_test	Cache
+Twemcache::Selfserv::smf1::test::twemcache_anirudh_test	Cache
+Twemcache::Selfserv::smf1::test::twemcache_anirudh_test2	Cache
+Twemcache::Selfserv::smf1::test::twemcache_partner_support_staging	Cache
+Twemcache::Selfserv::smf1::test::twemcache_cat_staging_muffy	Cache
+Twemcache::Selfserv::smf1::test::twemcache_contact_daemon_staging	Cache
+Twemcache::Selfserv::smf1::test::twemcache_ddg	Cache
+Twemcache::Selfserv::smf1::test::twemcache_cuckoo_async_test	Cache
+Twemcache::Selfserv::smf1::test::twemcache_rendering_time_filtering	Cache
+Twemcache::Selfserv::smf1::test::twemcache_tls_unread_counts	Cache
+Twemcache::Selfserv::smf1::test::twemcache_flamingo	Cache
+Twemcache::Selfserv::smf1::test::twemcache_skulkarniexpt	Cache
+Twemcache::Selfserv::smf1::test::twemcache_zazu_flamingo_new	Cache
+Twemcache::Selfserv::smf1::test::twemcache_geo_staging	Cache
+Twemcache::Selfserv::smf1::test::twemcache_cardvalidator	Cache
+Twemcache::Selfserv::smf1::test::twemcache_glassbird_alpha	Cache
+Twemcache::Selfserv::smf1::test::twemcache_client_event_counter	Cache
+Twemcache::Selfserv::smf1::test::twemcache_svemuri_test	Cache
+Twemcache::Selfserv::smf1::test::twemcache_expandodo_staging	Cache
+Twemcache::Selfserv::smf1::test::twemcache_exxtra_test	Cache
+Twemcache::Selfserv::smf1::test::twemcache_roastduck_staging	Cache
+Twemcache::Selfserv::smf1::test::twemcache_roastduck_devel	Cache
+Twemcache::Selfserv::smf1::test::twemcache_peacock_eggubator	Cache
+Twemcache::Selfserv::smf1::test::twemcache_lark_test	Cache
+Twemcache::Selfserv::atla::test::twemcache_ptr_engagement	Cache
+Twemcache::Selfserv::atla::test::twemcache_zzhou	Cache
+Twemcache::Selfserv::atla::test::twemcache_sholiday_stitch	Cache
+Twemcache::Selfserv::atla::test::twemcache_bigbird	Cache
+Twemcache::Selfserv::atla::test::twemcache_flamingo_mfu	Cache
+Twemcache::Selfserv::atla::test::twemcache_top_words	Cache
+Twemcache::Selfserv::atla::test::twemcache_mfu_storm_test	Cache
+Twemcache::Selfserv::atla::test::twemcache_mfu_test	Cache
+Twemcache::Selfserv::atla::test::twemcache_userfeature	Cache
+Twemcache::Selfserv::atla::test::twemcache_nbelmonte	Cache
+Twemcache::Selfserv::atla::test::twemcache_tls_unread_counts	Cache
+Twemcache::Selfserv::atla::test::twemcache_tweetypie_staging_misc	Cache
+Twemcache::Selfserv::atla::test::twemcache_tweetypie_staging_main	Cache
+Twemcache::Selfserv::atla::test::twemcache_taxi_test_omid_new1	Cache
+Twemcache::Selfserv::atla::test::twemcache_taxi_test_omid_new4	Cache
+Twemcache::Selfserv::atla::test::twemcache_taxi_test_omid_new3	Cache
+Twemcache::Selfserv::atla::test::twemcache_taxi_fixed_domain_test_omid	Cache
+Twemcache::Selfserv::atla::test::twemcache_taxi_fixed_domain_test_jack	Cache
+Twemcache::Selfserv::atla::test::twemcache_kujaku	Cache
+Twemcache::Selfserv::atla::test::twemcache_client_event_counter	Cache
+Twemcache::Selfserv::atla::test::twemcache_jackson	Cache
+Twemcache::Selfserv::atla::test::twemcache_hyungoo_test	Cache
+Twemcache::Selfserv::atla::test::twemcache_xinxiangtest	Cache
+Twemcache::Selfserv::atla::test::twemcache_insightservice	Cache
+Twemcache::Selfserv::atla::test::twemcache_ddg	Cache
+Twemcache::Selfserv::atla::test::twemcache_roastduck_yhuang	Cache
+Twemcache::Selfserv::atla::test::twemcache_roastduck_devel	Cache
+Twemcache::Selfserv::atla::test::twemcache_roastduck_staging	Cache
+Twemcache::Selfserv::atla::test::twemcache_gizmoduck_loadtest	Cache
+Twemcache::Selfserv::atla::test::twemcache_pkhanduri1	Cache
+Twemcache::Selfserv::atla::test::twemcache_pkhanduri	Cache
+Twemcache::Selfserv::atla::test::twemcache_gizmoduck_staging	Cache
+Twemcache::Selfserv::atla::test::twemcache_list_topic_counts	Cache
+Twemcache::Selfserv::atla::test::twemcache_dong	Cache
+Twemcache::Selfserv::atla::test::twemcache_geo_staging	Cache
+Twemcache::Selfserv::atla::test::twemcache_peacock_eggubator	Cache
+Twemcache::Selfserv::atla::test::twemcache_rendering_time_filtering	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_zazu_summingbird	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_zazu_david_prod	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_api_admin	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_card_definition	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_contact_daemon	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_insightservice	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_exxtra_test	Cache
+Twemcache::Selfserv::atla::prod::twemcache_card_definition	Cache
+Twemcache::Selfserv::atla::prod::twemcache_insightservice	Cache
+Woodstar (Pre-Production)	API Core
+MS Unfollow Exceptions	Web
+(New) Topology in smf1: david_logEventBus	Streaming Compute
+(New) Topology in smf1: summingbird_statuses-example-atodi	Streaming Compute
+(New) Topology in smf1: david_sample_EventBus	Streaming Compute
+woodstar-candidate	API Core
+(New) Topology in smf1: summingbird_statuses-example-achen	Streaming Compute
+(New) Topology in smf1: TestTopology_2-8640182140754140065	Streaming Compute
+(New) Topology in smf1: TestTopology_1-4216864494866530611	Streaming Compute
+woodstar-candidate	API Core
+(New) Topology in smf1: TestTopology_1-2129101144886243535	Streaming Compute
+(New) Topology in smf1: TestTopology_2-5305374768529804588	Streaming Compute
+Cuckoo::prod::Async	Runtime Systems
+Cuckoo::prod::Async	Runtime Systems
+Cuckoo::devel::Async	Runtime Systems
+(New) Topology in smf1: TestTopology_2-8911561486886898657	Streaming Compute
+(New) Topology in smf1: TestTopology_2-71374076893318738	Streaming Compute
+(New) Topology in smf1: TestTopology_2-4322976664507647701	Streaming Compute
+(New) Topology in smf1: summingbird_statuses-example-ioconnell	Streaming Compute
+(New) Topology in smf1: TestTopology_1-4040166798999347201	Streaming Compute
+EventParrot 1428/more_news experiment	Content Knowledge
+IM-947	TCC
+IM-948	TCC
+(New) Topology in atla: summingbird_EngagementCountAggregatorSpend	Streaming Compute
+Tsar Query Service - CardsInsights Devel	platform-analytics
+App Companion Prod	App Companion
+Turn up unread counts	Core Svcs - Timelines
+(New) Topology in smf1: TestTopology_1-1751919173896522546	Streaming Compute
+Year in Review Blast	Eng - Activation & Messaging
+(New) Topology in smf1: TestTopology_1-6323671026276694888	Streaming Compute
+(New) Topology in smf1: TestTopology_2-6327788697703028919	Streaming Compute
+Twemcache::atla::grailbird	Cache
+(New) Topology in smf1: summingbird_ioconnell_summingbird_birdcage_test	Streaming Compute
+(New) Topology in smf1: TestTopology_2-2649160032142883572	Streaming Compute
+woodstar static test	API Core
+Woodstar Static	API Core
+Nighthawk Revenue API:: Get (smf1)	Cache
+TSA UserSiteStream Test	Platform Services
+TSA UserSiteStream Extended	Platform Services
+LogLens	Messaging
+(New) Topology in smf1: TestTopology_1-1528831540439776512	Streaming Compute
+Syndication	Platform Services
+Hosebird Partnerstream 3 (atla)	Platform Services
+Impression by Tweet Query Devel Atla	platform-intelligence
+Impression by Tweet Query Prod Smf1	platform-intelligence
+Impression by Tweet Query Prod Atla	platform-intelligence
+TBird-atla-FlexSchema	Data Services
+GizmoduckExporter-gizmoduck-Prod	Gizmoduck
+Hadoop - MANHATTAN SMF1 cluster overview	hadoop-team
+(New) Topology in smf1: contact-daemon-topology-staging	Streaming Compute
+Timeline Search Root - atla	Search
+Flock canary JVM	data services
+(New) Topology in smf1: TestTopology_2-8251203609474206046	Streaming Compute
+Twemcache::Selfserv::smf1::twemcache_anirudh_test_prod	Cache
+Twemcache::Selfserv::atla::twemcache_anirudh_test_prod	Cache
+Admixer: Unaggregated	Revenue Eng & Product
+Admixer canary	Revenue Eng & Product
+Admixer: AB Comparison	Revenue Eng & Product
+Admixer: AB Comparison Aggregated	Revenue Eng & Product
+RB-DS	data services
+RB-T	data services
+(New) Topology in smf1: KestrelTopology_test	Streaming Compute
+(New) Topology in smf1: KestrelTopology_test_back	Streaming Compute
+IM-953	TCC
+IM-957	TCC
+(New) Topology in smf1: summingbird_ptr_engagement	Streaming Compute
+TFlock canary JVM	data services
+TBird canary JVM	data services
+DMBird canary JVM	data services
+Darkwing canary JVM	data services
+Darkwing reservation canary JVM	data services
+Expandodo Server (Canary - ATLA)	Cards
+Internal TFE	Platform Services
+macaw-bucks	macaw-bucks-team
+Amplify Core Production	TV + Video
+Amplify Publisher Prod	TV + Video
+Twemcache::Selfserv::smf1::twemcache_storm_reliability_metric	Cache
+Twemcache::Selfserv::atla::twemcache_storm_reliability_metric	Cache
+IM-958	TCC
+(New) Topology in smf1: storm-reliability	Streaming Compute
+Invitebird smf1 prod	growth-team
+Invitebird atla prod	growth-team
+Invitebird smf1 staging	growth-team
+Invitebird smf1 canary	growth-team
+Ibis Event Parrot Dashboard	Platform Services
+Twemcache::Selfserv::smf1::test::twemcache_anirudh_exp	Cache
+Twemcache::Selfserv::smf1::prod::twemcache_anirudh_prod_exp	Cache
+Twemcache::Selfserv::atla::prod::twemcache_anirudh_prod_exp	Cache
+Twemcache::Selfserv::smf1::test::twemcache_anirudh_exp2	Cache
+Twemcache::Selfserv::atla::test::twemcache_anirudh_exp2	Cache
+Twemcache::Selfserv::smf1::test::twemcache_anirudh_exp3	Cache
+Twemcache::Selfserv::atla::test::twemcache_anirudh_exp3	Cache
+Twemcache::Selfserv::smf1::test::twemcache_testing_123	Cache
+Twemcache::Selfserv::atla::test::twemcache_testing_123	Cache
+Nighthawk Revenue API:: Get (atla)	Cache
+IM-959	TCC
+Impression by Tweet Query Devel Smf1	platform-intelligence
